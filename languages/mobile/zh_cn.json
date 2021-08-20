@@ -1,0 +1,17 @@
+{
+    "advice.click_to_continue": "触摸以继续",
+    "advice.collect_money.0": "触摸收集宝石！",
+    "advice.starshard_tutorial.0": "触摸星之碎片槽选中星之碎片！",
+    "advice.starshard_tutorial.1": "触摸发射器！",
+    "advice.starshard_tutorial.4": "触摸收集星之碎片！",
+    "advice.trigger_tutorial.0": "触摸并放置TNT！",
+    "advice.trigger_tutorial.1": "触摸机械能面板选中触发器！",
+    "advice.trigger_tutorial.2": "触摸以触发TNT！",
+    "advice.trigger_tutorial.5": "触摸TNT蓝图！",
+    "advice.tutorial.0": "触摸器械卡牌选中器械！",
+    "advice.tutorial.1": "触摸草坪放置器械！",
+    "advice.tutorial.3": "触摸红石收集机械能！",
+    "ui.vibration": "震动",
+    "ui.map_tips": "双指触摸以移动视图和缩放视图",
+    "ui.start_game": "触摸以开始！"
+}

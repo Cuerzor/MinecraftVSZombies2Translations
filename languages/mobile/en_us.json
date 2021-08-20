@@ -1,0 +1,17 @@
+{
+    "advice.click_to_continue": "Touch to continue",
+    "advice.collect_money.0": "Touch to collect the gem!",
+    "advice.starshard_tutorial.0": "Touch the Star Shard to select it!",
+    "advice.starshard_tutorial.1": "Touch the Dispenser!",
+    "advice.starshard_tutorial.4": "Touch to collect Star Shards!",
+    "advice.trigger_tutorial.0": "Touch and place TNT!",
+    "advice.trigger_tutorial.1": "Touch the ME Panel to select Trigger!",
+    "advice.trigger_tutorial.2": "Touch to trigger TNT!",
+    "advice.trigger_tutorial.5": "Touch the TNT Blueprint!",
+    "advice.tutorial.0": "Touch a blueprint to choose a contraption!",
+    "advice.tutorial.1": "Touch the lawn to place a contraption!",
+    "advice.tutorial.3": "Touch redstone to collect energy!",
+    "ui.vibration": "Vibration",
+    "ui.map_tips": "Double touch to move and scale the view",
+    "ui.start_game": "Touch to start!"
+}

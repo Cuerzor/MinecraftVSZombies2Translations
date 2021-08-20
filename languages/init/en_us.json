@@ -1,0 +1,10 @@
+{
+    "error.duplicate_references": "<color=red>Error:</color>\nDuplicate object reference found!\nPlease send your log files to the creator.",
+    "error.missing_text": "<color=red>Error:Unknown Text</color>",
+    "error.user_data.corrupted": "<color=red>Error:</color>\nFailed to load user data file.\nUser data is probably corruputed.",
+    "error.user_data.sharing_violation": "<color=red>Error:</color>\nFailed to open user data file.\nPlease ensure there are no other applications using these files, then restart the game.",
+    "ui.loading": "Loading...",
+    "ui.select_your_preferred_language": "Select your preferred language",
+    "ui.start_game": "Click to start!",
+    "levelname.test": "Test Level"
+}

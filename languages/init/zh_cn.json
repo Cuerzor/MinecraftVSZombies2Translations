@@ -1,0 +1,10 @@
+{
+    "error.duplicate_references": "<color=red>错误：</color>\n发现了重复的物体引用！\n请将你的日志文件发送给作者。",
+    "error.missing_text": "<color=red>错误：未知文本</color>",
+    "error.user_data.corrupted": "<color=red>错误：</color>\n加载用户存档文件失败。\n用户存档可能已损坏。",
+    "error.user_data.sharing_violation": "<color=red>错误：</color>\n打开用户存档文件失败。\n请确认没有其他正在使用该文件的应用程序，然后重新启动游戏。",
+    "ui.loading": "加载中……",
+    "ui.select_your_preferred_language": "选择您的偏好语言",
+    "ui.start_game": "点击以开始！",
+    "levelname.test": "测试关"
+}
