@@ -3,7 +3,7 @@
   "achievement.double_trouble.description": "Push an enemy using a Punchton to the front of another Punchton.",
   "achievement.double_trouble.name": "Double Trouble",
   "achievement.earned": "Unlocked!",
-  "achievement.ghost_buster.description": "Defeat a ghost without illuminating it for any time.",
+  "achievement.ghost_buster.description": "Defeat a ghost without illuminating it at all.", //
   "achievement.ghost_buster.name": "Ghost Buster",
   "achievement.return_to_sender.description": "Defeat a ghast using a fire charge.",
   "achievement.return_to_sender.name": "Return to Sender",
@@ -22,7 +22,7 @@
   "advice.random_china.obsidian_prisons": "Obsidian Prisons",
   "advice.random_china.redstone_ready": "Redstone Ready",
   "advice.random_china.tower": "The Tower - XVI",
-  "advice.starshard_tutorial.0": "Left-click the Starshard to select it!",
+  "advice.starshard_tutorial.0": "Click the Starshard to select it!", // the og chi text does specify left-click but I don't think it's necessary
   "advice.starshard_tutorial.1": "Click the Dispenser!",
   "advice.starshard_tutorial.2": "Well done!",
   "advice.starshard_tutorial.3": "Green enemies carry Starshards!",
@@ -30,16 +30,16 @@
   "advice.starshard_tutorial.5": "Now defeat the Iron Helmet Zombie!",
   "advice.trigger_tutorial.0": "Click and place TNT!",
   "advice.trigger_tutorial.1": "Click the ME Panel to select Trigger!",
-  "advice.trigger_tutorial.10": "Have a nice day!",
-  "advice.trigger_tutorial.2": "Click to trigger TNT!",
+  "advice.trigger_tutorial.10": "Good luck!", //
+  "advice.trigger_tutorial.2": "Click to trigger the TNT!", //
   "advice.trigger_tutorial.3": "Nicely done!",
   "advice.trigger_tutorial.4": "Select the Trigger!",
   "advice.trigger_tutorial.5": "Click the TNT Blueprint!",
   "advice.trigger_tutorial.6": "Place TNT, then it will be instantly triggered!",
   "advice.trigger_tutorial.7": "Good job!",
-  "advice.trigger_tutorial.8": "Instant triggering can only be used on consumable contraptions.",
+  "advice.trigger_tutorial.8": "Instant triggering can only be used on one-time-use contraptions.", //
   "advice.trigger_tutorial.9": "If you want to swap these 2 actions, you can change it in Settings.",
-  "advice.tutorial.0": "Left-click a blueprint to choose a contraption!",
+  "advice.tutorial.0": "Click a blueprint to choose a contraption!", // you only use left-click in the game really
   "advice.tutorial.1": "Click the lawn to place a contraption!",
   "advice.tutorial.10": "Place at least three Furnaces!",
   "advice.tutorial.11": "Block the zombie with Obsidian!",
@@ -68,20 +68,20 @@
   "archive.after_tutorial": "After Tutorial",
   "archive.background": "Background",
   "archive.doremy_appears": "(Doremy appears)",
-  "archive.doremy_faint": "(Doremy Faints)",
+  "archive.doremy_faint": "(Doremy faints)", //
   "archive.doremy_open_eyes": "(Doremy opens her blind eyes)",
-  "archive.doremy_suffering": "(Doremy holds her head in her hands in agony)",
+  "archive.doremy_suffering": "(Doremy holds her head with her hands in agony)", //
   "archive.filter": "Filter",
-  "archive.goto_dream": "(Steve and Villager went to Dream world.)",
+  "archive.goto_dream": "(Steve and Villager went to Dream World.)", //
   "archive.have_enough_money_question": "Have enough money to buy this?",
-  "archive.money_insufficent": "If you have not enough money",
-  "archive.money_sufficent": "If you have enough money",
+  "archive.money_insufficent": "If have not enough money", //
+  "archive.money_sufficent": "If have enough money", //
   "archive.music": "Music",
-  "archive.nightmare_show": "(nightmare world shows itself)",
+  "archive.nightmare_show": "(Nightmare World reveals itself)", //
   "archive.orant_appears": "(Orant appears)",
   "archive.plot_branch": "Plot Branch",
-  "archive.refuse_deal": "If refused",
-  "archive.replay_end": "Replay End",
+  "archive.refuse_deal": "If refuse", //
+  "archive.replay_end": "Replay Ended", //
   "archive.replay_question": "Play again?",
   "archive.search": "Search",
   "archive.section_name": "Section {NUM}",
@@ -95,337 +95,337 @@
   "archive.tag.prologue": "Prologue",
   "archive.tags": "Tags",
   "archive.take_tutorial": "If yes",
-  "blueprint.add_pearl.name": "Add Pearl",
+  "blueprint.add_pearl.name": "Add Ball", //
   "blueprint.lengthen_board.name": "Lengthen Board",
-  "blueprint.return_pearl.name": "Return Pearl",
+  "blueprint.return_pearl.name": "Return Ball", //
   "char.colon": ": ",
   "char.comma": ", ",
   "char.seperator": "/",
-  "character.crazy_villager.description": "Steve's caregiver since he was young, suddenly went crazy a few years ago and couldn't be understood.\nOften discussed with Steve about Gensokyo, and finally embarked on the journey today.",
-  "character.crazy_villager.description_header": "A crazy villager wearing a white outfit who lives together with Steve. His name is Ahmed Dave.",
+  "character.crazy_villager.description": "Steve's caregiver since he was young, suddenly went crazy a few years ago and couldn't be understood by most.\nOften discussed with Steve about Gensokyo, and finally embarked on the journey today.", //
+  "character.crazy_villager.description_header": "A crazy villager in a white outfit who lives together with Steve. His name is Ahmed Dave.", //
   "character.crazy_villager.name": "Villager",
-  "character.doremy.description": "Tapir Youkai which administrating this dream world, can observe, change or consume others' dreams.\nWas shocked by Steve and Villager with physical bodies, but seems she's seen some interesting dreams from Steve.",
-  "character.doremy.description_header": "Doremy Sweet is the administrator of dream world, and managing everyone's dreams.",
+  "character.doremy.description": "Tapir Youkai who administers the Dream World, has the ability to observe, change and consume others' dreams.\nWas shocked by Steve and Villager who arrived in their physical bodies, but it seems that she's seen some interesting dreams of Steve.", //
+  "character.doremy.description_header": "Doremy Sweet is the administrator of Dream World, and manages everyone's dreams.", //
   "character.doremy.name": "Doremy",
-  "character.orant.description": "She doesn't want you to know things about her - she has always been introversive.\nJust keep in mind that she is a friend of souls and fear.",
-  "character.orant.description_header": "Orant is a soul sorceress, can control fear and souls.",
+  "character.orant.description": "She doesn't want you to know things about her - she has always been introversive.\nJust know that she is always company with souls and fear.", //
+  "character.orant.description_header": "Orant is a soul sorceress, and can manipulate fear and souls.", //
   "character.orant.name": "Orant",
   "character.steve.name": "Steve",
   "chat.dream.1.0.0": "Welcome to the Dream World!",
   "chat.dream.1.0.1": "This is Doremy's territory. Be careful not to meet that tapir!",
-  "chat.dream.1.0.2": "By the way, this is daylight, so some of your contraptions cannot be used!",
+  "chat.dream.1.0.2": "By the way, it is daytime here, so some of your contraptions cannot be used!", //
   "chat.dream.1.0.3": "For example, Small Dispensers, Moonlight Sensors, and even Soul Forges!",
   "chat.dream.1.0.4": "Also, there is a swimming pool! But don't think you can swim here! You can't put contraptions directly on the pool!",
   "chat.dream.1.0.5": "Well, good luck, my neighbor!",
   "chat.dream.1.name": "Dream World Day 1 Intro",
-  "chat.dream.2.0.0": "So...You came here using a key, and going to Gensokyo, right?",
-  "chat.dream.2.0.1": "I can let you pass, however there's some difficulties now.",
+  "chat.dream.2.0.0": "So...You arrived here using a key, and want to enter Gensokyo, right?", //
+  "chat.dream.2.0.1": "I could let you pass, however there are some difficulties now.", //
   "chat.dream.2.0.2": "What difficulties?",
-  "chat.dream.2.0.3": "Dream world is invaded by some blocky bugs, and that causes the environment is not very stable.",
-  "chat.dream.2.0.4": "if we clear these bugs, maybe you can successfully go there.",
-  "chat.dream.2.0.5": "Debugging right? We just have a programmer! Go neighbor!",
+  "chat.dream.2.0.3": "Dream World has been invaded by some blocky bugs, and that causes the environment to be not very stable.", //
+  "chat.dream.2.0.4": "If we clear these bugs, you should be able to get there without trouble.", //
+  "chat.dream.2.0.5": "Debugging right? We do have a programmer! Go neighbor!", //
   "chat.dream.2.name": "Dream World Day 2 Intro",
-  "chat.dream.3.0.0": "Did you noticed? Sometimes, the sky suddenly turns to dark! Though it's only for a while.",
-  "chat.dream.3.0.1": "True, what's wrong with it?",
-  "chat.dream.3.0.2": "However, even the deepest darkness cannot stand on our way if we have lights!",
-  "chat.dream.3.0.3": "Try to carry some glowing contraptions!...If necessary.",
+  "chat.dream.3.0.0": "Did you notice? Sometimes, the sky suddenly turns dark! Though it's only for a while.", //
+  "chat.dream.3.0.1": "True, why did that happen?", //
+  "chat.dream.3.0.2": "But, even the deepest darkness cannot interfere our ways, if we have lights!", //
+  "chat.dream.3.0.3": "Try to carry some glowing contraptions!... If necessary.", //
   "chat.dream.3.name": "Dream World Day 3 Intro",
-  "chat.dream.6.0.0": "Ever tried playing breakout in a dream?",
-  "chat.dream.6.0.1": "It's just like dreamin'.",
-  "chat.dream.6.0.2": "But instead of hitting bricks, it's zombies!",
-  "chat.dream.6.0.3": "And instead of balls of steel, it's Occlut Balls!",
+  "chat.dream.6.0.0": "Ever tried playing Breakout in a dream?", //
+  "chat.dream.6.0.1": "It does sound like a dream!", //
+  "chat.dream.6.0.2": "But instead of hitting bricks, you're hitting zombies!", //
+  "chat.dream.6.0.3": "And instead of steel balls, it's Occlut Balls!", //
   "chat.dream.6.0.4": "And instead of ME, it's YOU!",
   "chat.dream.6.name": "Dream World Day 6 Intro",
-  "chat.dream.7.0.0": "Doremy is fine, She's just fainted.",
-  "chat.dream.7.0.1": "However, she seems to be under a curse...I am still finding more informations about the curse.",
-  "chat.dream.7.0.2": "Besides, there's something slowly taking her life away, the situation is not optimistic.",
-  "chat.dream.7.0.3": "Anyway, ask her when she wakes up!",
+  "chat.dream.7.0.0": "Doremy is fine, She just fainted.", //
+  "chat.dream.7.0.1": "However, she seems to be under a curse... I am still looking into it.", //
+  "chat.dream.7.0.2": "Besides, there seems to be something slowly taking her life away, the situation is not looking good.", //
+  "chat.dream.7.0.3": "Anyway, we'll ask her when she wakes up!", //
   "chat.dream.7.name": "Dream World Day 7 Intro",
-  "chat.dream.8.0.0": "cough...cough...",
-  "chat.dream.8.0.1": "...I...can't breath...",
+  "chat.dream.8.0.0": "Huff... Cough...", //
+  "chat.dream.8.0.1": "... I... can't breath...", //
   "chat.dream.8.0.2": "! Something is draining Doremy's life!!",
-  "chat.dream.8.0.3": "It's...nightmare...It cursed me...",
-  "chat.dream.8.0.4": "I will soon...lose any life...",
+  "chat.dream.8.0.3": "It's... Nightmare... It put a curse on me...", //
+  "chat.dream.8.0.4": "Soon, I will... lose all life that's left...", //
   "chat.dream.8.0.5": "And...",
-  "chat.dream.8.0.6": "No! How could this happen!",
-  "chat.dream.8.0.7": "We...Can we really watch this happen...?",
+  "chat.dream.8.0.6": "No! That can't happen!", //
+  "chat.dream.8.0.7": "We... Can't we do anything about it...?", //
   "chat.dream.8.name": "Dream World Day 8 Intro",
   "chat.dream.9.0.0": "I've done my best to lure that demon to us. Be careful.",
   "chat.dream.9.0.1": "I know. Let's just get this over with. ",
-  "chat.dream.9.0.2": "<color=blue>(...I said to defeat that nightmare, but I have little confidence in my heart.)</color>",
-  "chat.dream.9.0.3": "<color=blue>(but for Miss Doremy, I have to do the same...)</color>",
-  "chat.dream.9.0.4": "This is all I can do. Don't put your life in danger, ok?",
+  "chat.dream.9.0.2": "<color=blue>(...I said I will defeat that Nightmare, but I have little confidence in myself.)</color>", //
+  "chat.dream.9.0.3": "<color=blue>(but for Miss Doremy, I just have to do it...)</color>", //
+  "chat.dream.9.0.4": "I have done all I can. Don't put your life in danger, ok?", //
   "chat.dream.9.0.5": "Wait, what's that white spider over there?",
   "chat.dream.9.name": "Dream World Day 9 Intro",
-  "chat.dream.11.0.0": "Ok, It's incoming.",
+  "chat.dream.11.0.0": "Okay, it will be here soon.", //
   "chat.dream.11.0.1": "Check your weapons again.",
-  "chat.dream.11.0.2": "I don't know what Nightmare is, and don't know what it can do. But I know, you must keep clearheaded.",
+  "chat.dream.11.0.2": "I don't know what Nightmare is, nor what it can do. But I do know, that you must stay clear-headed.", //
   "chat.dream.11.0.3": "We must finish the battle as soon as possible. Our time is running out.",
   "chat.dream.11.0.4": "Good luck.",
   "chat.dream.11.name": "Dream World Day 11 Intro",
-  "chat.dream_map.1.0.0": "I have to say, why did another physical body guy enter the dream world... Also there's a blocky big nosed guy.",
-  "chat.dream_map.1.0.1": "She's certainly not talking about me!",
-  "chat.dream_map.1.0.2": "And how did you get here with physical bodies, you want to go to the Lunar Capital too?",
-  "chat.dream_map.1.0.3": "Lunar Capital? No, but the reality of Gensokyo!",
+  "chat.dream_map.1.0.0": "Can I just say, why has another person entered the Dream World with a physical body... Also there's a blocky big nosed weirdo.", //
+  "chat.dream_map.1.0.1": "She's certainly not referring to me!", //
+  "chat.dream_map.1.0.2": "How did you get here with physical bodies, are you going to the Lunar Capital too?", //
+  "chat.dream_map.1.0.3": "Lunar Capital? No, we're heading for the reality of Gensokyo!", //
   "chat.dream_map.1.0.4": "The reality of Gensokyo?",
-  "chat.dream_map.1.0.5": "See, there are lots of monsters like zombies in your dream world isn't it?",
-  "chat.dream_map.1.0.6": "Ah, that's true...But what's of your business?",
-  "chat.dream_map.1.0.7": "We came here for clearing these monsters!",
-  "chat.dream_map.1.0.8": "You...Clearing these blocky monsters?",
-  "chat.dream_map.1.0.9": "Here, neighbor. Proof yourself to her!",
+  "chat.dream_map.1.0.5": "You see, aren't there lots of monsters like zombies in your Dream World?", //
+  "chat.dream_map.1.0.6": "Ah, that's true... But how's that your business?", //
+  "chat.dream_map.1.0.7": "We came here to clear these monsters!", //
+  "chat.dream_map.1.0.8": "You... are going to clear all these blocky monsters?", //
+  "chat.dream_map.1.0.9": "Let's go, neighbor. Prove it to her!", //
   "chat.dream_map.1.name": "Dream World Day 1 Map",
-  "chat.dream_map.2.0.0": "Seems you are great at this, can clear those spiders by such a fast speed.",
-  "chat.dream_map.2.0.1": "Well, looks like I haven't introduced myself.",
-  "chat.dream_map.2.0.10": "<color=blue>(Who is dumb!)</color>",
+  "chat.dream_map.2.0.0": "Seems that you are great at this, clearing those spiders so efficiently.", //
+  "chat.dream_map.2.0.1": "Oh, I think I haven't introduced myself.", //
+  "chat.dream_map.2.0.10": "<color=blue>(You're dumb!)</color>", //
   "chat.dream_map.2.0.11": "Steve, and Villager, right? We welcome you.",
-  "chat.dream_map.2.0.2": "I'm Doremy Sweet, the administrator of this dream world...But looks like you already knows both that and things about Gensokyo.",
-  "chat.dream_map.2.0.3": "Sure! We came for there from the beginning!",
-  "chat.dream_map.2.0.4": "Oh, My name's Villager, Just call me Crazy Villager! This is my neighbor, called...",
+  "chat.dream_map.2.0.2": "I am Doremy Sweet, the administrator of this Dream World... But looks like you already knew both that and things about Gensokyo.", //
+  "chat.dream_map.2.0.3": "Of course! We came for Gensokyo from the get go!", //
+  "chat.dream_map.2.0.4": "Oh, my name's Villager, just call me Crazy Villager! This is my neighbor, called...", //
   "chat.dream_map.2.0.5": "Steve right? I have heard your name.",
-  "chat.dream_map.2.0.6": "You have appeared in dreams of someone in Gensokyo. The appearance in the dreams is the same as yours.",
-  "chat.dream_map.2.0.7": "Wow, you have a girlfriend in Gensokyo actually! Which Youkai?",
-  "chat.dream_map.2.0.8": "No! What made you think so?!",
+  "chat.dream_map.2.0.6": "You appeared in the dreams of someone in Gensokyo. That figure's appearance in the dreams is the same as yours.", //
+  "chat.dream_map.2.0.7": "Wow, you actually have a girlfriend in Gensokyo! Which youkai is it?", //
+  "chat.dream_map.2.0.8": "No I don't! Why would you think that?!", //
   "chat.dream_map.2.0.9": "Whoa, you speak! I thought you are dumb!",
   "chat.dream_map.2.name": "Dream World Day 2 Map",
-  "chat.dream_map.3.0.0": "Well, Doremy, what's the situation in the reality of Gensokyo?",
-  "chat.dream_map.3.0.1": "About the reality, maybe the situation was stablized.",
-  "chat.dream_map.3.0.2": "But, isn't these blocky monsters invading? Stable in this case?",
-  "chat.dream_map.3.0.3": "True, this is really a big incident, but everyone is used to this.",
-  "chat.dream_map.3.0.4": "About these blocky monsters, they are big threats for humans without combat ability, they don't have the ability to resist.",
-  "chat.dream_map.3.0.5": "But not necessarily for some powerful Youkais, preys are the poor blocky things.",
-  "chat.dream_map.3.0.6": "...So, We are not needed for help?",
-  "chat.dream_map.3.0.7": "No, they have a very great amount. The incident continued for 3 years, and their counts only increase.",
-  "chat.dream_map.3.0.8": "Looks like we must find some methods to eradicate them.",
+  "chat.dream_map.3.0.0": "Well, Doremy, what's going on in the reality of Gensokyo?", //
+  "chat.dream_map.3.0.1": "In the reality, the situation should have stablized by now.", //
+  "chat.dream_map.3.0.2": "But, aren't there blocky monsters invading? How can it be stable?", //
+  "chat.dream_map.3.0.3": "It is true that this is a large-scale incident, but everyone is already used to it.", //
+  "chat.dream_map.3.0.4": "Those blocky monsters are big threats for humans without combat ability, as they are not able to fight back.", //
+  "chat.dream_map.3.0.5": "But not necessarily for some powerful youkais, the poor blocky things are the prey instead.", //
+  "chat.dream_map.3.0.6": "...So, We don't really need to help?", //
+  "chat.dream_map.3.0.7": "No, there are too many of those monsters. The incident has went on for 3 years, and their numbers keep increasing.", //
+  "chat.dream_map.3.0.8": "Looks like we must find a method to eradicate them for good.", //
   "chat.dream_map.3.name": "Dream World Day 3 Map",
-  "chat.dream_map.4.0.0": "Hmm...Interesting.",
+  "chat.dream_map.4.0.0": "Hmm... Interesting.", //
   "chat.dream_map.4.0.1": "Doremy, what are you reading?",
   "chat.dream_map.4.0.10": "Grave?",
-  "chat.dream_map.4.0.11": "The grave besides that tree, it appears lots of times in your dreams.",
-  "chat.dream_map.4.0.12": "Really...? It seems to be true.",
-  "chat.dream_map.4.0.13": "I don't know much about the specific situation, but it must be something quite impressive.",
-  "chat.dream_map.4.0.14": "being impressive because of a dead person...I really want to sympathize with you.",
-  "chat.dream_map.4.0.15": "<color=blue>(...Strange, I'm not very clear that whose grave it is.)</color>",
+  "chat.dream_map.4.0.11": "The grave besides that tree, it appeared a lot of times in your dreams.", //
+  "chat.dream_map.4.0.12": "Really...? That does seem to be true.", //
+  "chat.dream_map.4.0.13": "I don't know much about the what happened, but it must have left a strong impression on you.", //
+  "chat.dream_map.4.0.14": "Having strong impression for someone dead... I'd sympathize with you.", //
+  "chat.dream_map.4.0.15": "<color=blue>(...Strange, I'm not sure whose grave it is.)</color>", //
   "chat.dream_map.4.0.16": "<color=blue>(What's the reality of it?)</color>",
   "chat.dream_map.4.0.2": "Ah, Steve. I'm observing your dreams.",
   "chat.dream_map.4.0.3": "Dreams?",
-  "chat.dream_map.4.0.4": "I can find the records of your dreams before.",
-  "chat.dream_map.4.0.5": "Are... Are you watching me crying for Dave to buy me mechanical toys when I was a child-",
-  "chat.dream_map.4.0.6": "No no no no no! Of course not this.",
-  "chat.dream_map.4.0.7": "Though you are cute in that age...",
-  "chat.dream_map.4.0.8": "<color=blue>(woo...! I wanna die...)</color>",
-  "chat.dream_map.4.0.9": "What I care about is the grave in your dream.",
+  "chat.dream_map.4.0.4": "I can find the records of all the dreams you had before.", //
+  "chat.dream_map.4.0.5": "Could... Could you be watching me crying for Dave to buy me mechanical toys when I was a child-",
+  "chat.dream_map.4.0.6": "No no no no no! Of course not.", //
+  "chat.dream_map.4.0.7": "Though you are cute at that age...", //
+  "chat.dream_map.4.0.8": "<color=blue>(Woo...! I wanna die...)</color>", //
+  "chat.dream_map.4.0.9": "What I care about is that grave in your dreams.", //
   "chat.dream_map.4.name": "Dream World Day 4 Map",
   "chat.dream_map.5.0.0": "Hey, Doremy, I want to ask you a question.",
-  "chat.dream_map.5.0.1": "What question?",
-  "chat.dream_map.5.0.10": "But I...I have not seen any scene of darkness like that!",
-  "chat.dream_map.5.0.11": "What? You can not see that?",
+  "chat.dream_map.5.0.1": "What is it?", //
+  "chat.dream_map.5.0.10": "But I... I have never seen any scene of darkness like that!", //
+  "chat.dream_map.5.0.11": "What? You couldn't see that?", //
   "chat.dream_map.5.0.12": "I can not see the darkness...?",
-  "chat.dream_map.5.0.13": "Do-Does it mean...",
+  "chat.dream_map.5.0.13": "C-Could it be...", //
   "chat.dream_map.5.0.14": "That thing!",
-  "chat.dream_map.5.0.15": "What happened? Doremy? Why are you-",
-  "chat.dream_map.5.0.16": "That's it! I always thought there was nothing unusual here, My eyes...have been deceived all the time!",
-  "chat.dream_map.5.0.17": "You stay here and don't go away, I will go to find that thing!",
+  "chat.dream_map.5.0.15": "What's wrong? Doremy? Why are you-", //
+  "chat.dream_map.5.0.16": "That's it! I thought there was nothing abnormal here, My eyes... have been deceived all this time!", //
+  "chat.dream_map.5.0.17": "You two stay here and don't move, I will go find that thing!", //
   "chat.dream_map.5.0.18": "Wa-Wait!",
   "chat.dream_map.5.0.19": "...",
-  "chat.dream_map.5.0.2": "Why, does the sky suddenly turn to dark sometimes?",
-  "chat.dream_map.5.0.20": "Wh-What happened? I have not seen that she's like this...",
+  "chat.dream_map.5.0.2": "Why, does the sky suddenly turn dark sometimes?", //
+  "chat.dream_map.5.0.20": "Wh-What's going on? I've never seen her like this...", //
   "chat.dream_map.5.0.3": "...What?",
-  "chat.dream_map.5.0.4": "Huh? The sky suddenly turns to dark in battles, We cannot see anything.",
-  "chat.dream_map.5.0.5": "I thought I was blind, but that darkness can be illuminated by lights.",
-  "chat.dream_map.5.0.6": "...What are you talking about? Sky turns to dark?",
-  "chat.dream_map.5.0.7": "...? You don't know this? The sky has turned to dark many times before.",
-  "chat.dream_map.5.0.8": "You did not even notice this?",
+  "chat.dream_map.5.0.4": "Huh? You know, when the sky suddenly turns dark during battles, and we can't see anything.", //
+  "chat.dream_map.5.0.5": "I thought I went blind, but that darkness can be illuminated by lights.", //
+  "chat.dream_map.5.0.6": "...What are you talking about? The sky turns dark?", //
+  "chat.dream_map.5.0.7": "...? You don't know? The sky had turned dark many times before.", //
+  "chat.dream_map.5.0.8": "Did you not notice?", //
   "chat.dream_map.5.0.9": "Wh-What?",
   "chat.dream_map.5.name": "Dream World Day 5 Map",
   "chat.dream_map.6.0.0": "Do-Doremy, What happened to you?!",
-  "chat.dream_map.6.0.1": "You...You must run...",
+  "chat.dream_map.6.0.1": "Just... run, you two...", //
   "chat.dream_map.6.0.10": "...Wh-What happened here?",
   "chat.dream_map.6.0.11": "Wh-Why...did here become like this!",
   "chat.dream_map.6.0.12": "So, are those things just cover ups?!",
   "chat.dream_map.6.0.13": "This place has been like this for a long time?!",
-  "chat.dream_map.6.0.2": "It...is incoming...",
-  "chat.dream_map.6.0.3": "Wh-Who made you like this!",
-  "chat.dream_map.6.0.4": "It...is...Night...mare...",
+  "chat.dream_map.6.0.2": "It... is coming...", //
+  "chat.dream_map.6.0.3": "Wh-Who did this to you!", //
+  "chat.dream_map.6.0.4": "It is... Night... mare...", //
   "chat.dream_map.6.0.5": "Doremy!",
-  "chat.dream_map.6.0.6": "<color=blue>(At that moment, the whole dream world lost its color.)</color>",
-  "chat.dream_map.6.0.7": "<color=blue>(Things here begin to dissolve and fall off, showing us what they really look like with grim smiles.)</color>",
-  "chat.dream_map.6.0.8": "<color=blue>(It's a scene I can't forget in my life.)</color>",
-  "chat.dream_map.6.0.9": "<color=blue>(At that time, I understood what the \"nightmare\" from Doremy's words was.)</color>",
+  "chat.dream_map.6.0.6": "<color=blue>(At that moment, the whole Dream World lost its color.)</color>", //
+  "chat.dream_map.6.0.7": "<color=blue>(Everything began to dissolve and fall off, revealing to us its true form, laughing at us viciously.)</color>", //
+  "chat.dream_map.6.0.8": "<color=blue>(That was a scene that I could never forget.)</color>", //
+  "chat.dream_map.6.0.9": "<color=blue>(That was when I understood what the \"nightmare\" Doremy talked about, truely is.)</color>", //
   "chat.dream_map.6.name": "Dream World Day 6 Map",
-  "chat.dream_map.7.0.0": "Wh-where am I...?",
+  "chat.dream_map.7.0.0": "Wh-Where am I...?", //
   "chat.dream_map.7.0.1": "Doremy, finally you are awake.",
   "chat.dream_map.7.0.10": "Before you were cursed.",
-  "chat.dream_map.7.0.11": "...Curse, right? At that moment...",
-  "chat.dream_map.7.0.12": "I was looking for...something.",
-  "chat.dream_map.7.0.13": "That's...A horse. A black horse appeared before you came here.",
+  "chat.dream_map.7.0.11": "...Curse, right? At that time...", //
+  "chat.dream_map.7.0.12": "I was looking for... something.", //
+  "chat.dream_map.7.0.13": "It was... a horse. A black horse, that appeared before you came here.", //
   "chat.dream_map.7.0.14": "Horse?",
-  "chat.dream_map.7.0.15": "<color=blue>[Doremy]</color>\nI found out about its existence...a few months ago.",
-  "chat.dream_map.7.0.16": "<color=blue>[Doremy]</color>\nIt's just a horse at that time...I felt strange when I saw it, but I didn't mind that.",
-  "chat.dream_map.7.0.17": "<color=blue>[Doremy]</color>\nI thought, maybe it's just another Youkai... The next day, it disappears.",
-  "chat.dream_map.7.0.18": "<color=blue>[Doremy]</color>\nNow that I think of it, for it to deceive even me...it might be something extremely horrifying.",
-  "chat.dream_map.7.0.19": "<color=blue>[Doremy]</color>\nWhen I heard you say that the dream turns dark, I realized something was wrong.",
+  "chat.dream_map.7.0.15": "<color=blue>[Doremy]</color>\nI discovered about its existence... a few months ago.", //also the almanac says Doremy found the horse exactly 1 moth ago cuer plz fix
+  "chat.dream_map.7.0.16": "<color=blue>[Doremy]</color>\nIt was just a horse at that time... I felt strange when I saw it, but didn't put much thought into it.", //
+  "chat.dream_map.7.0.17": "<color=blue>[Doremy]</color>\nI thought, maybe it's just another youkai... But the next day, it disappeared.", //
+  "chat.dream_map.7.0.18": "<color=blue>[Doremy]</color>\nNow that I think about it, for it to deceive even me... It must be something extremely horrifying.", //
+  "chat.dream_map.7.0.19": "<color=blue>[Doremy]</color>\nWhen you two said that the dream turns dark, I realized something was wrong.", //
   "chat.dream_map.7.0.2": "You are...? Steve and Villager?",
-  "chat.dream_map.7.0.20": "<color=blue>[Doremy]</color>\nI was desperate to find that thing....",
-  "chat.dream_map.7.0.21": "<color=blue>[Doremy]</color>\nI found it at that time, however, It's no longer a horse, It's a monster now...",
+  "chat.dream_map.7.0.20": "<color=blue>[Doremy]</color>\nSo I looked for that thing desperately...", //
+  "chat.dream_map.7.0.21": "<color=blue>[Doremy]</color>\nI found it at last, however, it was no longer a horse, it is a monster now...", //
   "chat.dream_map.7.0.22": "<color=blue>[Steve]</color>\nThen, you were cursed?",
-  "chat.dream_map.7.0.23": "<color=blue>[Doremy]</color>\nYes...And now I became like this...",
+  "chat.dream_map.7.0.23": "<color=blue>[Doremy]</color>\nYes... After that I entered the current state I am in...", //
   "chat.dream_map.7.0.24": "...Right, we understand.",
   "chat.dream_map.7.0.3": "Yes. Doremy, how are you feeling now?",
   "chat.dream_map.7.0.4": "Why...",
-  "chat.dream_map.7.0.5": "Why can't I...see anything?",
+  "chat.dream_map.7.0.5": "Why can't I... see anything?", //
   "chat.dream_map.7.0.6": "?! Is that the effect of the curse?",
-  "chat.dream_map.7.0.7": "I...can't see anything. Where are you?",
+  "chat.dream_map.7.0.7": "I... can't see anything. Where are you?", //
   "chat.dream_map.7.0.8": "...",
-  "chat.dream_map.7.0.9": "Doremy, could you please tell us what happened?",
+  "chat.dream_map.7.0.9": "Doremy, can you please tell us what happened?", //
   "chat.dream_map.7.name": "Dream World Day 7 Map",
   "chat.dream_map.8.0.0": ".......",
   "chat.dream_map.8.0.1": "How are you feeling, Doremy?",
-  "chat.dream_map.8.0.2": "I....I still can't....",
-  "chat.dream_map.8.0.3": "It not's working....the Dream Crystal's healing factor can't recover her life force at all...",
-  "chat.dream_map.8.0.4": "Th-then what are we supposed to do?!",
-  "chat.dream_map.8.0.5": "We can only watch as she......I cannot allow this to happen!",
+  "chat.dream_map.8.0.2": "I.... I still can't...", //
+  "chat.dream_map.8.0.3": "It's not working... Dream Crystal's healing property can't compensate for her rate of losing life...", //
+  "chat.dream_map.8.0.4": "Th-Then what are we supposed to do?!", //
+  "chat.dream_map.8.0.5": "We can only watch as she...... I won't allow that to happen!", //
   "chat.dream_map.8.0.6": "Steve...",
   "chat.dream_map.8.0.7": "!",
-  "chat.dream_map.8.0.8": "Please.....leave while you still can.....! Don't mind me......Use your Key!",
-  "chat.dream_map.8.0.9": "If you stay here.....very soon....you too will be....",
-  "chat.dream_map.8.0.10": "I'm just a failure of a guardian....i'm begging you.....please leave!",
-  "chat.dream_map.8.0.11": "....",
+  "chat.dream_map.8.0.8": "Please..... leave while you still can.....! Don't mind me...... Use your Key to leave!", //
+  "chat.dream_map.8.0.9": "If you stay here... very soon... you too will be...", //
+  "chat.dream_map.8.0.10": "I'm just a failure of a guardian... I'm begging you... please go!", //
+  "chat.dream_map.8.0.11": "...", //
   "chat.dream_map.8.0.12": "......",
   "chat.dream_map.8.0.13": "Dave.",
   "chat.dream_map.8.0.14": "What?",
-  "chat.dream_map.8.0.15": "Use your lure spell.",
-  "chat.dream_map.8.0.16": "! Wh-what are you trying to do?",
-  "chat.dream_map.8.0.17": "I'm going to kill that demon.",
-  "chat.dream_map.8.0.18": "A-are you serious?!",
+  "chat.dream_map.8.0.15": "Use the Lure Spell.", //
+  "chat.dream_map.8.0.16": "! Wh-What are you trying to do?", //
+  "chat.dream_map.8.0.17": "I am going to kill that demon.", //
+  "chat.dream_map.8.0.18": "A-Are you serious?!", //
   "chat.dream_map.8.0.19": "Of course. Hurry!",
-  "chat.dream_map.8.0.20": "St....Steve! Don't...be a fool!",
+  "chat.dream_map.8.0.20": "St... Steve! Don't... be a fool!", //
   "chat.dream_map.8.0.21": "cough! cough!",
-  "chat.dream_map.8.0.22": "Dave, you know what kind of person I am.",
-  "chat.dream_map.8.0.23": "I will never forgive those who harm others, nor will I leave someone to feel pain alone.",
-  "chat.dream_map.8.0.24": "Demon or not, I absolutely will not let it continue to do evil!",
-  "chat.dream_map.8.0.25": "You.....",
-  "chat.dream_map.8.0.26": "You're still as stubborn as in the past.",
-  "chat.dream_map.8.0.27": "Alright, now lure whatever is behind this to us!",
+  "chat.dream_map.8.0.22": "Dave, you know who I am.", //
+  "chat.dream_map.8.0.23": "I do not forgive those who harm others, nor do I leave someone alone to suffer.", //
+  "chat.dream_map.8.0.24": "Be it Nightmare or any other foe, I absolutely will not let it continue to do evil!", //
+  "chat.dream_map.8.0.25": "You...", //
+  "chat.dream_map.8.0.26": "You're as stubborn as ever.", //
+  "chat.dream_map.8.0.27": "Alright, now lure that nightmarish whatever-it-is to us!", //
   "chat.dream_map.8.0.28": "I'm going to teach it a lesson!",
-  "chat.dream_map.8.0.29": "Understood.....not like I can stop you anyways.",
-  "chat.dream_map.8.0.30": "Why.....why do you refuse to leave......",
+  "chat.dream_map.8.0.29": "Understood... It's not like I can stop you anyway.", //
+  "chat.dream_map.8.0.30": "Why... Why aren't you two leaving......", //
   "chat.dream_map.8.name": "Dream World Day 8 Map",
-  "chat.dream_map.9.0.0": "Well, Doremy want to see you a time.",
-  "chat.dream_map.9.0.1": "She still wants us to leave, right?",
-  "chat.dream_map.9.0.2": "Yes. You have not seen her for days.",
-  "chat.dream_map.9.0.3": "...I'm sorry.",
-  "chat.dream_map.9.0.4": "I understand you. In fact, I also don't want to give up.",
-  "chat.dream_map.9.0.5": "There's one which I have to see.",
+  "chat.dream_map.9.0.0": "Well, Doremy wants to see you again.", //
+  "chat.dream_map.9.0.1": "Still telling us to leave, right?", //
+  "chat.dream_map.9.0.2": "Yes. You have not seen her for days, no?", //
+  "chat.dream_map.9.0.3": "... I'm sorry.", //
+  "chat.dream_map.9.0.4": "I understand how you feel. In fact, I refuse to give up as well.", //
+  "chat.dream_map.9.0.5": "There's one who I have to see.", //
   "chat.dream_map.9.0.6": "...? Who?",
   "chat.dream_map.9.0.7": "...",
-  "chat.dream_map.9.0.8": "Nothing, just self-talking.",
+  "chat.dream_map.9.0.8": "Nothing, just talking to myself.", //
   "chat.dream_map.9.name": "Dream World Day 9 Map",
-  "chat.dream_map.10.0.0": "Nightmare will come tomorrow?",
+  "chat.dream_map.10.0.0": "Nightmare will arrive tomorrow?", //
   "chat.dream_map.10.0.1": "Yes. Are you sure you want to do this?",
-  "chat.dream_map.10.0.2": "I still said that. If you successes, we will be saved.",
-  "chat.dream_map.10.0.3": "But if you fails, it's not as simple as one life.",
-  "chat.dream_map.10.0.4": "Since there is no other way, I can only do so.",
-  "chat.dream_map.10.0.5": "Doremy's body is on the verge of limit.",
-  "chat.dream_map.10.0.6": "Miss Doremy...She never want me to fight with it.",
-  "chat.dream_map.10.0.7": "But for helping her, I can only not see her.",
+  "chat.dream_map.10.0.2": "Again, if you succeed, then we'll be saved.", //
+  "chat.dream_map.10.0.3": "But if you fail, it'll cost more than your life.", //
+  "chat.dream_map.10.0.4": "Since there is no other way, I have to do it.", //
+  "chat.dream_map.10.0.5": "Doremy's life is on the ropes.", //
+  "chat.dream_map.10.0.6": "Miss Doremy... She never wanted me to fight it.", //
+  "chat.dream_map.10.0.7": "But for her sake, I can not see her.", //
   "chat.dream_map.10.0.8": "I'm really sorry.",
-  "chat.dream_map.10.0.9": "...Well, We wish you good luck.",
+  "chat.dream_map.10.0.9": "... We wish you luck.", //
   "chat.dream_map.10.name": "Dream World Day 10 Map",
-  "chat.dream_map.11.0.0": "I apologize for my reckless behavior, Miss Doremy.",
-  "chat.dream_map.11.0.1": "No no no. No need to apologize. Also you saved the whole dream world right?",
+  "chat.dream_map.11.0.0": "I apologize for my reckless action, Miss Doremy.", //
+  "chat.dream_map.11.0.1": "No no no. No need to apologize. You saved the Dream World after all.", //
   "chat.dream_map.11.0.2": "You are such a worrying child, but I don't hate it.",
-  "chat.dream_map.11.0.3": "<color=blue>(...Doremy looks at me like her own child...)</color>",
+  "chat.dream_map.11.0.3": "<color=blue>(... Doremy looks at me like her own child...)</color>", //
   "chat.dream_map.11.0.4": "Ah, by the way, there's something I have to tell you.",
   "chat.dream_map.11.0.5": "What? Tell me?",
   "chat.dream_map.11.0.6": "No, Steve.",
-  "chat.dream_map.11.0.7": "It must be me!",
-  "chat.dream_map.11.0.8": "<color=blue>(This guy is also back...)</color>",
+  "chat.dream_map.11.0.7": "She's talking to me!", //
+  "chat.dream_map.11.0.8": "<color=blue>(Well this guy is also back...)</color>", //
   "chat.dream_map.11.0.9": "Do you remember, the grave in your dream?",
   "chat.dream_map.11.0.10": "! Grave...?",
-  "chat.dream_map.11.0.11": "I seeked carefully before and found that the grave was actually one you saw when you were very young.",
-  "chat.dream_map.11.0.12": "At that time, I was involved in Nightmare's scheme before I could tell you. Now it's time to tell.",
-  "chat.dream_map.11.0.13": "A grave when I was a child? But I don't remember any graves near Dave's house.",
-  "chat.dream_map.11.0.14": "That was earlier. At that time, you were a baby.",
-  "chat.dream_map.11.0.15": "A, a baby?!",
-  "chat.dream_map.11.0.16": "<color=blue>(My childhood memory only stays since I was about two or three years old.)</color>",
-  "chat.dream_map.11.0.17": "<color=blue>(I have neither father nor mother. Only Dave, as an adoptive father, raised me.)</color>",
-  "chat.dream_map.11.0.18": "<color=blue>(But I'm not a blocky creature like Dave, so I'm often treated as an outcast.)</color>",
-  "chat.dream_map.11.0.19": "<color=blue>(Therefore, I always care who my biological father and mother are.)</color>",
+  "chat.dream_map.11.0.11": "I searched thoroughly and found that the grave was actually a grave you saw when you were very young.", //
+  "chat.dream_map.11.0.12": "At that time, I fell for Nightmare's scheme before I could tell you. Now it's time to tell.", //
+  "chat.dream_map.11.0.13": "A grave when I was a child? But I don't remember seeing any graves near Dave's house.", //
+  "chat.dream_map.11.0.14": "It was earlier. You were a baby at that time.", //
+  "chat.dream_map.11.0.15": "A... A baby?!", //
+  "chat.dream_map.11.0.16": "<color=blue>(My childhood memory covers no more than when I was two or three years old.)</color>", //
+  "chat.dream_map.11.0.17": "<color=blue>(I had neither father nor mother. Only Dave, as an adoptive father, raised me.)</color>", //
+  "chat.dream_map.11.0.18": "<color=blue>(But I'm not a blocky creature like Dave, so I'm often an outcast.)</color>", //
+  "chat.dream_map.11.0.19": "<color=blue>(Therefore, I always wonder who my biological parents are.)</color>", //
   "chat.dream_map.11.0.20": "Whose grave is that!",
   "chat.dream_map.11.0.21": "I don't know.",
   "chat.dream_map.11.0.22": "Huh?",
   "chat.dream_map.11.0.23": "Your memory seems to stop here. You can't even remember the appearance of the person in your dream.",
-  "chat.dream_map.11.0.24": "I can only say I'm sorry.",
-  "chat.dream_map.11.0.25": "...That's it. Thank you very much, Miss Doremy.",
+  "chat.dream_map.11.0.24": "That is just unfortunate.", //
+  "chat.dream_map.11.0.25": "... Alright. Thank you very much still, Miss Doremy.", //
   "chat.dream_map.11.0.26": "I was actually an orphan. Dave has been raising me.",
   "chat.dream_map.11.0.27": "Over the years, I've always wanted to know who my biological parents are.",
-  "chat.dream_map.11.0.28": "I understand. But we'll probably see each other again.",
-  "chat.dream_map.11.0.29": "You may meet me when you are dreaming. Let's talk again then.",
-  "chat.dream_map.11.0.30": "During that time in Gensokyo, I'll keep searching your dreams.",
-  "chat.dream_map.11.0.31": "<color=blue>(...I hope you don't search my embarrassing memories again!)</color>",
+  "chat.dream_map.11.0.28": "I see. Well, we'll probably see each other again.", //
+  "chat.dream_map.11.0.29": "You may meet me when you are dreaming. We'll talk again in such event.", //
+  "chat.dream_map.11.0.30": "During your time in Gensokyo, I'll keep searching your dreams.", //
+  "chat.dream_map.11.0.31": "<color=blue>(... I hope you don't look for my embarrassing memories again!)</color>", //
   "chat.dream_map.11.0.32": "Well, we can finally go to Gensokyo!",
-  "chat.dream_map.11.0.33": "We're already ready! Let's go!",
+  "chat.dream_map.11.0.33": "We're always ready! Let's go!", //
   "chat.dream_map.11.name": "Dream World Day 11 Map",
   "chat.dream_over.1.0.0": "Aha! This is Lily Pad!",
   "chat.dream_over.1.0.1": "You can place non-aquatic contraptions on it!",
-  "chat.dream_over.1.0.2": "That is to say, you can set up battle lines on water now!",
-  "chat.dream_over.1.0.3": "Pity that it can't smash boats like its ancestors!",
-  "chat.dream_over.1.0.4": "Human outside, let me see what dreams you have...",
-  "chat.dream_over.1.0.5": "W...Wait! You are physical body?",
+  "chat.dream_over.1.0.2": "That is to say, you can set up defences on water now!", //
+  "chat.dream_over.1.0.3": "Too bad that it can't smash boats like its ancestors!", //
+  "chat.dream_over.1.0.4": "Human from the outside world, let me see what dreams you have...", //
+  "chat.dream_over.1.0.5": "W...Wait! You have physical body?", //
   "chat.dream_over.1.name": "Dream World Day 1 Outro",
   "chat.dream_over.2.0.0": "High tech product, Drivenser!",
-  "chat.dream_over.2.0.1": "It can shoot arrows to enemies like normal Dispensers!",
-  "chat.dream_over.2.0.2": "But you can place another Drivensers on them to increase arrow shots per time!",
-  "chat.dream_over.2.0.3": "The maxinium is 5 arrows per time!",
-  "chat.dream_over.2.0.4": "If one can't be solve the problem, use a pile!",
+  "chat.dream_over.2.0.1": "It can shoot arrows towards enemies like Dispensers!", //
+  "chat.dream_over.2.0.2": "But you can place another Drivenser on it to increase the number of arrows fired per shot!", //
+  "chat.dream_over.2.0.3": "The maximum is 5 arrows per shot!", //
+  "chat.dream_over.2.0.4": "If one can't solve the problem, use a pile!", //
   "chat.dream_over.2.name": "Dream World Day 2 Outro",
-  "chat.dream_over.3.0.0": "Time for Physics class!",
+  "chat.dream_over.3.0.0": "Time for physics class!", //
   "chat.dream_over.3.0.1": "This is Gravity Pad, it can increase the gravity of objects above it!",
-  "chat.dream_over.3.0.2": "Not only slows enemies walked on them, but also pulls down projectiles while facing low-height enemies!",
-  "chat.dream_over.3.0.3": "Oh by the way, don't place them under an apple tree...",
+  "chat.dream_over.3.0.2": "Not only can it slow down enemies above, but it can also pull down projectiles for reaching low-height enemies!", //
+  "chat.dream_over.3.0.3": "Oh by the way, don't place them under apple trees...", //
   "chat.dream_over.3.name": "Dream World Day 3 Outro",
   "chat.dream_over.4.0.0": "Spin! Vortex Hopper!",
-  "chat.dream_over.4.0.1": "Vortex Hoppers can be placed in water, and will pull enemies down into the water when touched!",
-  "chat.dream_over.4.0.2": "Make them be Drowned!",
+  "chat.dream_over.4.0.1": "Vortex Hoppers can be placed in water, and will pull enemies underwater when touched!", //
+  "chat.dream_over.4.0.2": "Let them be Drowned!", //
   "chat.dream_over.4.name": "Dream World Day 4 Outro",
   "chat.dream_over.5.0.0": "Hey! Neighbor! You found an Ender Chest!",
-  "chat.dream_over.5.0.1": "I put lots of goods in my Ender Chest before! Do you know what does it mean?",
-  "chat.dream_over.5.0.2": "This means - Crazy Villager's Store are now officially open!",
+  "chat.dream_over.5.0.1": "I have put lots of goods in my Ender Chest! You know what this means?", //
+  "chat.dream_over.5.0.2": "This means - Crazy Villager's Store is now officially open!", //
   "chat.dream_over.5.0.3": "Buy one get zero! Come come buy buy!",
   "chat.dream_over.5.name": "Dream World Day 5 Outro",
   "chat.dream_over.6.0.0": "Pistenser! A retractable launcher!",
-  "chat.dream_over.6.0.1": "It will emit spikes similar to arrows! And when it meets flying enemies, it will stretch itself to attack them!",
+  "chat.dream_over.6.0.1": "It can shoot spikes similar to arrows! And when it come up against flying enemies, it will stretch itself to attack them!", //
   "chat.dream_over.6.0.2": "A Pistenser a day keeps the Ghasts away!",
   "chat.dream_over.6.name": "Dream World Day 6 Outro",
   "chat.dream_over.7.0.0": "This is Totenser!",
-  "chat.dream_over.7.0.1": "It can shoot darts which can weaken enemies, and make them cannot deal any damage!",
-  "chat.dream_over.7.0.2": "And it can do a fire breath to burn near enemies!",
-  "chat.dream_over.7.0.3": "At last, throw a deadly poisonous javelin!",
+  "chat.dream_over.7.0.1": "It can shoot darts that weaken enemies, making them unable to deal any damage!", //
+  "chat.dream_over.7.0.2": "And it can use fire breath to burn near enemies!", //
+  "chat.dream_over.7.0.3": "And at last, throw a deadly poison javelin!", //
   "chat.dream_over.7.name": "Dream World Day 7 Outro",
   "chat.dream_over.8.0.0": "Great! this is Dream Crystal!",
-  "chat.dream_over.8.0.1": "It's an obstacle which can regenerate itself!",
+  "chat.dream_over.8.0.1": "It's a barrier that can regenerate itself!", //
   "chat.dream_over.8.0.2": "And can also be used to heal other lives!",
-  "chat.dream_over.8.0.3": "We can heal Doremy with this!...Maybe.",
+  "chat.dream_over.8.0.3": "We can heal Doremy with this!... Maybe.", //
   "chat.dream_over.8.name": "Dream World Day 8 Outro",
   "chat.dream_over.9.0.0": "Another dream Item!",
-  "chat.dream_over.9.0.1": "This is Dream Silk! Place them on contraptions, and they will fall asleep!",
-  "chat.dream_over.9.0.2": "And will generate a starshard for you after awake!",
+  "chat.dream_over.9.0.1": "This is Dream Silk! Place one on a contraption, and it will fall asleep!", //
+  "chat.dream_over.9.0.2": "And generates a starshard for you when it wakes up!", //
   "chat.dream_over.9.0.3": "And... I'll try using it to relieve Doremy's pain.",
   "chat.dream_over.9.name": "Dream World Day 9 Outro",
-  "chat.dream_over.11.0.0": "Ohhhhhhhhh! You did it!",
-  "chat.dream_over.11.0.1": "Did Nightmare...Die?!",
+  "chat.dream_over.11.0.0": "Ohhhhhhhhh! You actually did it!", //
+  "chat.dream_over.11.0.1": "Did Nightmare... die?!", //
   "chat.dream_over.11.0.2": "Ho-how about Doremy?!",
   "chat.dream_over.11.0.3": "I-I can see?",
-  "chat.dream_over.11.0.4": "And...my life is back!",
+  "chat.dream_over.11.0.4": "And... my life force is back!", //
   "chat.dream_over.11.0.5": "Miss Doremy!",
   "chat.dream_over.11.0.6": "It's great that you're OK!",
-  "chat.dream_over.11.0.7": "AWESOME done, neighbor! Now the nightmare of dream world is completely destroyed!",
+  "chat.dream_over.11.0.7": "AWESOMELY done, neighbor! Now the nightmare in Dream World is completely destroyed!", //
   "chat.dream_over.11.name": "Dream World Day 11 Outro",
-  "chat.halloween.1.0.0": "Here's the destination!",
-  "chat.halloween.1.0.1": "...Wait, where's the entrance to Gensokyo?",
-  "chat.halloween.1.0.2": "We'll find it anyway. By my beard!",
-  "chat.halloween.1.0.3": "It seems like there are also zombies here.",
-  "chat.halloween.1.0.4": "Out of my kindness, you're gonna be the one finishing them!",
+  "chat.halloween.1.0.0": "Here's the destination! This is it!", //
+  "chat.halloween.1.0.1": "... where's the entrance to Gensokyo?", //
+  "chat.halloween.1.0.2": "We'll find it anyway, I swear by my beard!", //
+  "chat.halloween.1.0.3": "Also, there are those zombies here too.", //
+  "chat.halloween.1.0.4": "I will kindly let you finish them all off!", //
   "chat.halloween.1.0.5": "Oh yes, by the way:",
   "chat.halloween.1.0.6": "Our mine works on solar energy, and it's night.",
   "chat.halloween.1.0.7": "So there's no more energy for the energy generator to generate energy.",
@@ -435,20 +435,20 @@
   "chat.halloween.11.0.1": "ALWAYS try to look out for whatever swiggity swooty the boss guy can do!",
   "chat.halloween.11.0.2": "And some thingamabobs to COUNTER whatever that is. Ya get what I mean?",
   "chat.halloween.11.0.3": "Keep in mind that, choosing what contraptions to sacrifice, and what not to is crucial for this battle.",
-  "chat.halloween.11.0.4": "From what I’ve seen, TNTs also have the ability to absorb lightnings and become high-pressured.",
+  "chat.halloween.11.0.4": "From what I’ve seen, TNTs have the ability to absorb lightnings and become high-pressured.", //
   "chat.halloween.11.0.5": "Let’s make good use of that, neighbor!",
   "chat.halloween.11.name": "Halloween Day 11 Intro",
   "chat.halloween.3.0.0": "By the way, what are those statues?",
-  "chat.halloween.3.0.1": "Those statues... I heard them being called as Gargoyles.",
+  "chat.halloween.3.0.1": "Those statues... I heard they are called Gargoyles.", //
   "chat.halloween.3.0.2": "I'm not so sure about its exact details. I need to read the Almanac.",
   "chat.halloween.3.0.3": "...Huh, where's my Almanac?",
-  "chat.halloween.3.0.4": "...Umm, the Almanac...",
-  "chat.halloween.3.0.5": "Looks like we aren't gonna learn what Gargoyles are tonight.",
+  "chat.halloween.3.0.4": "...Right, the Almanac...", //
+  "chat.halloween.3.0.5": "Looks like we aren't gonna learn what Gargoyles are today.", //
   "chat.halloween.3.name": "Halloween Day 3 Intro",
-  "chat.halloween.4.0.0": "...The Almanac... It's gone.",
-  "chat.halloween.4.0.1": "Maybe I lost it while I was fighting those monsters.",
-  "chat.halloween.4.0.2": "Hmm...That's unfortunate.",
-  "chat.halloween.4.0.3": "Don't mind about it... Perhaps those zombies will bring the Almanac back.",
+  "chat.halloween.4.0.0": "... So... Yeah, The Almanac is gone.", //
+  "chat.halloween.4.0.1": "I probably lost it while fighting those monsters.", //
+  "chat.halloween.4.0.2": "Hmm... That's unfortunate.", //
+  "chat.halloween.4.0.3": "Don't worry about it... Perhaps those zombies will bring the Almanac back to us.", //
   "chat.halloween.4.0.4": "Because... hmm... They seem to pick up... anything they encounter.",
   "chat.halloween.4.0.5": "Maybe one of them got a hold of my Almanac too.",
   "chat.halloween.4.0.6": "Really? Time to hunt for... whoever got the Almanac!",
@@ -461,16 +461,16 @@
   "chat.halloween.6.0.5": "Now, let’s hunt those who have fallen into darkness!",
   "chat.halloween.6.name": "Halloween Day 6 Intro",
   "chat.halloween.8.0.0": "We can’t be all just sitting here waiting for Frankenstein to come!",
-  "chat.halloween.8.0.1": "Just the time I have some Lure spells to find and attract the target!",
-  "chat.halloween.8.0.2": "Time for me to use this bad boy! We should be able to find the target in about three days!",
+  "chat.halloween.8.0.1": "Just the time I use some Lure Spells to find and attract the target!", //
+  "chat.halloween.8.0.2": "I'll use this bad boy right here! We should be able to find the target in about three days!", //
   "chat.halloween.8.name": "Halloween Day 8 Intro",
-  "chat.halloween.9.0.0": "Here... I think you should be reminded.",
+  "chat.halloween.9.0.0": "Here... I think you should be warned.", //
   "chat.halloween.9.0.1": "Some dead Necromancers have been buried beneath this graveyard.",
   "chat.halloween.9.0.2": "Though they are dead, their ability of necromancy still exists.",
   "chat.halloween.9.0.3": "If they are resurrected, try to find good counters against their witchcraft.",
   "chat.halloween.9.name": "Halloween Day 9 Intro",
-  "chat.halloween_final.0.0": "Portal is ready, you can now start journey.",
-  "chat.halloween_final.0.1": "So... I wish you good luck.",
+  "chat.halloween_final.0.0": "Portal is ready, you can now start your journey.", //
+  "chat.halloween_final.0.1": "Well then... I wish you good luck.", //
   "chat.halloween_final.0.2": "Hey, neighbour! we can finally be on the way!",
   "chat.halloween_final.0.3": "Here we go!",
   "chat.halloween_final.0.4": "...",
@@ -515,7 +515,7 @@
   "chat.halloween_map.3.0.3": "...Perhaps...",
   "chat.halloween_map.3.0.4": "Ghosts will begin wandering.",
   "chat.halloween_map.3.name": "Halloween Day 3 Map",
-  "chat.halloween_map.4.0.0": "I’ve been noticing... some strange things about this swamp.",
+  "chat.halloween_map.4.0.0": "I’ve noticed... something strange about this swamp.", //
   "chat.halloween_map.4.0.1": "We’ve stayed here for 4 days, but it's still Halloween’s eve!",
   "chat.halloween_map.4.0.2": "Ah, That's because this place has been witched.",
   "chat.halloween_map.4.0.3": "Or cursed... The time of this swamp will be Halloween’s eve forever.",
@@ -546,57 +546,57 @@
   "chat.halloween_map.6.name": "Halloween Day 6 Map",
   "chat.halloween_map.7.0.0": "I’ve been wondering, any idea on what the key looks like?",
   "chat.halloween_map.7.0.1": "That key is called the Dream Key.",
-  "chat.halloween_map.7.0.2": "Using a Dream Key is one way to teleport to other worlds. However, a downside to this method is, you must first visit the Dream World of your targeted world.",
-  "chat.halloween_map.7.0.3": "You’ll later have to find a way to manually access the reality of that world via its Dream World as well. Teleporting you to the Dream World is all the key can do.",
-  "chat.halloween_map.7.0.4": "Still sounds like a cool thing for me!",
-  "chat.halloween_map.7.0.5": "If we have one, we can definitely go to Gensokyo!",
+  "chat.halloween_map.7.0.2": "Using the Dream Key is one way to enter other worlds. It allows you to enter the dream of a world.", //
+  "chat.halloween_map.7.0.3": "Then by finding a way to access the reality of the world from its dream, you can ultimately travel to different worlds", //
+  "chat.halloween_map.7.0.4": "Sounds like a cool thing to me!", //
+  "chat.halloween_map.7.0.5": "If we have it, we can definitely go to Gensokyo!", //
   "chat.halloween_map.7.name": "Halloween Day 7 Map",
   "chat.halloween_over.1.0.0": "This is our old friend, Small Dispenser!",
   "chat.halloween_over.1.0.1": "Say hello to our little friend!",
-  "chat.halloween_over.1.0.2": "Small Dispensers don't need ME to be placed. They can shoot short-ranged snowballs and are great contraptions for the night!",
+  "chat.halloween_over.1.0.2": "Small Dispensers don't need ME to be placed. They can shoot short-ranged snowballs and are great contraptions for nighttime!", //
   "chat.halloween_over.1.0.3": "Make good use of it!",
-  "chat.halloween_over.1.0.4": "...You are?",
+  "chat.halloween_over.1.0.4": "...Who are you?", //
   "chat.halloween_over.1.name": "Halloween Day 1 Outro",
   "chat.halloween_over.11.0.0": "This is my Dream Key! You did it!",
   "chat.halloween_over.11.0.1": "And with that, Frankenstein has also returned to the place where he belongs.",
-  "chat.halloween_over.11.0.2": "I am truly grateful for all that you have done for me so far.",
-  "chat.halloween_over.11.0.3": "How could that be grateful for? We just did what we had to do!",
+  "chat.halloween_over.11.0.2": "I am truly grateful for all the things you have done for me thus far.", //
+  "chat.halloween_over.11.0.3": "Don't need to be grateful for that. We just did what we had to do!", //
   "chat.halloween_over.11.name": "Halloween Day 11 Outro",
-  "chat.halloween_over.2.0.0": "Hey! This is the Moonlight Sensor!",
+  "chat.halloween_over.2.0.0": "Hey! This is Moonlight Sensor!", //
   "chat.halloween_over.2.0.1": "It can automatically produce ME under the moonlight or in darkness! \nAnd it increases its yield after a while!",
-  "chat.halloween_over.2.0.2": "Because of its low ME cost, use it instead of Furnaces!",
+  "chat.halloween_over.2.0.2": "You should use it instead of Furnaces, for its low ME cost!", //
   "chat.halloween_over.2.name": "Halloween Day 2 Outro",
   "chat.halloween_over.3.0.0": "This is Glowstone, it can light up an area around it and dispel fog!",
-  "chat.halloween_over.3.0.1": "But... where is fog in a place full of moonlight?",
-  "chat.halloween_over.3.0.2": "What is it used for?",
+  "chat.halloween_over.3.0.1": "But... there's no fog in this place full of moonlight.", //
+  "chat.halloween_over.3.0.2": "What is it for?", //
   "chat.halloween_over.3.name": "Halloween Day 3 Outro",
   "chat.halloween_over.4.0.0": "This is Punchton!",
-  "chat.halloween_over.4.0.1": "It can knock back enemies for a long distance! And heavily damage fragile stones or other objects!",
-  "chat.halloween_over.4.0.2": "However, it will be broken after the punch, and needs some time to repair itself!",
+  "chat.halloween_over.4.0.1": "It can knock enemies back a long distance! And heavily damage fragile stones or other objects!", //
+  "chat.halloween_over.4.0.2": "However, it will be broken after the punch, and need some time to repair itself!", //
   "chat.halloween_over.4.0.3": "Break them up!",
   "chat.halloween_over.4.name": "Halloween Day 4 Outro",
-  "chat.halloween_over.5.0.0": "Aha! Finally we found Orant's Almanac!",
-  "chat.halloween_over.5.0.1": "Yes! This is... My Almanac!",
+  "chat.halloween_over.5.0.0": "Aha! We finally found Orant's Almanac!", //
+  "chat.halloween_over.5.0.1": "Yes! This is... my Almanac!", //
   "chat.halloween_over.5.0.2": "Thank you... However, perhaps you need this more than I do.",
   "chat.halloween_over.5.0.3": "Hm?",
   "chat.halloween_over.5.0.4": "...This Almanac will automatically record contraptions, enemies and other infomation you've come across- it is a really convenient tool.",
-  "chat.halloween_over.5.0.5": "If it's you, you might make the most out of it.",
+  "chat.halloween_over.5.0.5": "You two might make the most out of it.", //
   "chat.halloween_over.5.0.6": "And to express my appreciation, please take it as a gift.",
   "chat.halloween_over.5.0.7": "Oh really? Sweet! Thanks a bunch!",
   "chat.halloween_over.5.name": "Halloween Day 5 Outro",
   "chat.halloween_over.6.0.0": "Happy birthday! Here’s your dangerous cake!",
   "chat.halloween_over.6.0.1": "This is TNT! After you trigger it, it will go KABOOM and blow up all the surrounding enemies!",
-  "chat.halloween_over.6.0.2": "What? How to trigger?",
+  "chat.halloween_over.6.0.2": "What? How do you trigger it?", //
   "chat.halloween_over.6.0.3": "Lemme show you later!",
   "chat.halloween_over.6.name": "Halloween Day 6 Outro",
   "chat.halloween_over.7.0.0": "Your soul shall be mine!",
   "chat.halloween_over.7.0.1": "Behold, the Soul Furnace! It can shoot DEADLY soulfire balls and burn groups of enemies upon hit!",
-  "chat.halloween_over.7.0.2": "But what does it cost? It needs to sacrifice a contraption in front of it as its fuel!",
+  "chat.halloween_over.7.0.2": "But at what cost? It needs the contraption in front of it sacrificed as its fuel!", //
   "chat.halloween_over.7.0.3": "Let the enemies BURN IN HELL!",
   "chat.halloween_over.7.name": "Halloween Day 7 Outro",
   "chat.halloween_over.8.0.0": "The Perfect and Elegant Dispenser is here!",
-  "chat.halloween_over.8.0.1": "Here comes Silvenser! Its knives can slice fleshes and deal more damages! And can pierce anything which are not hard!",
-  "chat.halloween_over.8.0.2": "It's about time we showed The World!",
+  "chat.halloween_over.8.0.1": "Here comes Silvenser! Its knives can slice flesh and deal great damage! And pierce through anything that are not hard!", //
+  "chat.halloween_over.8.0.2": "It's about time we show The World!", //
   "chat.halloween_over.8.name": "Halloween Day 8 Outro",
   "chat.halloween_over.9.0.0": "Do you still remember the clown fairy from Hell?",
   "chat.halloween_over.9.0.1": "Magic Chest, or Magichest! It swallows an enemy in front of it, and then transforms itself into a Starshard!",
@@ -617,17 +617,17 @@
   "chat.note_prologue.name": "Treasure map?",
   "chat.note_dream.0.0": "What is this?",
   "chat.note_dream.0.1": "Just a piece of waste paper.",
-  "chat.note_dream.0.2": "It does seem to have words on it. Probably because we are in the dream, the above words are not clear.",
+  "chat.note_dream.0.2": "It does seem to have words on it. Probably since we are in a dream, the words are not clear.", //
   "chat.note_dream.0.3": "I'd better keep it.",
   "chat.note_dream.name": "???",
-  "chat.seventh_slot.0.0": "Before we start, I assume that you’ll need the 7th contraption slot!",
+  "chat.seventh_slot.0.0": "Before we start, I'm sure that you’ll need a 7th contraption slot!", //
   "chat.seventh_slot.1.0": "750$ for the 7th slot, whaddaya say?",
-  "chat.seventh_slot.2.0": "750$ for 7th slot, but... seems like you’re still broke...",
+  "chat.seventh_slot.2.0": "750$ for the 7th slot, but... seems like you’re too broke...", //
   "chat.seventh_slot.2.1": "Come back to this level when you have enough money!",
   "chat.seventh_slot.3.0": "Deal! Have a nice day!",
-  "chat.seventh_slot.4.0": "What a pity! If you want it, come back to this level!",
+  "chat.seventh_slot.4.0": "What a shame! If you change your mind, come back to this level!", //
   "chat.seventh_slot.name": "Slot deal",
-  "chat.starshard_tutorial.0.0": "Hey, pal, Let me share you some MAGICAL things!",
+  "chat.starshard_tutorial.0.0": "Hey, pal, Let me share with you some MAGICAL things!", //
   "chat.starshard_tutorial.0.1": "This is called the Starshard! It changes into a different item based on our location!",
   "chat.starshard_tutorial.0.2": "However, the effect is the same - Activating your contraptions' Evocation ability!",
   "chat.starshard_tutorial.0.3": "Alright, let's try Magic Candy - the Starshard of this area!",
@@ -641,9 +641,9 @@
   "chat.tutorial.0.0": "Hey, neighbor, long time no see!",
   "chat.tutorial.0.1": "It's been a long time since I last saw you!",
   "chat.tutorial.0.2": "How is your experience with the contraptions now?",
-  "chat.tutorial.0.3": "You almost forgot everything, huh? Would you like a review?",
+  "chat.tutorial.0.3": "Have you forgotten everything? Would you like a recall?", //
   "chat.tutorial.1.0": "Okay, let's rock!",
-  "chat.tutorial.2.0": "Good memory, pal!",
+  "chat.tutorial.2.0": "You've got good memory, pal!", //
   "chat.tutorial.3.0": "Hey, neighbor! You're getting the hang of it!",
   "chat.tutorial.3.1": "I didn't say anything and yet you've already completed the tutorial!",
   "chat.tutorial.4.0": "Ah! Those zombies are coming after you again.",
@@ -656,54 +656,54 @@
   "contraption.anvil.name": "Anvil",
   "contraption.anvil.tooltip": "Fall from the sky to crush enemies, also a barrier",
   "contraption.cost": "ME Cost",
-  "contraption.dispenser.description": "Damage: <color=red>Medium</color>\n\n\"People usually ask me how I can shoot infinite arrows, and without redstone.\" said Dispenser. \"First, my fence is connected to a redstone pulse. Second, I was enchanted with Unbreaking III and Infinity arrows. What? How can I talk?\"",
-  "contraption.dispenser.description_evocation": "Evocation: shoots a large number of arrows frontwards",
+  "contraption.dispenser.description": "Damage: <color=red>Medium</color>\n\n\"People usually ask me how I can shoot an infinite amount of arrows, and without redstone.\" said Dispenser. \"First, my fence is connected to a redstone pulse. Second, I am enchanted with Unbreaking III and Infinity. What? How can I talk?\"", //
+  "contraption.dispenser.description_evocation": "Evocation: rapidly shoots a large amount of arrows", //
   "contraption.dispenser.description_header": "Dispensers are your first line of defense, they shoot arrows at incoming enemies.",
   "contraption.dispenser.name": "Dispenser",
   "contraption.dispenser.tooltip": "Shoot arrows towards enemies",
-  "contraption.dream_crystal.description": "Toughness: <color=red>Slightly higher</color>\nSpecial: has regeneration\n\nChemistry class be like:\n\"Dream Crystal is a pink colour, semi-transparent crystal with regeneration effect, mainly composed of Dreamium Diowhat (The chemical formula is DrO2),can be used to refine Nightmarium KonoDioda(NmO2) using Nightmarium Sulfate (NmSO4), which is the main component of Maren o l……~~--~zzzzZZZZ\"",
-  "contraption.dream_crystal.description_evocation": "Evocation: becomes invincible, regenerate health for surrounding contraptions",
+  "contraption.dream_crystal.description": "Toughness: <color=red>Slightly high</color>\nSpecial: regenerates health\n\nChemistry class be like:\n\"Dream Crystal is a pink colour, semi-transparent crystal with regeneration effect, mainly composed of Dreamium Diowhat (The chemical formula is DrO2),can be used to refine Nightmarium KonoDioda(NmO2) using Nightmarium Sulfate (NmSO4), which is the main component of Maren o l……~~--~zzzzZZZZ\"", //
+  "contraption.dream_crystal.description_evocation": "Evocation: becomes invincible, regenerates health for surrounding contraptions", //
   "contraption.dream_crystal.description_header": "Dream Crystals slowly regenerate their health.",
   "contraption.dream_crystal.name": "Dream Crystal",
   "contraption.dream_crystal.tooltip": "Barrier with regeneration",
-  "contraption.dream_silk.description": "Special: single use\n\nDream Silk is a sleepy guy, the first thing he does after awaking up is sleeping. Look at him, its recharging time is increased because of this.",
+  "contraption.dream_silk.description": "Special: single use\n\nDream Silk is a sleepy guy, the first thing he does after waking up is sleeping. Look at him, its recharge time is increased because of this.", //
   "contraption.dream_silk.description_evocation": "Evocation: None",
-  "contraption.dream_silk.description_header": "Dream Silk makes a contraption to fall asleep. After it wakes up, a Starshard would appear.",
+  "contraption.dream_silk.description_header": "Dream Silk makes a contraption fall asleep. After it wakes up, a Starshard appear.", //
   "contraption.dream_silk.name": "Dream Silk",
-  "contraption.dream_silk.tooltip": "Let a contraption fall asleep, create a Starshard after waking up",
+  "contraption.dream_silk.tooltip": "Make a contraption sleep, create a Starshard when it wakes up", //
   "contraption.drivenser.description": "Special: can only be upgraded 4 times\nDrivenser is a technical nerd, he also knows how to assemble a computer, properties of different softwares and hardwares, different coding languages, etc. Recently he wants to compile a game to re-tell this war with the zombies, but someone's already ahead.",
   "contraption.drivenser.description_evocation": "Evocation: shoots five large arrows",
-  "contraption.drivenser.description_header": "Place Drivensers on itself to add the number of arrows per shot.",
+  "contraption.drivenser.description_header": "Place another Drivenser on an existing one to increase the number of arrows per shot.", //
   "contraption.drivenser.name": "Drivenser",
   "contraption.drivenser.tooltip": "Stackable, add arrows per shot after stacked",
-  "contraption.force_pad.description": "<color=red>Must be placed on Gravity Pad</color>\nUsage: \nUp/Down: <color=red>Change Objects' Lanes</color>\nFront/Back: <color=red>Make projectiles turn back, or boost and add knockback on them. Move enemies which walk on.</color>\n\nUnlike the other's thinking, Force Block doesn't like to force others to do things. He thinks that everyone should follow his own will, and everyone is free to do anything. But sometimes, he will force some people to make changes, which can't help him.",
-  "contraption.force_pad.description_evocation": "Evocation: Move enemies around to a certain place.",
-  "contraption.force_pad.description_header": "The force direction of Force Pads can be changed by triggering. Take advantage of this to change the move trail of things on it, and buff the projectiles.",
+  "contraption.force_pad.description": "<color=red>Must be placed on Gravity Pad</color>\nUsage: \nUp/Down: <color=red>Changes objects' lane</color>\nFront/Back: <color=red>Makes projectiles turn back, or speed-boosted and have knockback effect. Moves enemies on it.</color>\n\nContrary to what people think, Force Pad doesn't like forcing others to do things, he believes that everyone should follow their own will, and have the right to do whatever they want. But sometimes, he is forced to force some people to change their decision, and he can't do anything about it.", //
+  "contraption.force_pad.description_evocation": "Evocation: Moves near enemies to a certain spot.", //
+  "contraption.force_pad.description_header": "The direction of Force Pads can be changed by triggering. Take advantage of this to change the movement of things above it, and boost projectiles.", //
   "contraption.force_pad.name": "Force Pad",
   "contraption.force_pad.tooltip": "(Requires Gravity Pad)\nChange the force on thing over it",
   "contraption.furnace.description": "ME production: <color=red>Medium</color>\n\nSomeone was so lazy that they installed a dropper attached to the mine under it. Oh and that mine uses geothermal energy.",
-  "contraption.furnace.description_evocation": "Evocation: generates a large number of redstone",
+  "contraption.furnace.description_evocation": "Evocation: rapidly generates a large amount of redstone", //
   "contraption.furnace.description_header": "Furnaces are essential for you to generate extra redstone which can be converted to ME. Try placing as many as you can!",
   "contraption.furnace.name": "Furnace",
   "contraption.furnace.tooltip": "Provide additional redstone",
-  "contraption.glowstone.description": "And God said: Let there be light, and there were torches. And God said: Let there be solid light, and there were glowstones. And God said: Let there be controllable solid light, and there was redstone light. God said: Ok that's enough",
+  "contraption.glowstone.description": "And God said: Let there be light, and there were torches. And God said: Let there be solid light, and there were Glowstones. And God said: Let there be controllable solid light, and there was Redstone Light. God said: Ok that's enough", //
   "contraption.glowstone.description_evocation": "Evocation: stuns all enemies",
-  "contraption.glowstone.description_header": "The light from Glowstones can clear fog, detect ghosts and protect contraptions from rebelling.",
+  "contraption.glowstone.description_header": "The light of Glowstones can clear fog, reveal ghosts and prevent contraptions from rebelling.", //
   "contraption.glowstone.name": "Glowstone",
-  "contraption.glowstone.tooltip": "Light areas, clear fog and detect ghosts",
-  "contraption.gravity_pad.description": "Special: cannot be eaten by enemies\n\nOnce upon a time, Gravity Block was sitting under an apple tree, and suddenly an apple fell on its head, and then it was smashed flat - it was Golden Apple.",
+  "contraption.glowstone.tooltip": "Light an area, clear fog and reveal ghosts", //
+  "contraption.gravity_pad.description": "Special: cannot be eaten by enemies\n\nOnce upon a time, Gravity Block was sitting under an apple tree, and suddenly an apple fell on its head, and then it was smashed flat - it was a Golden Apple.", //
   "contraption.gravity_pad.description_evocation": "Evocation: Anvil falls from the sky, crushes enemies and stops them",
   "contraption.gravity_pad.description_header": "Gravity Pads can lower the height of projectiles above it, and make enemies on it unable to climb or jump.",
   "contraption.gravity_pad.name": "Gravity Pad",
   "contraption.gravity_pad.tooltip": "Increase the gravity of things above it",
   "contraption.infectenser.description": "Damage: <color=red>Medium</color>\n<color=red>Must be placed on Small Disnepsner</color>\n<color=blue>Can only be used at night</color>\n\nInfectenser has won the Disbel Prize in virology, but due to the epidemic situation, the award ceremony could not be held.",
-  "contraption.infectenser.description_evocation": "Evocation: Make all parasitizing parabots to self-destruct.",
+  "contraption.infectenser.description_evocation": "Evocation: Makes all parasitizing parabots self-destrcut by exploding.", //
   "contraption.infectenser.description_header": "Infectenser can shoot parabots which both deal damage and parasitize enemies. Parasitized enemies will shoot new parabots to enemies around.",
   "contraption.infectenser.name": "Infectenser",
   "contraption.infectenser.tooltip": "(Requires Small Dispenser)\nShoot parabots which spread between enemies",
-  "contraption.lily_pad.description": "<color=blue>Can only be placed on water</color>\n\n\"Why are you making me a gift for Sakuya?! I am NOT a lily chest pad!\"",
-  "contraption.lily_pad.description_evocation": "Evocation: summons four copies at four directions",
-  "contraption.lily_pad.description_header": "Lilypads allows you to place non-aquatic contraptions directly on water.",
+  "contraption.lily_pad.description": "<color=blue>Must be placed in water</color>\n\n\"Why are you making me a gift for Sakuya?! I am NOT a lily chest pad!\"", //
+  "contraption.lily_pad.description_evocation": "Evocation: summons four copies in four directions", //
+  "contraption.lily_pad.description_header": "Lilypads allow you to place non-aquatic contraptions on water.", //
   "contraption.lily_pad.name": "Lilypad",
   "contraption.lily_pad.tooltip": "Allow you to place contraptions on water",
   "contraption.magichest.description": "Clownpiece was obssessed with America after seeing the USA flag on the Moon, and Magichest was obssessed with it after seeing Clownpiece. Now he's all down the streets protesting and shouting \"AMERICA F*#K YEAH\" and no one can stop him.",
@@ -716,7 +716,7 @@
   "contraption.mine_tnt.description_header": "Mine TNTs cause a great deal of damage, but they need a while to arm themselves.",
   "contraption.mine_tnt.name": "Mine TNT",
   "contraption.mine_tnt.tooltip": "Explode on contact, but take time to arm itself",
-  "contraption.moonlight_sensor.description": "ME production: <color=red>Low</color>, then <color=red>medium</color>\n<color=blue>Can only be used at night</color>\n\nMaybe you're asking why it isn't a Daylight Sensor. It moonlights as a Moonlight Sensor, and it loves the job so much.",
+  "contraption.moonlight_sensor.description": "ME production: <color=red>Low</color>, then <color=red>Medium</color>\n<color=blue>Can only be used at night</color>\n\nMaybe you're asking why it isn't a Daylight Sensor. It moonlights as a Moonlight Sensor, and it loves the job so much.", //
   "contraption.moonlight_sensor.description_evocation": "Evocation: instantly upgrades, glows with blue light and increases its yield by 2.5 times.",
   "contraption.moonlight_sensor.description_header": "Moonlight Sensors provide ME at night, and increase the yield after a while.",
   "contraption.moonlight_sensor.name": "Moonlight Sensor",
@@ -726,13 +726,13 @@
   "contraption.obsidian.description_header": "Obsidians are hard materials which you can use to prevent monsters from advancing and protect your other contraptions.",
   "contraption.obsidian.name": "Obsidian",
   "contraption.obsidian.tooltip": "Protect your other contraptions",
-  "contraption.pistenser.description": "Special: can attack enemies on air\n\n\"It's over zombies, I have the high ground!\" Those were his last words before a Ghast burns his leg- uhh, neck off.",
-  "contraption.pistenser.description_evocation": "Evocation: shoots giant armor-piercing spike seeds to at most 10 enemies",
-  "contraption.pistenser.description_header": "Pistensers can stretch themselves to attack enemies on air.",
+  "contraption.pistenser.description": "Special: can attack enemies in the air\n\n\"It's over zombies, I have the high ground!\" Those were his last words before a Ghast burns his leg- uhh, neck off.", //
+  "contraption.pistenser.description_evocation": "Evocation: shoots seeds of giant armor-piercing spike at up to 10 enemies", //
+  "contraption.pistenser.description_header": "Pistensers can stretch themselves to attack enemies in the air.", //
   "contraption.pistenser.name": "Pistenser",
-  "contraption.pistenser.tooltip": "Stretch itself to attack enemies on air.",
+  "contraption.pistenser.tooltip": "Stretch itself to attack enemies in the air.", //
   "contraption.punchton.description": "Damage: <color=red>Slightly High</color>, and <color=red>Ignore Armors</color>\n\nPunchton the piston, or One Punch Piston, punched a punch using a punch of tons.",
-  "contraption.punchton.description_evocation": "Evocation: extends piston arm and performs a knockback to all enemies in front",
+  "contraption.punchton.description_evocation": "Evocation: extends piston arm and knock back all enemies in front", //
   "contraption.punchton.description_header": "Punchtons can knock back enemies frontwards, and crush stones.",
   "contraption.punchton.name": "Punchton",
   "contraption.punchton.tooltip": "Knock back enemies and crush stones",
@@ -742,7 +742,7 @@
   "contraption.recharge.long": "Long",
   "contraption.recharge.short": "Short",
   "contraption.recharge.very_long": "Very Long",
-  "contraption.silvenser.description": "Damage: <color=red>Low-Medium</color>, <color=red>Medium-High</color> for fleshes\nSpecial: projectiles deal more damage to specific enemy types, blocked by hard objects\n\n\"DiDi, I've learned something... The more arrows you shoot, the more unexpected events come along. As long as you cannot go beyond your arrows...\"\"What? What do you mean?!\"\"I reject my arrows, DiDi!\"",
+  "contraption.silvenser.description": "Damage: <color=red>Low-Medium</color>, <color=red>Medium-High</color> against flesh\nSpecial: projectiles deal more damage to specific enemy types, blocked by hard objects\n\n\"DiDi, I've learned something... The more arrows you shoot, the more unexpected events come along. As long as you cannot go beyond your arrows...\"\"What? What do you mean?!\"\"I reject my arrows, DiDi!\"", //
   "contraption.silvenser.description_evocation": "Evocation: creates circles of knives with at most 10 enemies as the centers, knives start flying after a few seconds.",
   "contraption.silvenser.description_header": "Silvensers shoot piercing knives which can slice the flesh but are blocked by hard objects.",
   "contraption.silvenser.name": "Silvenser",
@@ -753,7 +753,7 @@
   "contraption.small_dispenser.name": "Small Dispenser",
   "contraption.small_dispenser.tooltip": "Shoot short-ranged snowballs",
   "contraption.soul_furnace.description": "Damage: <color=red>High</color>\nSpecial: needs to be fueled by burning other contraptions\n<color=blue>Can only be used at night</color>\n\nWhat is it burning inside the Soul Furnace? Sinners' soul? Slags of Hell? Don't think too much. It's just an ordinary jack o' lantern.",
-  "contraption.soul_furnace.description_evocation": "Evocation: consumes all the remaining fuel to shoot Soulfire Balls towards random enemies.",
+  "contraption.soul_furnace.description_evocation": "Evocation: consumes all the remaining fuel to rapidly shoot soulfire balls towards random enemies.", //
   "contraption.soul_furnace.description_header": "Soul Furances shoot terrifying soulfires, but will burn the contraption in front as its fuel.",
   "contraption.soul_furnace.name": "Soul Furance",
   "contraption.soul_furnace.tooltip": "Shoot strong soulfires, but burn the contraption in front",
@@ -762,16 +762,16 @@
   "contraption.tnt.description_header": "TNTs deal huge damage to surrounding enemies after being triggered.",
   "contraption.tnt.name": "TNT",
   "contraption.tnt.tooltip": "Blow up surrounding enemies after being triggered",
-  "contraption.totenser.description": "Special: posion on the dart decreases enemies's damage\n\nWhat god does Totenser believe in? According to the history of Contraption Intelligence, It may believe in various mechanic gods. Some people say that it actually believes in the human inventor who made the machine, and some even say that it believes in the mechanic old gods. People discussing, but they don't know, It just put his faith in his waifus.",
-  "contraption.totenser.description_evocation": "Evocation: throws a spear which pierces enemies, and leave a trial with weakening gas",
+  "contraption.totenser.description": "Special: posion on its dart decreases enemies's damage\n\nWhat god does Totenser believe in? According to the history of Contraption Intelligence, It may believe in various mechanic gods. Some people say that it actually believes in the human inventor who made the machine, and some even say that it believes in the mechanic old gods. People's discussion went on for decades, but the truth is, it just put his faith in his waifus.", //
+  "contraption.totenser.description_evocation": "Evocation: throws a spear which pierces through enemies, and leave a trail of weakening gas", //
   "contraption.totenser.description_header": "Totensers shoot poisonous darts and burn nearby enemies with fire.",
   "contraption.totenser.name": "Totenser",
   "contraption.totenser.tooltip": "Shoot weakening darts and burn nearby enemies",
-  "contraption.vortex_hopper.description": "<color=blue>Can only be placed on water</color>\n\nAs for his favorite pastime, he likes to spin himself as a spinning top while singing \"MAWARE MAWARE MAWARE MAWARE MAWARE MAWARE MAWARE MAWARE MAA WAA REE!\".",
-  "contraption.vortex_hopper.description_evocation": "Evocation: Drag enemies in a wider range underwater",
-  "contraption.vortex_hopper.description_header": "Vortex Hoppers drag all closing enemies underwater when spinning.",
+  "contraption.vortex_hopper.description": "<color=blue>Must be placed in water</color>\n\nAs for his favorite pastime, he likes to spin himself as a spinning top while singing \"MAWARE MAWARE MAWARE MAWARE MAWARE MAWARE MAWARE MAWARE MAA WAA REE!\".", //
+  "contraption.vortex_hopper.description_evocation": "Evocation: drags enemies in a wider range underwater", //
+  "contraption.vortex_hopper.description_header": "Vortex Hoppers drag all enemies close to it underwater when spinning.", //
   "contraption.vortex_hopper.name": "Vortex Hopper",
-  "contraption.vortex_hopper.tooltip": "Drag closing enemies underwater",
+  "contraption.vortex_hopper.tooltip": "Drag enemies close to it underwater", //
   "death_message.cave_spider": "Here comes the itsy bitsy spider!",
   "death_message.crushing_walls": "<color=red>C O M E   T O   U S</color>",
   "death_message.gargoyle": "Job's done, back to vibing as a statue.",
@@ -795,13 +795,13 @@
   "enemy.capped_zombie.description_header": "Leather Cap Zombies have leather cap armors that resist bullets.\n\nToughness: <color=red>Medium</color>\nSpeed: <color=red>Medium</color>",
   "enemy.capped_zombie.name": "Leather Cap Zombie",
   "enemy.cave_spider.description": "It has won the \"Spidernet Surfing Competition\" many times, just because other spiders can't swim.",
-  "enemy.cave_spider.description_header": "Cave Spiders cannot climb over the contraptions, but they can only be hit by low height projectiles and can swim.\n\nDurability: <color=red>Very Low</color>\nSpeed: <color=red>Fast</color>\nSpecial: <color=red>Can only be hit by low height projectiles</color>",
+  "enemy.cave_spider.description_header": "Cave Spiders cannot climb over the contraptions, but they can only be hit by low height projectiles and can swim.\n\nDurability: <color=red>Very Low</color>\nSpeed: <color=red>Fast</color>\nSpecial: <color=red>can only be hit by low height projectiles</color>", //
   "enemy.cave_spider.name": "Cave Spider",
   "enemy.flag_zombie.description": "When he was awarded the flag, he felt extremely honored and proud. He felt as if he was the leader of the zombies, he had the supreme position, and he fluttered all the time. However, he didn't know how many zombies behind were laughing at him as a meatshield.",
   "enemy.flag_zombie.description_header": "The appearance of flag-holding zombies marks the arrival of a large wave of zombies.\n\nToughness: <color=red>Low</color>",
   "enemy.flag_zombie.name": "Flag Zombie",
   "enemy.gargoyle.description": "These guys usually stay silent as statues all the time, but they're actually just saving up their energy for another stormy night - which is when they party.",
-  "enemy.gargoyle.description_header": "Gargoyles will be revived from statues when the Final Wave comes.\n\nToughness: <color=red>Medium-High</color>\n\nWeakness: <color=red>Punchtons</color>",
+  "enemy.gargoyle.description_header": "Gargoyles will be revived from statues when the final wave comes.\n\nToughness: <color=red>Medium-High</color>\n\nWeakness: <color=red>Punchtons</color>", //
   "enemy.gargoyle.name": "Gargoyle",
   "enemy.ghast.description": "########ANNOUNCEMENT########\n· Local Hell Creature Exhibition Hall contains various types of hell creatures, including ghasts, zombified piglins (out of stock), wither skeletons, etc.\n· Prohibit touching hell creatures by all means\n· No photography\n· Do not feed diamond helmets to ghasts",
   "enemy.ghast.description_header": "Ghasts can fly in the sky and bombard your contraptions.\n\nToughness: <color=red>Low</color>\nSpeed: <color=red>Average</color>\nFeatures: <color=red>Will not be hit by bullets of normal height</color>",
@@ -813,7 +813,7 @@
   "enemy.helmeted_zombie.description_header": "The iron helmet of the Iron Helmet Zombie provides him with extremely high protection.\n\nToughness: <color=red>High</color>",
   "enemy.helmeted_zombie.name": "Iron Helmet Zombie",
   "enemy.mother_terror.description": "Good at inserting bugs into network files.",
-  "enemy.mother_terror.description_header": "Mother Terrors will lay they eggs into other enemies's body.\n\nDurability: <color=red>Medium</color>\nSpeed: <color=red>Fast</color>, then <color=red>Very Slow (After laid eggs)</color>\nSpecial: <color=red>Flesh bodies they touched will be parasitic</color>",
+  "enemy.mother_terror.description_header": "Mother Terrors lay their eggs into other enemies' body.\n\nDurability: <color=red>Medium</color>\nSpeed: <color=red>Fast</color>, then <color=red>Very Slow (After laid eggs)</color>\nSpecial: <color=red>flesh bodies they touched will be parasitized</color>", //
   "enemy.mother_terror.name": "Mother Terror",
   "enemy.mummy.description": "Just like everyone's mummy, mummies like perfumes. They're fanatic enough to carve the fragrance into the bones, putting people around them to death. They died from mummies, so they're called... \"Deaddies\".",
   "enemy.mummy.description_header": "Mummies will release gas after they die, which can heal the undead and damage contraptions.\n\nToughness: <color=red>Low-Medium</color>\nWeakness：<color=red>Fire, Fire can burn its gas</color>",
@@ -823,12 +823,12 @@
   "enemy.necromancer.description_header": "Necromancer can build temporary bone walls to block bullets.\n\nToughness: <color=red>Low</color>\nBone Wall Toughness: <color=red>Low-Medium</color>",
   "enemy.necromancer.name": "Necromancer",
   "enemy.parasite_terror.description": "It hasn't figured out how to write its own network jokes.",
-  "enemy.parasite_terror.description_header": "Parasite Terrors will shred the hosts' bodies and come out after they matures.\n\nDurability: <color=red>Extremely Low - Very Low (Variable)</color>\nSpeed: <color=red>Very Fast</color>",
+  "enemy.parasite_terror.description_header": "Parasite Terrors shred the hosts' body and come out after they mature.\n\nDurability: <color=red>Extremely Low - Very Low (Variable)</color>\nSpeed: <color=red>Very Fast</color>", //
   "enemy.parasite_terror.name": "Parasite Terror",
-  "enemy.skeleton.description": "Skeletons possess high archery accomplishments. People saw with their own eyes that one of them shot a sleeping wolf, but it didn't die, it WOKE.",
+  "enemy.skeleton.description": "Skeletons possess high archery accomplishments. People saw with their own eyes that one of them shot a sleeping wolf, it didn't die though, it woke up.", //
   "enemy.skeleton.description_header": "Skeletons can shoot arrows at your rightmost contraption.\n\nToughness: <color=red>Low</color>\nArrow Damage: <color=red>Medium</color>\nSpecial: <color=red>unable to shoot and ignore low-height contraptions</color>",
   "enemy.skeleton.name": "Skeleton",
-  "enemy.spider.description": "The Net bars opened by Spiders is quite profitable, because everyone are stuck by the net.",
+  "enemy.spider.description": "The Internet Bars opened by Spiders is quite profitable, because everyone is stuck in the net.", //
   "enemy.spider.description_header": "Spiders can climb over your defenses.\n\nDurability: <color=red>Low</color>\nSpeed: <color=red>Fast</color>\nSpecial: <color=red>Can climb over defensive contraptions</color>",
   "enemy.spider.name": "Spider",
   "enemy.unknown.description": "(Not encountered yet)",
@@ -852,10 +852,10 @@
   "mainmenu.archives": "Archives",
   "mainmenu.your_name": "Your Name: ",
   "misc.almanac.description": "The book is written in this book, and you are reading an entry in this book about the book itself described by this book.\nWhen you look at the entry of the book in this book and feel dizzy, you feel dizzy reading the description by this book for the book in this book.\nTime for you to revise your English.",
-  "misc.almanac.description_header": "A magical almanac, once owned by Orant, will automatically record everything that comes across you.",
+  "misc.almanac.description_header": "A magical almanac, once owned by Orant, will automatically record everything that you come across.", //
   "misc.almanac.name": "Almanac",
-  "misc.dream_key.description": "A key full of magic used to open a gate towards the dreamlands of other worlds.\nBut can only be used to access the dreams of other worlds. The reality of the corresponding worlds cannot be approached via its dreams without permission from certain “administrators.”\nThere is an ancient inscription on the key:\nTo fall asleep in the harsh reality\nTo the land of fantasy\nTo the end of the light\nTo the dream's awakening",
-  "misc.dream_key.description_header": "A key used to open a gate towards the dreamlands of other worlds, allowing others to enter, held by Orant.",
+  "misc.dream_key.description": "A key full of magical power, that can be used to open gates to the dreamland of other worlds.\nNote that it can only be used to access the dream of other worlds. The reality of the corresponding world cannot be approached via its dream without permission from certain “administrators.”\nThere is an ancient inscription engraved on the key:\nTo fall asleep in the harsh reality\nTo the land of fantasy\nTo the end of the light\nTo the dream's awakening", //
+  "misc.dream_key.description_header": "A key used to open gates towards the dreamland of other worlds, allowing people to enter, held by Orant.", //
   "misc.dream_key.name": "Dream Key",
   "misc.eternal_night_swamp.description": "Some contents of this entry will not be displayed due to the restrictions set by Orant.",
   "misc.eternal_night_swamp.description_header": "Time stops in this cursed swamp of Halloween eve, where Orant, the soul sorceress lives.  ",
@@ -867,7 +867,7 @@
   "misc.gargoyle_statue.description_header": "Gargoyle Statues will become Gargoyles at the final wave.",
   "misc.gargoyle_statue.name": "Gargoyle Statue",
   "misc.minecart.description": "There was a time when Minecarts with Furnaces were a thing.\nOnly the cool kids will remember this.",
-  "misc.minecart.description_header": "Steve’s House’s last line of defense. It will crush enemies in the whole lane when they get too close to the house.",
+  "misc.minecart.description_header": "Steve’s House’s last line of defense. It will crush all enemies in the lane when they get too close to the house.", //
   "misc.minecart.name": "Minecart",
   "misc.miner.description": "Steve is good at mechanics, and this miner is built by him. With the help of solar energy, it can automatically find the underground storage of redstone ore, and then transport it to the surface for ME.\n...But since it needs solar energy, why not directly turn solar energy into ME?",
   "misc.miner.description_header": "Steve's automated miner, which automatically digs for redstone during the day.",
@@ -876,39 +876,39 @@
   "misc.napstablook.description_header": "Napstablook will get ANGERY when you hit it with your sword, causing the sword to be paralyzed for a short while.",
   "misc.napstablook.name": "Napstablook",
   "misc.pumpkin_carriage.description": "The eternal flame inside the pumpkins cannot be extinguished by water, blown away by wind or affected by chemical reactions. Always throw this away whenever you want to hide though - you literally can’t turn this thing off.",
-  "misc.pumpkin_carriage.description_header": "The last line of defense in the Swamp. It can glow green, and will crush enemies in the whole lane when they get too close to the house.",
+  "misc.pumpkin_carriage.description_header": "The last line of defense in the Swamp. It can glow green, and will crush all enemies in the lane when they get too close to the house.", //
   "misc.pumpkin_carriage.name": "Pumpkin Carriage",
-  "misc.starshard.magic_candy.description": "Records left by an anonymous person.\nStar Record 1:\nSince then, whenever I slept, I had always dreamed of an object in the unfathomable darkness. It was shining as bright as the stars, but then it went away from me.\nI don't understand what it meant. Later, even when I wasn't dreaming, I could always see similar objects, which was very abnormal.\nWhen I left the land that didn't belong to me, I saw a rainbow-colored candy in a swamp. It was very similar to those stars, but I was still not sure what it could be.",
+  "misc.starshard.magic_candy.description": "Records left by an anonymous person.\nStar Record 1:\nSince then, whenever I slept, I would always dream of an object in an unfathomable darkness, it shone in the shape of a star, and then went away from me.\nI didn't understand what it means. Later, even when I wasn't dreaming, I could still often see similar objects, which is very abnormal.\nWhen I left the land that I don't belong to, I saw a rainbow-colored candy in a swamp. It was very similar to those stars, but I was still not sure what they were.", //
   "misc.starshard.magic_candy.description_header": "Starshards can evoke your contraptions, and make your contraptions burst with superpower.",
   "misc.starshard.magic_candy.name": "Starshard: Magic Candy",
   "misc.steves_house.description": "Crazy Villager's Village has previously been ruined by a raid from zombies, so they moved to a wide plain near the road, and started a new life.",
   "misc.steves_house.description_header": "Steve and Crazy Villager live here.",
   "misc.steves_house.name": "Steve's House",
-  "misc.starshard.lucid_dream.description": "Records left by an anonymous person.\n\nStar record 2:\nI had a very strange dream.\nI dreamed that I was floating and sinking in a purple space full of eyes. I saw a girl with yellow hair sitting in the air with a purple parasol.\nShe seemed to be busy with her own business and didn't notice me. Then I fell into a bottomless abyss.\nI opened my eyes and found myself in an open space, surrounded by pink flower trees.",
+  "misc.starshard.lucid_dream.description": "Records left by an anonymous person.\n\nStar record 2:\nI had a very strange dream.\nI dreamed that I was floating and sinking in a purple space full of eyes. I saw a girl with yellow hair sitting in the air with a purple parasol.\nShe seemed to be busy with her own business and didn't notice me. Then I fell into a bottomless abyss.\nI opened my eyes and found myself in a plain field, surrounded by trees with pink flowers.", //
   "misc.starshard.lucid_dream.description_header": "Starshards can evoke your contraptions, and make your contraptions burst with superpower.",
   "misc.starshard.lucid_dream.name": "Starshard: Lucid Dream",
   "misc.nyan_cat.description": "NyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyan",
-  "misc.nyan_cat.description_header": "Nyan Cats are cute that can make touched enemies die.",
+  "misc.nyan_cat.description_header": "Nyan Cats are so cute that they can make touched enemies die.", //
   "misc.nyan_cat.name": "Nyan Cat",
-  "misc.dream_world.description": "The dreams of all creatures are interconnected, and the dream world is where these dreams are located.\nDoremy watchs and manages the dream world and prevents anyone who attempts to use the dream world to interfere with the real world and destroy the order of the dream world.\nAfter Steve and Villager came to the dream world, the Dream World showed the shape of a pool lawn, and this is their main battlefield.",
-  "misc.dream_world.description_header": "Dream World is the world of everyone's dreams which is administrated by Doremy.",
+  "misc.dream_world.description": "The dreams of all creatures are interconnected, and the Dream World is where these dreams are located.\nDoremy watchs and manages the Dream World and stops anyone who attempts to use the Dream World to interfere with the reality world and disrupt the order of Dream World.\nAfter Steve and Villager came to the dream world, the Dream World showed the shape of a pool lawn, which became their main battlefield.", //
+  "misc.dream_world.description_header": "Dream World is the world of everyone's dreams, it is administrated by Doremy.", //
   "misc.dream_world.name": "Dream World",
   "misc.nyaightmare.description": "\"I HATE YOU.\"",
-  "misc.nyaightmare.description_header": "Nyaightmares will pierce anyone it hates to death.",
+  "misc.nyaightmare.description_header": "Nyaightmares will pierce anyone it hate to death.", //
   "misc.nyaightmare.name": "Nyaightmare",
-  "misc.nightmare_world.description": "Doremy has seen a black horse in Dream World before about 1 month, that's disguised Nightmare. Then, Nightmare started its corruption, and deceived everyone in the Dream World, until it cursed Doremy.\nNow you see the true appearance of Dream World.",
-  "misc.nightmare_world.description_header": "Nightmare World is corrupted Dream World by Nightmare.",
+  "misc.nightmare_world.description": "Doremy had seen a black horse in Dream World about a month ago, that was the disguised Nightmare. Then, Nightmare started its corruption, and deceived everyone in the Dream World, until it cursed Doremy.\nWhat you now see the true appearance of Dream World.", //
+  "misc.nightmare_world.description_header": "Nightmare World is Dream World corrupted by Nightmare.", //
   "misc.nightmare_world.name": "Nightmare World",
   "misc.blurred_note.description": "???",
   "misc.blurred_note.description_header": "???",
   "misc.blurred_note.name": "Blurred Note",
-  "misc.nightmare_boss.description": "Nightmares are the residues abandoned by the old gods born from the void. They float in groups in the deep universem, tempted by fear, devour and corrupt everything they encounter. They are monsters that are neither welcomed by the old gods nor accepted by life.\nThere are thousands of nightmares in the universe. Only this one smelled the fear of the dream world and landed here. In order to protect its weak body in the early stage, it disguised as a horse to deceive the dream manager, and then began to corrupt the whole dream and take the whole dream world as its own.\nAs the residue of old gods, its power can not be underestimated. Human beings with fragile mind cannot perceive its disturbing and unspeakable appearance. In order to protect their mind, they will regard it as something they can accept, but still have a frightening appearance.",
+  "misc.nightmare_boss.description": "Nightmares are the residues abandoned by the old gods born from the void. They float in groups in the deep universe, tempted by fear, devour and corrupt everything they encounter. They are monsters that are neither welcomed by the old gods nor accepted by life.\nThere are hundreds of thousands of Nightmares in the universe. Only this one smelled the traces of fear in the Dream World and landed there. In order to protect its weak body in its early development stage, it disguised as a horse to deceive the dream manager, and then began to corrupt the whole dream without anyone knowing, and take the whole Dream World as its own.\nAs the residue of old gods, its power can not be underestimated. Human beings with fragile mind cannot perceive its disturbing and unspeakable appearance. In order to protect their mind, they will perceive it as something they can accept, but still have a frightening appearance.",
   "misc.nightmare_boss.description_header": "Nightmare is a terrible monster with the ability to deceive senses and corrupt, with countless incarnations.",
   "misc.nightmare_boss.name": "Nightmare",
-  "misc.grave_in_dream.description": "Steve had no parents from the beginning. He was unconsciously transferred to the village and raised by Dave.\nSteve is not a blocky creature like Villager, so he is often discriminated against and ridiculed, and wants to know who his parents are.\nSeems like this mystery is about to be solved from this adventure.",
+  "misc.grave_in_dream.description": "Steve had no parents from the beginning of his life. He was unknowingly transferred to the village and raised by Dave.\nSteve is not a blocky creature like Villager, so he is often discriminated against and ridiculed, and wants to know who his parents are.\nSeems like this mystery is going to be solved from this adventure.", //
   "misc.grave_in_dream.description_header": "Doremy mentioned that Steve had seen a grave in his dream, and it was the grave Steve had seen when he was very young.",
   "misc.grave_in_dream.name": "Grave in Dream",
-  "misc.nightmare_box.description": "The Nightmare Box no longer contains any harmful magic. All it can do is just project the nightmare world's image.",
+  "misc.nightmare_box.description": "The Nightmare Box no longer contains any harmful magic. All it can do is project the Nightmare World's image.", //
   "misc.nightmare_box.description_header": "The Nightmare Box is a container made by collected dark magic of Nightmare, and can turn the Dream World into Nightmare World.",
   "misc.nightmare_box.name": "Nightmare Box",
   "music.choosing.name": "Choose Your Seeds",
@@ -928,12 +928,12 @@
   "store.crazy_villager.chat.0": "Whaddaya Buyin'?",
   "store.crazy_villager.chat.1": "I eat things off the floor!",
   "store.crazy_villager.chat.2": "A hanged man brings you luck today!",
-  "store.crazy_villager.chat.3": "You have no idea how much Dirt Blocks sell this side of sea!",
+  "store.crazy_villager.chat.3": "You have no idea how much Dirt Blocks sell on this side of the sea!", //
   "store.crazy_villager.chat.4": "Hmm! I mean, hmm!",
-  "store.crazy_villager.chat.5": "Buying multiple blueprints in once will cause something terrible! I'm lying!",
+  "store.crazy_villager.chat.5": "Buying multiple blueprints at once will cause something terrible! I'm lying!", //
   "store.crazy_villager.mvz2.card_slots": "Extra blueprint slot! Allows you to carry one more contraption to battle!",
   "store.crazy_villager.mvz2.force_pad": "Place Force Pads on your Gravity Pads, They can control the motion of objects over them!",
-  "store.crazy_villager.mvz2.infectenser": "Place Infectensers on your Small dispensers, Projectiles shot by them can spread between enemies!",
+  "store.crazy_villager.mvz2.infectenser": "Place Infectensers on your Small dispensers, projectiles shot by them can spread between enemies!", //
   "store.crazy_villager.mvz2.starshard_slots": "More starshard slots! Let your contraptions evoke more!",
   "store.insufficent_money": "You don't have enough money!",
   "store.page": "Page {0}/{1}",
