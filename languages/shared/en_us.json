@@ -731,7 +731,7 @@
   "contraption.pistenser.description_evocation": "Evocation: Shoots seeds of giant armor-piercing spikes at up to 10 enemies",
   "contraption.pistenser.description_header": "Pistensers can stretch themselves to attack enemies in the air.",
   "contraption.pistenser.name": "Pistenser",
-  "contraption.pistenser.tooltip": "Stretch itself to attack enemies in the air.",
+  "contraption.pistenser.tooltip": "Can attack enemies on air",
   "contraption.punchton.description": "Damage: <color=red>Very high</color>, and <color=red>ignore armors</color>\n\nPunchton the piston, or One Punch Piston, punched a punch using a punch of tons.",
   "contraption.punchton.description_evocation": "Evocation: Extends piston arm and knock back all enemies in front",
   "contraption.punchton.description_header": "Punchtons can knock back enemies, and crush hard objects.",
