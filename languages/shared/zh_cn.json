@@ -825,7 +825,7 @@
   "enemy.helmeted_zombie.description_header": "铁盔僵尸的铁盔给他提供了极高的防护。\n\n耐久：<color=red>高</color>",
   "enemy.helmeted_zombie.name": "铁盔僵尸",
   "enemy.mother_terror.description": "擅长在网络文件中捆绑流氓软件和BUG。",
-  "enemy.mother_terror.description_header": "恐怖之母会向血肉之躯寄生虫卵。\n\n耐久：<color=red>中等</color>\n速度：<color=red>快</color>，而后<color=red>很慢（产卵后）</color>\n特点：<color=red>碰到的血肉之躯会被寄生</color>",
+  "enemy.mother_terror.description_header": "恐怖之母会向血肉之躯寄生虫卵。它们也会在没有产卵的情况下死亡时释放恐怖寄生虫。\n\n耐久：<color=red>中等</color>\n速度：<color=red>快</color>，而后<color=red>很慢（产卵后）</color>\n特点：<color=red>碰到的血肉之躯会被寄生</color>",
   "enemy.mother_terror.name": "恐怖之母",
   "enemy.mummy.description": "就像所有人的奶奶一样，木乃伊喜欢香水。他们狂热到把香味刻进骨子，能把周围的人都熏死。总有人死于木乃伊，所以那些人被称为……“木爷伊”。",
   "enemy.mummy.description_header": "木乃伊会在死后放出能治疗亡灵并伤害器械的毒雾。\n\n耐久：<color=red>中低</color>\n弱点：<color=red>火，毒雾可以被火烧掉</color>",
