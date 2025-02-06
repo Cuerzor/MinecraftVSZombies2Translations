@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2025-02-06 09:18\n"
+"PO-Revision-Date: 2025-02-06 09:23\n"
 
 #. 初始界面的作者标识
 #: /MainGame/MainScene/Landing/Canvas/Creator
@@ -209,7 +209,7 @@ msgstr "Segments"
 
 #: /MainGame/MainScene/MusicRoom/Canvas/Index/Top/Title/Text
 msgid "音乐室"
-msgstr ""
+msgstr "Music Room"
 
 #. 成就完成提示
 #: /MainGame/MainScene/GlobalUICanvas/AchievementHint/Root/Region/Texts/Earned
@@ -1066,17 +1066,17 @@ msgstr "Are you sure to quit?\n"
 # 音乐室中的信息模板，{0}为音乐来源
 #: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:161
 msgid "来源：{0}"
-msgstr ""
+msgstr "Source: {0}"
 
 # 音乐室中的信息模板，{0}为音乐原曲
 #: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:163
 msgid "原曲：{0}"
-msgstr ""
+msgstr "Origin: {0}"
 
 # 音乐室中的信息模板，{0}为音乐作者
 #: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:165
 msgid "作者：{0}"
-msgstr ""
+msgstr "Author: {0}"
 
 # 地图的提示文本
 #: Scripts\MVZ2\Map\MapController.cs:631
@@ -1395,7 +1395,7 @@ msgstr "Crazy Dave"
 #: Music meta file
 msgctxt "music.source"
 msgid "植物大战僵尸"
-msgstr ""
+msgstr "Plants Vs. Zombies"
 
 #. Description for music mvz2:mainmenu
 #: Music meta file
@@ -1441,7 +1441,7 @@ msgstr "Lexonomicon Level"
 #: Music meta file
 msgctxt "music.source"
 msgid "书虫大冒险"
-msgstr ""
+msgstr "Bookworm Adventures"
 
 #. Description for music mvz2:halloween
 #: Music meta file
@@ -1518,7 +1518,7 @@ msgstr "Fractured Fairytales Level"
 #: Music meta file
 msgctxt "music.source"
 msgid "书虫大冒险 Vol.2"
-msgstr ""
+msgstr "Bookworm Adventures Vol.2"
 
 #. Description for music mvz2:dream_level
 #: Music meta file
@@ -1554,7 +1554,7 @@ msgstr "Suspension"
 #: Music meta file
 msgctxt "music.source"
 msgid "逆转裁判"
-msgstr ""
+msgstr "Ace Attorney"
 
 #. Description for music mvz2:suspension
 #: Music meta file
@@ -1573,7 +1573,7 @@ msgstr "The Binding of Isaac"
 #: Music meta file
 msgctxt "music.source"
 msgid "以撒的结合"
-msgstr ""
+msgstr "The Binding of Isaac"
 
 #. Description for music mvz2:nightmare_map
 #: Music meta file
@@ -1609,7 +1609,7 @@ msgstr "The Mysterious Shrine Maiden Flying Through Space"
 #: Music meta file
 msgctxt "music.source"
 msgid "东方绀珠传"
-msgstr ""
+msgstr "Legacy of Lunatic Kingdom"
 
 #. Description for music mvz2:nightmare_final
 #: Music meta file
@@ -1660,7 +1660,7 @@ msgstr "A Shadow in the Blue Sky"
 #: Music meta file
 msgctxt "music.source"
 msgid "东方星莲船"
-msgstr ""
+msgstr "Undefined Fantastic Object"
 
 #. Description for music mvz2:gensokyo_map
 #: Music meta file
@@ -1682,13 +1682,13 @@ msgstr "Fading Echoes of Memory"
 #: Music meta file
 msgctxt "music.source"
 msgid "原创"
-msgstr ""
+msgstr "Original"
 
 #. Author for music mvz2:distress
 #: Music meta file
 msgctxt "music.author"
 msgid "幻梦忧"
-msgstr ""
+msgstr "幻梦忧"
 
 #. Description for music mvz2:distress
 #: Music meta file
@@ -1711,13 +1711,13 @@ msgstr "The Shining Needle Castle Sinking to the Void"
 #: Music meta file
 msgctxt "music.source"
 msgid "东方辉针城"
-msgstr ""
+msgstr "Double Dealing Character"
 
 #. Origin for music mvz2:castle_map
 #: Music meta file
 msgctxt "music.origin"
 msgid "沉向天空的辉针城"
-msgstr ""
+msgstr "The Shining Needle Castle Sinking in the Air"
 
 #. Description for music mvz2:castle_map
 #: Music meta file
@@ -1738,13 +1738,13 @@ msgstr "Witherstep"
 #: Music meta file
 msgctxt "music.source"
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. Origin for music mvz2:castle_level
 #: Music meta file
 msgctxt "music.origin"
 msgid "Pigstep"
-msgstr ""
+msgstr "Pigstep"
 
 #. Description for music mvz2:castle_level
 #: Music meta file
@@ -1766,7 +1766,7 @@ msgstr "Zombies in your phone"
 #: Music meta file
 msgctxt "music.origin"
 msgid "有只僵尸在你的草坪上"
-msgstr ""
+msgstr "Zombies on your lawn"
 
 #. Description for music mvz2:phone_ring
 #: Music meta file
