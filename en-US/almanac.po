@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2025-02-06 05:11\n"
+"PO-Revision-Date: 2025-02-06 06:09\n"
 
 #. Header for contraptions mvz2:dispenser
 #: Almanac meta file
@@ -1602,7 +1602,7 @@ msgstr "Nyan Cats are soooo cute that they make any enemy touching it die."
 #: Almanac meta file
 msgctxt "misc.description"
 msgid "NyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyan"
-msgstr ""
+msgstr "NyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyanNyan"
 
 #. Name for misc mvz2:nyaightmare
 #: Almanac meta file
@@ -2214,7 +2214,7 @@ msgstr "Impacts enemies, take time to repair itself"
 #: Entity meta file
 msgctxt "entity.name"
 msgid "TNT"
-msgstr ""
+msgstr "TNT"
 
 #. Properties for entity mvz2:tnt
 #: Entity meta file
