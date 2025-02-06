@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2025-02-06 06:09\n"
+"PO-Revision-Date: 2025-02-06 09:18\n"
 
 #. 初始界面的作者标识
 #: /MainGame/MainScene/Landing/Canvas/Creator
@@ -206,6 +206,10 @@ msgstr "Play"
 #: /MainGame/MainScene/Archive/Canvas/Talk/Center/RightBook/Region/Title
 msgid "段落"
 msgstr "Segments"
+
+#: /MainGame/MainScene/MusicRoom/Canvas/Index/Top/Title/Text
+msgid "音乐室"
+msgstr ""
 
 #. 成就完成提示
 #: /MainGame/MainScene/GlobalUICanvas/AchievementHint/Root/Region/Texts/Earned
@@ -1059,6 +1063,21 @@ msgid "确认要返回吗？\n"
 msgstr "Are you sure to quit?\n"
 "Your progress will be saved."
 
+# 音乐室中的信息模板，{0}为音乐来源
+#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:161
+msgid "来源：{0}"
+msgstr ""
+
+# 音乐室中的信息模板，{0}为音乐原曲
+#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:163
+msgid "原曲：{0}"
+msgstr ""
+
+# 音乐室中的信息模板，{0}为音乐作者
+#: Scripts\MVZ2\MusicRoom\MusicRoomController.cs:165
+msgid "作者：{0}"
+msgstr ""
+
 # 地图的提示文本
 #: Scripts\MVZ2\Map\MapController.cs:631
 msgid "按住右键拖动以移动视图\n"
@@ -1091,22 +1110,22 @@ msgid "获取赞助者列表……"
 msgstr "Getting Sponsors..."
 
 # 删除用户时的错误信息，{0}为错误信息
-#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:581
+#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:587
 msgid "无法删除用户：{0}"
 msgstr "Cannot delete user: {0}"
 
 # 切换用户时的错误信息，{0}为错误信息
-#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:583
+#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:589
 msgid "无法切换至用户：{0}"
 msgstr "Cannot switch to user: {0}"
 
 # 删除用户时的错误信息
-#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:585
+#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:591
 msgid "没有其他有效的用户可供切换。"
 msgstr "There are no other available users to switch."
 
 # 退出对话框的描述
-#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:587
+#: Scripts\MVZ2\Mainmenu\MainmenuController.cs:593
 msgid "确认要退出吗？"
 msgstr "Quit?"
 
@@ -1372,11 +1391,32 @@ msgctxt "music.name"
 msgid "疯狂戴夫"
 msgstr "Crazy Dave"
 
+#. Source for music mvz2:mainmenu
+#: Music meta file
+msgctxt "music.source"
+msgid "植物大战僵尸"
+msgstr ""
+
+#. Description for music mvz2:mainmenu
+#: Music meta file
+msgctxt "music.description"
+msgid "主界面，以及关卡前对话的音乐。\n"
+"很经典的音乐，我就不多作评价了。\n"
+"请好好享受这音乐，并怀念2009年的快乐吧。"
+msgstr ""
+
 #. Name for music mvz2:choosing
 #: Music meta file
 msgctxt "music.name"
 msgid "选择你的种子"
 msgstr "Choose Your Seeds"
+
+#. Description for music mvz2:choosing
+#: Music meta file
+msgctxt "music.description"
+msgid "选择蓝图时，以及一些界面中的音乐。\n"
+"这关要选什么呢？"
+msgstr ""
 
 #. Name for music mvz2:day
 #: Music meta file
@@ -1384,11 +1424,32 @@ msgctxt "music.name"
 msgid "草地行走"
 msgstr "Grasswalk"
 
+#. Description for music mvz2:day
+#: Music meta file
+msgctxt "music.description"
+msgid "序章的音乐。\n"
+"一切开始的地方。"
+msgstr ""
+
 #. Name for music mvz2:halloween
 #: Music meta file
 msgctxt "music.name"
 msgid "莱克死灵之书-关卡"
 msgstr "Lexonomicon Level"
+
+#. Source for music mvz2:halloween
+#: Music meta file
+msgctxt "music.source"
+msgid "书虫大冒险"
+msgstr ""
+
+#. Description for music mvz2:halloween
+#: Music meta file
+msgctxt "music.description"
+msgid "万圣夜关卡的音乐。\n"
+"出自宝开之前的另一款佳作《书虫大冒险》，制作十分精良，可惜人气实在太低，并且由于强绑定英文而无法走向世界。\n"
+"实在是太可惜了。"
+msgstr ""
 
 #. Name for music mvz2:halloween_map
 #: Music meta file
@@ -1396,11 +1457,27 @@ msgctxt "music.name"
 msgid "莱克死灵之书-地图"
 msgstr "Lexonomicon Map"
 
+#. Description for music mvz2:halloween_map
+#: Music meta file
+msgctxt "music.description"
+msgid "万圣夜地图的音乐。\n"
+"那么这系列音乐原来使用在什么地方呢？\n"
+"《书虫大冒险》的主角Lex是一只书虫，负责管理大图书馆中的书籍。它先后穿梭于希腊神话、埃及神话，以及欧洲鬼怪故事这三本书中。\n"
+"而这首音乐则来自于第三本书——欧洲鬼怪故事中。其游戏内的名称即为《莱克死灵之书》，是Lex的名字和《死灵之书》的组合词。"
+msgstr ""
+
 #. Name for music mvz2:minigame
 #: Music meta file
 msgctxt "music.name"
 msgid "狂人的愉悦"
 msgstr "Loon Boon"
+
+#. Description for music mvz2:minigame
+#: Music meta file
+msgctxt "music.description"
+msgid "小游戏的音乐。\n"
+"紧张又刺激的小游戏来了。"
+msgstr ""
 
 #. Name for music mvz2:ultimate_battle
 #: Music meta file
@@ -1408,11 +1485,28 @@ msgctxt "music.name"
 msgid "终极之战"
 msgstr "Ultimate Battle"
 
+#. Description for music mvz2:ultimate_battle
+#: Music meta file
+msgctxt "music.description"
+msgid "万圣夜最终关的音乐。\n"
+"原来是大部分传送带关卡都会播放的音乐，在这里只用于万圣夜。"
+msgstr ""
+
 #. Name for music mvz2:halloween_boss
 #: Music meta file
 msgctxt "music.name"
 msgid "莱克死灵之书-首领"
 msgstr "Lexonomicon Boss"
+
+#. Description for music mvz2:halloween_boss
+#: Music meta file
+msgctxt "music.description"
+msgid "科学怪人的怪物的音乐。\n"
+"《莱克死灵之书》这本书中包括了大量的欧洲鬼怪，当然也包括科学怪人弗兰肯斯坦和他的造物。\n"
+"《科学怪人》是一本知名的科幻恐怖小说，书中的科学怪人弗兰肯斯坦创造了一个尸块怪物，在它活过来之后，却因为对它恐惧而逃离了他。\n"
+"怪物最初并不邪恶，但在接连的敌意和冷漠下逐渐扭曲了自己的心。它最终发狂，和它的创造者弗兰肯斯坦同归于尽。\n"
+"呵呵，你可否想到自己？史蒂夫？"
+msgstr ""
 
 #. Name for music mvz2:dream_level
 #: Music meta file
@@ -1420,11 +1514,35 @@ msgctxt "music.name"
 msgid "破碎的童话-关卡"
 msgstr "Fractured Fairytales Level"
 
+#. Source for music mvz2:dream_level
+#: Music meta file
+msgctxt "music.source"
+msgid "书虫大冒险 Vol.2"
+msgstr ""
+
+#. Description for music mvz2:dream_level
+#: Music meta file
+msgctxt "music.description"
+msgid "梦境世界关卡的音乐。\n"
+"欢迎来到梦境世界，也欢迎来到《书虫大冒险》的二代。\n"
+"在Lex穿梭于三本书后，他又再次遇到了问题。这次它穿梭的三本书，分别是——童话故事、中国神话，以及科幻故事。\n"
+"而这首音乐则来源于第四本书——童话故事，游戏内也称《破碎的童话》。"
+msgstr ""
+
 #. Name for music mvz2:dream_map
 #: Music meta file
 msgctxt "music.name"
 msgid "破碎的童话-地图"
 msgstr "Fractured Fairytales Map"
+
+#. Description for music mvz2:dream_map
+#: Music meta file
+msgctxt "music.description"
+msgid "梦境世界地图的音乐。\n"
+"《破碎的童话》这本书包含了大量的童话故事和歌谣，《三只小猪》啊，《金发姑娘与三只熊》啊，还有最著名的《爱丽丝梦游仙境》。\n"
+"如此多的童话角色，Lex都与他们进行了梦幻般的战斗。\n"
+"如同这美丽的梦境世界一样。"
+msgstr ""
 
 #. Name for music mvz2:suspension
 #: Music meta file
@@ -1432,11 +1550,39 @@ msgctxt "music.name"
 msgid "悬念"
 msgstr "Suspension"
 
+#. Source for music mvz2:suspension
+#: Music meta file
+msgctxt "music.source"
+msgid "逆转裁判"
+msgstr ""
+
+#. Description for music mvz2:suspension
+#: Music meta file
+msgctxt "music.description"
+msgid "剧情音乐。\n"
+"常用在紧张时刻的音乐。"
+msgstr ""
+
 #. Name for music mvz2:nightmare_map
 #: Music meta file
 msgctxt "music.name"
 msgid "以撒的结合"
 msgstr "The Binding of Isaac"
+
+#. Source for music mvz2:nightmare_map
+#: Music meta file
+msgctxt "music.source"
+msgid "以撒的结合"
+msgstr ""
+
+#. Description for music mvz2:nightmare_map
+#: Music meta file
+msgctxt "music.description"
+msgid "噩梦世界地图的音乐。\n"
+"来源于Roguelike游戏《以撒的结合》的Flash版，是它的主界面音乐。\n"
+"内容十分丰富的游戏，剧情也相当有深度：家庭暴力、父母离异，这些因素让5岁的孩子——以撒的童年变成了一场噩梦。\n"
+"来吧，如同这噩梦世界一样，窒息而死吧。"
+msgstr ""
 
 #. Name for music mvz2:nightmare_level
 #: Music meta file
@@ -1444,11 +1590,35 @@ msgctxt "music.name"
 msgid "忏悔"
 msgstr "Repentant"
 
+#. Description for music mvz2:nightmare_level
+#: Music meta file
+msgctxt "music.description"
+msgid "噩梦世界关卡的音乐。\n"
+"来源于Roguelike游戏《以撒的结合》的Flash版，是洞穴层的音乐。\n"
+"当年的那个5岁的孩子，把自己关在一个箱子中，让这箱子内的小小空间，随着他的想象成为他的大世界。\n"
+"只是，那箱子里在逐渐消散的，不止有他的想象，还有他的生命。"
+msgstr ""
+
 #. Name for music mvz2:nightmare_final
 #: Music meta file
 msgctxt "music.name"
 msgid "飞翔于宇宙的不可思议巫女"
 msgstr "The Mysterious Shrine Maiden Flying Through Space"
+
+#. Source for music mvz2:nightmare_final
+#: Music meta file
+msgctxt "music.source"
+msgid "东方绀珠传"
+msgstr ""
+
+#. Description for music mvz2:nightmare_final
+#: Music meta file
+msgctxt "music.description"
+msgid "噩梦世界最终关的音乐。\n"
+"是《东方绀珠传》的第三关关卡音乐，也是哆来咪战斗前的音乐。\n"
+"哆来咪受到梦魇侵蚀，生命垂危。史蒂夫明明可以逃离，但为了她，不惜一切要杀死那个梦魇。和这首曲子一样，充满了悲壮。\n"
+"等着吧，哆来咪，我们绝对会把你救出来的。"
+msgstr ""
 
 #. Name for music mvz2:nightmare_boss
 #: Music meta file
@@ -1456,11 +1626,29 @@ msgctxt "music.name"
 msgid "Pandemonic Planet（前段）"
 msgstr "Pandemonic Planet (1st part)"
 
+#. Description for music mvz2:nightmare_boss
+#: Music meta file
+msgctxt "music.description"
+msgid "梦魇第一阶段的音乐。\n"
+"是《东方绀珠传》的Extra关Boss——赫卡提亚的音乐。\n"
+"之前的版本中，它的音乐也是来自《以撒的结合》中的一首音乐。之后我偶然听到了这首音乐，觉得这首音乐更加符合这场战斗的情景，于是便换了。\n"
+"至今还有很多人对我的这个改动不满意。不过既然都改了，就让它去吧。"
+msgstr ""
+
 #. Name for music mvz2:nightmare_boss2
 #: Music meta file
 msgctxt "music.name"
 msgid "Pandemonic Planet（后段）"
 msgstr "Pandemonic Planet (2nd part)"
+
+#. Description for music mvz2:nightmare_boss2
+#: Music meta file
+msgctxt "music.description"
+msgid "梦魇第二阶段的音乐。\n"
+"是《东方绀珠传》的Extra关Boss——赫卡提亚的音乐的后半段。\n"
+"虽然这首音乐已经不再是《以撒的结合》的音乐了，不过其实有个冷知识：\n"
+"梦魇收割者的一部分设计来源于《以撒的结合：忏悔》中的教条。"
+msgstr ""
 
 #. Name for music mvz2:gensokyo_map
 #: Music meta file
@@ -1468,11 +1656,50 @@ msgctxt "music.name"
 msgid "青空之影"
 msgstr "A Shadow in the Blue Sky"
 
+#. Source for music mvz2:gensokyo_map
+#: Music meta file
+msgctxt "music.source"
+msgid "东方星莲船"
+msgstr ""
+
+#. Description for music mvz2:gensokyo_map
+#: Music meta file
+msgctxt "music.description"
+msgid "幻想乡和香霖堂的音乐。\n"
+"是《东方星莲船》的主界面音乐。\n"
+"击败了那梦魇，史蒂夫他们便来到了幻想乡。\n"
+"这幻想乡真如戴夫所说，是一片美好的世外桃源。\n"
+"……也是我们这些被现实的压力压垮的人的暂歇之所。"
+msgstr ""
+
 #. Name for music mvz2:distress
 #: Music meta file
 msgctxt "music.name"
 msgid "记忆的回响"
 msgstr "Fading Echoes of Memory"
+
+#. Source for music mvz2:distress
+#: Music meta file
+msgctxt "music.source"
+msgid "原创"
+msgstr ""
+
+#. Author for music mvz2:distress
+#: Music meta file
+msgctxt "music.author"
+msgid "幻梦忧"
+msgstr ""
+
+#. Description for music mvz2:distress
+#: Music meta file
+msgctxt "music.description"
+msgid "剧情音乐。\n"
+"已经过去十几年了，我离童年那些美好的记忆越来越远。\n"
+"我想回到当年玩植物大战僵尸的时候。\n"
+"我想回到当年更加纯粹的时光。\n"
+"我想回到过去，找回那些逝去的记忆。\n"
+"可是真的有人能这么做吗？"
+msgstr ""
 
 #. Name for music mvz2:castle_map
 #: Music meta file
@@ -1480,17 +1707,74 @@ msgctxt "music.name"
 msgid "沉默空洞的辉针城"
 msgstr "The Shining Needle Castle Sinking to the Void"
 
+#. Source for music mvz2:castle_map
+#: Music meta file
+msgctxt "music.source"
+msgid "东方辉针城"
+msgstr ""
+
+#. Origin for music mvz2:castle_map
+#: Music meta file
+msgctxt "music.origin"
+msgid "沉向天空的辉针城"
+msgstr ""
+
+#. Description for music mvz2:castle_map
+#: Music meta file
+msgctxt "music.description"
+msgid "辉针城地图的音乐。\n"
+"原曲是《东方辉针城》第五关的音乐《沉向天空的辉针城》，感谢幻梦忧帮我制作这个版本。\n"
+"这辉针城不知为何没有多少人存在，是那些凋灵骷髅干的吗？\n"
+"不过，似乎还有一种东西在这辉针城中消失了。"
+msgstr ""
+
 #. Name for music mvz2:castle_level
 #: Music meta file
 msgctxt "music.name"
 msgid "凋灵舞曲"
 msgstr "Witherstep"
 
+#. Source for music mvz2:castle_level
+#: Music meta file
+msgctxt "music.source"
+msgid "Minecraft"
+msgstr ""
+
+#. Origin for music mvz2:castle_level
+#: Music meta file
+msgctxt "music.origin"
+msgid "Pigstep"
+msgstr ""
+
+#. Description for music mvz2:castle_level
+#: Music meta file
+msgctxt "music.description"
+msgid "辉针城关卡的音乐。\n"
+"原曲是《Minecraft》唱片《Pigstep》。\n"
+"如今小人族们已不见踪影，城内到处都是下界生物们的影子。\n"
+"呵呵，这凋灵骷髅还挺狡猾，偷来了猪灵们的唱片，然后制作了这首……“山寨音乐”。\n"
+"也就欺负欺负猪灵们没有能力反抗了。"
+msgstr ""
+
 #. Name for music mvz2:phone_ring
 #: Music meta file
 msgctxt "music.name"
 msgid "有只僵尸在你的手机里"
 msgstr "Zombies in your phone"
+
+#. Origin for music mvz2:phone_ring
+#: Music meta file
+msgctxt "music.origin"
+msgid "有只僵尸在你的草坪上"
+msgstr ""
+
+#. Description for music mvz2:phone_ring
+#: Music meta file
+msgctxt "music.description"
+msgid "剧情音乐。\n"
+"原曲是《植物大战僵尸》的结尾曲《有只僵尸在你的草坪上》。\n"
+"你电话响了。"
+msgstr ""
 
 #. Name for archive tag mvz2:prologue
 #: Archive meta file
