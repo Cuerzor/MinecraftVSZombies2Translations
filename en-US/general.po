@@ -1,16 +1,21 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: minecraftvszombies2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-02-06 17:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: English, United States\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: minecraftvszombies2\n"
 "X-Crowdin-Project-ID: 760593\n"
 "X-Crowdin-Language: en-US\n"
 "X-Crowdin-File: /crowdin/general.pot\n"
 "X-Crowdin-File-ID: 20\n"
-"Project-Id-Version: minecraftvszombies2\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: English, United States\n"
-"Language: en_US\n"
-"PO-Revision-Date: 2025-02-06 09:23\n"
+"X-Generator: Poedit 3.5\n"
 
 #. 初始界面的作者标识
 #: /MainGame/MainScene/Landing/Canvas/Creator
@@ -46,7 +51,8 @@ msgstr "Achievements"
 msgid "返回"
 msgstr "Back"
 
-#: /MainGame/MainScene/Mainmenu/Elements/Buttons/Achievements/Region/Scroll View/Viewport/Content/Entry/Texts/TitleRegion/Earned
+#: /MainGame/MainScene/Mainmenu/Elements/Buttons/Achievements/Region/Scroll
+#: View/Viewport/Content/Entry/Texts/TitleRegion/Earned
 msgid "已完成！"
 msgstr "Earned!"
 
@@ -89,11 +95,13 @@ msgstr "Restart"
 msgid "更多选项"
 msgstr "More Options"
 
-#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll View/Viewport/Content/Dropdowns/Dropdown1/LanguageDropdown/Label
+#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll
+#: View/Viewport/Content/Dropdowns/Dropdown1/LanguageDropdown/Label
 msgid "语言"
 msgstr "Language"
 
-#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll View/Viewport/Content/Dropdowns/Dropdown2/ResolutionDropdown/Label
+#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll
+#: View/Viewport/Content/Dropdowns/Dropdown2/ResolutionDropdown/Label
 msgid "分辨率"
 msgstr "Resolution"
 
@@ -163,7 +171,8 @@ msgid "搜索"
 msgstr "Search"
 
 #. 输入框默认文字
-#: /MainGame/MainScene/Archive/Canvas/Index/Center/Filter/Contents/Search/InputField/Text Area/Placeholder
+#: /MainGame/MainScene/Archive/Canvas/Index/Center/Filter/Contents/Search/InputField/Text
+#: Area/Placeholder
 msgid "输入文字……"
 msgstr "Input text..."
 
@@ -690,9 +699,11 @@ msgstr "Username must be set when starting the game for the first time"
 
 # 删除用户时的警告，{0}为名称
 #: Scripts\Vanilla\VanillaStrings.cs:55
-msgid "确认删除用户{0}吗？\n"
+msgid ""
+"确认删除用户{0}吗？\n"
 "该用户所有的数据都将被删除！"
-msgstr "Delete User {0}?\n"
+msgstr ""
+"Delete User {0}?\n"
 "This user's data will be all deleted!"
 
 # 冷却时间
@@ -906,9 +917,11 @@ msgstr "Click to start!"
 
 # 前景图生效时的对话模板，{0}为讨论者，{1}为文本
 #: Scripts\MVZ2\Talks\Components\TalkController.cs:761
-msgid "<color=blue>[{0}]</color>\n"
+msgid ""
+"<color=blue>[{0}]</color>\n"
 "{1}"
-msgstr "<color=blue>[{0}]</color>\n"
+msgstr ""
+"<color=blue>[{0}]</color>\n"
 "{1}"
 
 # 商店对话框标题
@@ -938,9 +951,11 @@ msgstr "{0}/{1}"
 
 # 开始游戏时读取出错，对话框的描述，{0}为错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:136
-msgid "游戏加载失败：\n"
+msgid ""
+"游戏加载失败：\n"
 "{0}"
-msgstr "Failed to initialize:\n"
+msgstr ""
+"Failed to initialize:\n"
 "{0}"
 
 # 开始游戏时读取出错，对话框的错误信息
@@ -970,25 +985,31 @@ msgstr "Wrong file format"
 
 # 开始游戏时读取出错，对话框的错误信息，{0}为新使用的存档，{1}为存档列表
 #: Scripts\MVZ2\Scene\GameEntrance.cs:148
-msgid "部分存档无法读取，将使用存档{0}开始游戏。\n"
+msgid ""
+"部分存档无法读取，将使用存档{0}开始游戏。\n"
 "无法读取的存档：\n"
 "{1}"
-msgstr "Some users cannot be loaded, starting with user {0}.\n"
+msgstr ""
+"Some users cannot be loaded, starting with user {0}.\n"
 "Users that cannot be loaded:\n"
 "{1}"
 
 # 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:150
-msgid "所有存档均无法读取，文件可能已损坏。\n"
+msgid ""
+"所有存档均无法读取，文件可能已损坏。\n"
 "必须新建存档以继续游戏。"
-msgstr "All users cannot be loaded, the files may be corrupted.\n"
+msgstr ""
+"All users cannot be loaded, the files may be corrupted.\n"
 "You have to create a new user to continue."
 
 # 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:152
-msgid "所有存档均无法读取，文件可能已损坏。\n"
+msgid ""
+"所有存档均无法读取，文件可能已损坏。\n"
 "必须删除一个存档，并新建存档以继续游戏。"
-msgstr "All users cannot be loaded, the files may be corrupted.\n"
+msgstr ""
+"All users cannot be loaded, the files may be corrupted.\n"
 "You have to delete a user and create a new one to continue."
 
 # 选项，{0}为是否开启
@@ -1058,9 +1079,11 @@ msgstr "Screen Shake: {0}"
 
 # 对话框内容
 #: Scripts\MVZ2\Options\OptionsLogicLevel.cs:73
-msgid "确认要返回吗？\n"
+msgid ""
+"确认要返回吗？\n"
 "你的进度会被保存。"
-msgstr "Are you sure to quit?\n"
+msgstr ""
+"Are you sure to quit?\n"
 "Your progress will be saved."
 
 # 音乐室中的信息模板，{0}为音乐来源
@@ -1080,16 +1103,20 @@ msgstr "Author: {0}"
 
 # 地图的提示文本
 #: Scripts\MVZ2\Map\MapController.cs:631
-msgid "按住右键拖动以移动视图\n"
+msgid ""
+"按住右键拖动以移动视图\n"
 "滚轮以缩放视图"
-msgstr "Hold right mouse and drag to move the view\n"
+msgstr ""
+"Hold right mouse and drag to move the view\n"
 "Scroll to scale the view"
 
 # 地图的提示文本
 #: Scripts\MVZ2\Map\MapController.cs:633
-msgid "单指拖动以移动视图\n"
+msgid ""
+"单指拖动以移动视图\n"
 "双指触摸以缩放视图"
-msgstr "Drag with one finger to move the view\n"
+msgstr ""
+"Drag with one finger to move the view\n"
 "Touch with two fingers to scale the view"
 
 # 地图的提示文本
@@ -1099,9 +1126,11 @@ msgstr "Entering Level…"
 
 # 地图的无尽模式提示文本，{0}为当前轮数，{1}为历史最高
 #: Scripts\MVZ2\Map\MapController.cs:637
-msgid "轮数\n"
+msgid ""
+"轮数\n"
 "{0}/{1}"
-msgstr "Flags\n"
+msgstr ""
+"Flags\n"
 "{0}/{1}"
 
 # 初始化任务名称
@@ -1167,9 +1196,11 @@ msgstr "View in Almanac"
 
 # 对话框内容
 #: Scripts\MVZ2\Level\LevelController_UI.cs:895
-msgid "确认要重新开始关卡吗？\n"
+msgid ""
+"确认要重新开始关卡吗？\n"
 "本关的进度都将丢失。"
-msgstr "Restart level?\n"
+msgstr ""
+"Restart level?\n"
 "The progress of this level will be lost."
 
 # 对话框内容，{0}为错误信息
@@ -1189,9 +1220,11 @@ msgstr "<b>[{0}]</b> {1}"
 
 # 对话档案中语句的模板，{0}为前缀描述，{1}为人物，{2}为语句内容
 #: Scripts\MVZ2\Archive\ArchiveController.cs:251
-msgid "<color=blue>{0}</color>\n"
+msgid ""
+"<color=blue>{0}</color>\n"
 "<b>[{1}]</b> {2}"
-msgstr "<color=blue>{0}</color>\n"
+msgstr ""
+"<color=blue>{0}</color>\n"
 "<b>[{1}]</b> {2}"
 
 # 图鉴描述模板，{0}为能量
@@ -1400,7 +1433,8 @@ msgstr "Plants Vs. Zombies"
 #. Description for music mvz2:mainmenu
 #: Music meta file
 msgctxt "music.description"
-msgid "主界面，以及关卡前对话的音乐。\n"
+msgid ""
+"主界面，以及关卡前对话的音乐。\n"
 "很经典的音乐，我就不多作评价了。\n"
 "请好好享受这音乐，并怀念2009年的快乐吧。"
 msgstr ""
@@ -1414,7 +1448,8 @@ msgstr "Choose Your Seeds"
 #. Description for music mvz2:choosing
 #: Music meta file
 msgctxt "music.description"
-msgid "选择蓝图时，以及一些界面中的音乐。\n"
+msgid ""
+"选择蓝图时，以及一些界面中的音乐。\n"
 "这关要选什么呢？"
 msgstr ""
 
@@ -1427,7 +1462,8 @@ msgstr "Grasswalk"
 #. Description for music mvz2:day
 #: Music meta file
 msgctxt "music.description"
-msgid "序章的音乐。\n"
+msgid ""
+"序章的音乐。\n"
 "一切开始的地方。"
 msgstr ""
 
@@ -1446,7 +1482,8 @@ msgstr "Bookworm Adventures"
 #. Description for music mvz2:halloween
 #: Music meta file
 msgctxt "music.description"
-msgid "万圣夜关卡的音乐。\n"
+msgid ""
+"万圣夜关卡的音乐。\n"
 "出自宝开之前的另一款佳作《书虫大冒险》，制作十分精良，可惜人气实在太低，并且由于强绑定英文而无法走向世界。\n"
 "实在是太可惜了。"
 msgstr ""
@@ -1460,7 +1497,8 @@ msgstr "Lexonomicon Map"
 #. Description for music mvz2:halloween_map
 #: Music meta file
 msgctxt "music.description"
-msgid "万圣夜地图的音乐。\n"
+msgid ""
+"万圣夜地图的音乐。\n"
 "那么这系列音乐原来使用在什么地方呢？\n"
 "《书虫大冒险》的主角Lex是一只书虫，负责管理大图书馆中的书籍。它先后穿梭于希腊神话、埃及神话，以及欧洲鬼怪故事这三本书中。\n"
 "而这首音乐则来自于第三本书——欧洲鬼怪故事中。其游戏内的名称即为《莱克死灵之书》，是Lex的名字和《死灵之书》的组合词。"
@@ -1475,7 +1513,8 @@ msgstr "Loon Boon"
 #. Description for music mvz2:minigame
 #: Music meta file
 msgctxt "music.description"
-msgid "小游戏的音乐。\n"
+msgid ""
+"小游戏的音乐。\n"
 "紧张又刺激的小游戏来了。"
 msgstr ""
 
@@ -1488,7 +1527,8 @@ msgstr "Ultimate Battle"
 #. Description for music mvz2:ultimate_battle
 #: Music meta file
 msgctxt "music.description"
-msgid "万圣夜最终关的音乐。\n"
+msgid ""
+"万圣夜最终关的音乐。\n"
 "原来是大部分传送带关卡都会播放的音乐，在这里只用于万圣夜。"
 msgstr ""
 
@@ -1501,7 +1541,8 @@ msgstr "Lexonomicon Boss"
 #. Description for music mvz2:halloween_boss
 #: Music meta file
 msgctxt "music.description"
-msgid "科学怪人的怪物的音乐。\n"
+msgid ""
+"科学怪人的怪物的音乐。\n"
 "《莱克死灵之书》这本书中包括了大量的欧洲鬼怪，当然也包括科学怪人弗兰肯斯坦和他的造物。\n"
 "《科学怪人》是一本知名的科幻恐怖小说，书中的科学怪人弗兰肯斯坦创造了一个尸块怪物，在它活过来之后，却因为对它恐惧而逃离了他。\n"
 "怪物最初并不邪恶，但在接连的敌意和冷漠下逐渐扭曲了自己的心。它最终发狂，和它的创造者弗兰肯斯坦同归于尽。\n"
@@ -1523,7 +1564,8 @@ msgstr "Bookworm Adventures Vol.2"
 #. Description for music mvz2:dream_level
 #: Music meta file
 msgctxt "music.description"
-msgid "梦境世界关卡的音乐。\n"
+msgid ""
+"梦境世界关卡的音乐。\n"
 "欢迎来到梦境世界，也欢迎来到《书虫大冒险》的二代。\n"
 "在Lex穿梭于三本书后，他又再次遇到了问题。这次它穿梭的三本书，分别是——童话故事、中国神话，以及科幻故事。\n"
 "而这首音乐则来源于第四本书——童话故事，游戏内也称《破碎的童话》。"
@@ -1538,7 +1580,8 @@ msgstr "Fractured Fairytales Map"
 #. Description for music mvz2:dream_map
 #: Music meta file
 msgctxt "music.description"
-msgid "梦境世界地图的音乐。\n"
+msgid ""
+"梦境世界地图的音乐。\n"
 "《破碎的童话》这本书包含了大量的童话故事和歌谣，《三只小猪》啊，《金发姑娘与三只熊》啊，还有最著名的《爱丽丝梦游仙境》。\n"
 "如此多的童话角色，Lex都与他们进行了梦幻般的战斗。\n"
 "如同这美丽的梦境世界一样。"
@@ -1559,7 +1602,8 @@ msgstr "Ace Attorney"
 #. Description for music mvz2:suspension
 #: Music meta file
 msgctxt "music.description"
-msgid "剧情音乐。\n"
+msgid ""
+"剧情音乐。\n"
 "常用在紧张时刻的音乐。"
 msgstr ""
 
@@ -1578,7 +1622,8 @@ msgstr "The Binding of Isaac"
 #. Description for music mvz2:nightmare_map
 #: Music meta file
 msgctxt "music.description"
-msgid "噩梦世界地图的音乐。\n"
+msgid ""
+"噩梦世界地图的音乐。\n"
 "来源于Roguelike游戏《以撒的结合》的Flash版，是它的主界面音乐。\n"
 "内容十分丰富的游戏，剧情也相当有深度：家庭暴力、父母离异，这些因素让5岁的孩子——以撒的童年变成了一场噩梦。\n"
 "来吧，如同这噩梦世界一样，窒息而死吧。"
@@ -1593,7 +1638,8 @@ msgstr "Repentant"
 #. Description for music mvz2:nightmare_level
 #: Music meta file
 msgctxt "music.description"
-msgid "噩梦世界关卡的音乐。\n"
+msgid ""
+"噩梦世界关卡的音乐。\n"
 "来源于Roguelike游戏《以撒的结合》的Flash版，是洞穴层的音乐。\n"
 "当年的那个5岁的孩子，把自己关在一个箱子中，让这箱子内的小小空间，随着他的想象成为他的大世界。\n"
 "只是，那箱子里在逐渐消散的，不止有他的想象，还有他的生命。"
@@ -1614,7 +1660,8 @@ msgstr "Legacy of Lunatic Kingdom"
 #. Description for music mvz2:nightmare_final
 #: Music meta file
 msgctxt "music.description"
-msgid "噩梦世界最终关的音乐。\n"
+msgid ""
+"噩梦世界最终关的音乐。\n"
 "是《东方绀珠传》的第三关关卡音乐，也是哆来咪战斗前的音乐。\n"
 "哆来咪受到梦魇侵蚀，生命垂危。史蒂夫明明可以逃离，但为了她，不惜一切要杀死那个梦魇。和这首曲子一样，充满了悲壮。\n"
 "等着吧，哆来咪，我们绝对会把你救出来的。"
@@ -1629,7 +1676,8 @@ msgstr "Pandemonic Planet (1st part)"
 #. Description for music mvz2:nightmare_boss
 #: Music meta file
 msgctxt "music.description"
-msgid "梦魇第一阶段的音乐。\n"
+msgid ""
+"梦魇第一阶段的音乐。\n"
 "是《东方绀珠传》的Extra关Boss——赫卡提亚的音乐。\n"
 "之前的版本中，它的音乐也是来自《以撒的结合》中的一首音乐。之后我偶然听到了这首音乐，觉得这首音乐更加符合这场战斗的情景，于是便换了。\n"
 "至今还有很多人对我的这个改动不满意。不过既然都改了，就让它去吧。"
@@ -1644,7 +1692,8 @@ msgstr "Pandemonic Planet (2nd part)"
 #. Description for music mvz2:nightmare_boss2
 #: Music meta file
 msgctxt "music.description"
-msgid "梦魇第二阶段的音乐。\n"
+msgid ""
+"梦魇第二阶段的音乐。\n"
 "是《东方绀珠传》的Extra关Boss——赫卡提亚的音乐的后半段。\n"
 "虽然这首音乐已经不再是《以撒的结合》的音乐了，不过其实有个冷知识：\n"
 "梦魇收割者的一部分设计来源于《以撒的结合：忏悔》中的教条。"
@@ -1665,7 +1714,8 @@ msgstr "Undefined Fantastic Object"
 #. Description for music mvz2:gensokyo_map
 #: Music meta file
 msgctxt "music.description"
-msgid "幻想乡和香霖堂的音乐。\n"
+msgid ""
+"幻想乡和香霖堂的音乐。\n"
 "是《东方星莲船》的主界面音乐。\n"
 "击败了那梦魇，史蒂夫他们便来到了幻想乡。\n"
 "这幻想乡真如戴夫所说，是一片美好的世外桃源。\n"
@@ -1693,7 +1743,8 @@ msgstr "幻梦忧"
 #. Description for music mvz2:distress
 #: Music meta file
 msgctxt "music.description"
-msgid "剧情音乐。\n"
+msgid ""
+"剧情音乐。\n"
 "已经过去十几年了，我离童年那些美好的记忆越来越远。\n"
 "我想回到当年玩植物大战僵尸的时候。\n"
 "我想回到当年更加纯粹的时光。\n"
@@ -1722,7 +1773,8 @@ msgstr "The Shining Needle Castle Sinking in the Air"
 #. Description for music mvz2:castle_map
 #: Music meta file
 msgctxt "music.description"
-msgid "辉针城地图的音乐。\n"
+msgid ""
+"辉针城地图的音乐。\n"
 "原曲是《东方辉针城》第五关的音乐《沉向天空的辉针城》，感谢幻梦忧帮我制作这个版本。\n"
 "这辉针城不知为何没有多少人存在，是那些凋灵骷髅干的吗？\n"
 "不过，似乎还有一种东西在这辉针城中消失了。"
@@ -1749,7 +1801,8 @@ msgstr "Pigstep"
 #. Description for music mvz2:castle_level
 #: Music meta file
 msgctxt "music.description"
-msgid "辉针城关卡的音乐。\n"
+msgid ""
+"辉针城关卡的音乐。\n"
 "原曲是《Minecraft》唱片《Pigstep》。\n"
 "如今小人族们已不见踪影，城内到处都是下界生物们的影子。\n"
 "呵呵，这凋灵骷髅还挺狡猾，偷来了猪灵们的唱片，然后制作了这首……“山寨音乐”。\n"
@@ -1771,7 +1824,8 @@ msgstr "Zombies on your lawn"
 #. Description for music mvz2:phone_ring
 #: Music meta file
 msgctxt "music.description"
-msgid "剧情音乐。\n"
+msgid ""
+"剧情音乐。\n"
 "原曲是《植物大战僵尸》的结尾曲《有只僵尸在你的草坪上》。\n"
 "你电话响了。"
 msgstr ""
@@ -2127,4 +2181,3 @@ msgstr "A wither skeleton's skull! Blueprint costs become 80%, but the toughness
 msgctxt "store_talk"
 msgid "很吓人的骷髅头……它能让你的蓝图消耗变为80%，但是器械们的耐久也会因此变为60%！"
 msgstr "A spooky scary skull... It can reduce your blueprint costs to 80%, but the contraptions will also be 60% as tough as before!"
-
