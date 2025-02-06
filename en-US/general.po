@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2025-02-06 05:06\n"
+"PO-Revision-Date: 2025-02-06 05:11\n"
 
 #. 初始界面的作者标识
 #: /MainGame/MainScene/Landing/Canvas/Creator
@@ -46,8 +46,7 @@ msgstr "Achievements"
 msgid "返回"
 msgstr "Back"
 
-#: /MainGame/MainScene/Mainmenu/Elements/Buttons/Achievements/Region/Scroll
-#: View/Viewport/Content/Entry/Texts/TitleRegion/Earned
+#: /MainGame/MainScene/Mainmenu/Elements/Buttons/Achievements/Region/Scroll View/Viewport/Content/Entry/Texts/TitleRegion/Earned
 msgid "已完成！"
 msgstr "Earned!"
 
@@ -90,13 +89,11 @@ msgstr "Restart"
 msgid "更多选项"
 msgstr "More Options"
 
-#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll
-#: View/Viewport/Content/Dropdowns/Dropdown1/LanguageDropdown/Label
+#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll View/Viewport/Content/Dropdowns/Dropdown1/LanguageDropdown/Label
 msgid "语言"
 msgstr "Language"
 
-#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll
-#: View/Viewport/Content/Dropdowns/Dropdown2/ResolutionDropdown/Label
+#: /MainGame/MainScene/Mainmenu/Canvas/OptionsDialog/Dialog/MoreElements/Scroll View/Viewport/Content/Dropdowns/Dropdown2/ResolutionDropdown/Label
 msgid "分辨率"
 msgstr "Resolution"
 
@@ -166,8 +163,7 @@ msgid "搜索"
 msgstr "Search"
 
 #. 输入框默认文字
-#: /MainGame/MainScene/Archive/Canvas/Index/Center/Filter/Contents/Search/InputField/Text
-#: Area/Placeholder
+#: /MainGame/MainScene/Archive/Canvas/Index/Center/Filter/Contents/Search/InputField/Text Area/Placeholder
 msgid "输入文字……"
 msgstr "Input text..."
 
@@ -289,176 +285,211 @@ msgstr "Do you want to continue with the latest progress?"
 msgid "错误"
 msgstr "Error"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:198
 msgctxt "advice.starshard_tutorial.0"
 msgid "点击星之碎片槽选中星之碎片！"
 msgstr "Click the Starshard to select it!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:200
 msgctxt "advice.starshard_tutorial.1"
 msgid "点击发射器！"
 msgstr "Click the Dispenser!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:202
 msgctxt "advice.starshard_tutorial.2"
 msgid "干得漂亮！"
 msgstr "Well done!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:204
 msgctxt "advice.starshard_tutorial.3"
 msgid "绿色的怪物会携带星之碎片！"
 msgstr "Green enemies carry Starshards!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:206
 msgctxt "advice.starshard_tutorial.4"
 msgid "点击收集星之碎片！"
 msgstr "Click to collect Starshards!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:208
 msgctxt "advice.starshard_tutorial.5"
 msgid "现在干掉铁盔僵尸！"
 msgstr "Now defeat the Iron Helmet Zombie!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:295
 msgctxt "advice.trigger_tutorial.0"
 msgid "放置TNT！"
 msgstr "Click and place TNT!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:297
 msgctxt "advice.trigger_tutorial.1"
 msgid "点击选中触发器！"
 msgstr "Select the Trigger!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:299
 msgctxt "advice.trigger_tutorial.2"
 msgid "点击以触发TNT！"
 msgstr "Click to trigger the TNT!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:301
 msgctxt "advice.trigger_tutorial.3"
 msgid "干得漂亮！"
 msgstr "Nicely done!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:303
 msgctxt "advice.trigger_tutorial.4"
 msgid "选中触发器！"
 msgstr "Select the Trigger!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:305
 msgctxt "advice.trigger_tutorial.5"
 msgid "点击TNT蓝图！"
 msgstr "Click the TNT blueprint!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:307
 msgctxt "advice.trigger_tutorial.6"
 msgid "放置TNT，它会立即被触发！"
 msgstr "Place TNT, then it will be instantly triggered!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:309
 msgctxt "advice.trigger_tutorial.7"
 msgid "干得好！"
 msgstr "Good job!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:311
 msgctxt "advice.trigger_tutorial.8"
 msgid "立即触发只限于一次性消耗类型的器械。"
 msgstr "Instant triggering can only be used on single-use contraptions."
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:313
 msgctxt "advice.trigger_tutorial.9"
 msgid "如果你想交换这两个动作的效果，你可以在设置中更改。"
 msgstr "You can swap these two actions in Settings."
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:315
 msgctxt "advice.trigger_tutorial.10"
 msgid "祝你好运！"
 msgstr "Good luck!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:451
 msgctxt "advice.tutorial.0"
 msgid "左键点击器械卡牌选中器械！"
 msgstr "Click a blueprint to choose a contraption!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:453
 msgctxt "advice.tutorial.1"
 msgid "点击草坪放置器械！"
 msgstr "Click the lawn to place a contraption!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:455
 msgctxt "advice.tutorial.2"
 msgid "干得漂亮！"
 msgstr "Nicely done!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:457
 msgctxt "advice.tutorial.3"
 msgid "点击红石收集能量！"
 msgstr "Click redstone to collect energy!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:459
 msgctxt "advice.tutorial.4"
 msgid "收集足够的能量来放置器械！"
 msgstr "Collect enough energy to place contraptions!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:461
 msgctxt "advice.tutorial.5"
 msgid "用发射器干掉僵尸！"
 msgstr "Defeat the zombie with your Dispenser!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:463
 msgctxt "advice.tutorial.6"
 msgid "干得漂亮！"
 msgstr "Well done!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:465
 msgctxt "advice.tutorial.7"
 msgid "选择熔炉并放置！"
 msgstr "Select Furnace and place it!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:467
 msgctxt "advice.tutorial.8"
 msgid "熔炉能为你提供额外的红石！"
 msgstr "Furnaces can provide you additional redstone!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:469
 msgctxt "advice.tutorial.9"
 msgid "熔炉越多，你放器械的速度就越快！"
 msgstr "The more Furnaces you have, the faster you can build!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:471
 msgctxt "advice.tutorial.10"
 msgid "请至少放下三个熔炉！"
 msgstr "Place at least three Furnaces!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:473
 msgctxt "advice.tutorial.11"
 msgid "用黑曜石来挡住僵尸的进攻！"
 msgstr "Block the zombie with Obsidian!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:475
 msgctxt "advice.tutorial.12"
 msgid "干得漂亮！"
 msgstr "Good job!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:477
 msgctxt "advice.tutorial.13"
 msgid "地雷TNT在一段时间的填装后能炸飞敌人！"
 msgstr "Mine TNTs can blow up enemies after arming itself!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:479
 msgctxt "advice.tutorial.14"
 msgid "用地雷TNT炸死铁盔僵尸！"
 msgstr "Blow up the Iron Helmet Zombie with Mine TNT!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:481
 msgctxt "advice.tutorial.15"
 msgid "干得漂亮！"
 msgstr "Excellent job!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:483
 msgctxt "advice.tutorial.16"
 msgid "最后，镐子能够挖掉你所放下的器械！"
 msgstr "Finally, the pickaxe can dig out placed contraptions!"
 
+# 教程关指引
 #: Scripts\Vanilla\GameContent\Stages\Definitions\TutorialStage.cs:485
 msgctxt "advice.tutorial.17"
 msgid "试着挖掉所有器械！"
@@ -469,71 +500,79 @@ msgstr "Try to dig out all contraptions!"
 msgid "你确定想要在没有{0}的情况下使用{1}？"
 msgstr "Are you sure you want to use the {1} without the {0}?"
 
-# 对话框内容
+# 选卡警告，{0}为目标敌人
 #: Scripts\Vanilla\GameContent\Implements\BlueprintRecommendImplements.cs:154
 msgid "你没有选能干掉{0}的器械，确定要继续吗？"
-msgstr ""
-"You haven't chosen any plants that fight off {0}, are you sure you want to "
-"continue?"
+msgstr "You haven't chosen any plants that fight off {0}, are you sure you want to continue?"
 
-# 对话框内容
+# 选卡警告
 #: Scripts\Vanilla\GameContent\Implements\BlueprintRecommendImplements.cs:156
 msgid "你没有选能生产能量的器械，确定要继续吗？"
-msgstr ""
-"You haven't chosen any energy producing contraptions, are you sure you want "
-"to continue?"
+msgstr "You haven't chosen any energy producing contraptions, are you sure you want to continue?"
 
 # 选卡警告
 #: Scripts\Vanilla\GameContent\Implements\BlueprintRecommendImplements.cs:158
 msgid "你确定这关不使用任何水生器械吗？"
 msgstr "Are you sure want to play this level without any aquatic contraptions?"
 
+# 拾取宝石的帮助提示
 #: Scripts\Vanilla\GameContent\Implements\GemStageImplements.cs:90
 msgctxt "advice.collect_money"
 msgid "点击收集宝石！"
 msgstr "Click to collect the gem!"
 
+# 拾取宝石的帮助提示
 #: Scripts\Vanilla\GameContent\Implements\GemStageImplements.cs:92
 msgctxt "advice.collect_money"
 msgid "收集宝石来获得更酷的道具吧！"
 msgstr "Collect gems to purchase COOL stuff!"
 
+# 梦魇对话框标题
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:508
 msgid "选择你的命运"
 msgstr "Choose your fate"
 
+# 梦魇对话框文本
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:510
 msgid "选吧。"
 msgstr "Choose."
 
+# 梦魇选项
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:512
 msgid "潘多拉的魔盒"
 msgstr "Pandora's Box"
 
+# 梦魇选项
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:514
 msgid "尸潮"
 msgstr "Biohazard"
 
+# 梦魇选项
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:516
 msgid "衰老"
 msgstr "Decrepify"
 
+# 梦魇选项
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:518
 msgid "疯狂"
 msgstr "Insanity"
 
+# 梦魇选项
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:520
 msgid "成真"
 msgstr "Come True"
 
+# 梦魇选项
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:522
 msgid "深潜者"
 msgstr "The Lurker"
 
+# 梦魇选项
 #: Scripts\Vanilla\GameContent\Bosses\SlenderMan.cs:524
 msgid "黑太阳"
 msgstr "The Black Sun"
 
+# 教程无法使用提示
 #: Scripts\Vanilla\VanillaStrings.cs:8
 msgid "无法使用"
 msgstr "Cannot be used"
@@ -543,26 +582,31 @@ msgstr "Cannot be used"
 msgid "受到衰老诅咒！"
 msgstr "Decrepified!"
 
+# 不能放置器械提示
 #: Scripts\Vanilla\VanillaStrings.cs:13
 msgctxt "advice"
 msgid "你不能在雕像上放置器械"
 msgstr "You cannot place contraptions on statues"
 
+# 不能放置器械提示
 #: Scripts\Vanilla\VanillaStrings.cs:15
 msgctxt "advice"
 msgid "请先放睡莲"
 msgstr "Place Lily Pad first"
 
+# 不能放置器械提示
 #: Scripts\Vanilla\VanillaStrings.cs:17
 msgctxt "advice"
 msgid "你不能在水上放置该器械"
 msgstr "You cannot place this contraption on water"
 
+# 不能放置器械提示
 #: Scripts\Vanilla\VanillaStrings.cs:19
 msgctxt "advice"
 msgid "你不能在薄面上放置该器械"
 msgstr "You cannot place this contraption on planes"
 
+# 不能放置器械提示
 #: Scripts\Vanilla\VanillaStrings.cs:21
 msgctxt "advice"
 msgid "你不能在陆地上放置该器械"
@@ -592,16 +636,19 @@ msgctxt "advice"
 msgid "你找到了新制品！"
 msgstr "You found a new artifact!"
 
+# 无尽模式的提示
 #: Scripts\Vanilla\VanillaStrings.cs:32
 msgctxt "advice"
 msgid "更多的敌人要来了！"
 msgstr "More enemies approaching!"
 
+# 预览战场的提示
 #: Scripts\Vanilla\VanillaStrings.cs:34
 msgctxt "advice"
 msgid "点击以继续"
 msgstr "Click to continue"
 
+# 不推荐使用的提示
 #: Scripts\Vanilla\VanillaStrings.cs:37
 msgid "不推荐在这关使用"
 msgstr "Not recommended for level"
@@ -622,26 +669,29 @@ msgstr "Do you want to have a tutorial?"
 msgid "新手教程"
 msgstr "Tutorial"
 
+# 输入名称对话框的错误信息
 #: Scripts\Vanilla\VanillaStrings.cs:49
 msgid "用户名不能为空"
 msgstr "Username cannot be empty"
 
+# 输入名称对话框的错误信息
 #: Scripts\Vanilla\VanillaStrings.cs:51
 msgid "已经存在该用户名"
 msgstr "This username already exists"
 
+# 输入名称对话框的错误信息
 #: Scripts\Vanilla\VanillaStrings.cs:53
 msgid "第一次游戏必须输入用户名"
 msgstr "Username must be set when starting the game for the first time"
 
+# 删除用户时的警告，{0}为名称
 #: Scripts\Vanilla\VanillaStrings.cs:55
-msgid ""
-"确认删除用户{0}吗？\n"
+msgid "确认删除用户{0}吗？\n"
 "该用户所有的数据都将被删除！"
-msgstr ""
-"Delete User {0}?\n"
+msgstr "Delete User {0}?\n"
 "This user's data will be all deleted!"
 
+# 冷却时间
 #: Scripts\Vanilla\VanillaStrings.cs:59
 msgctxt "recharge_time"
 msgid "无"
@@ -665,11 +715,13 @@ msgctxt "recharge_time"
 msgid "很长"
 msgstr "Very Long"
 
+# 对话档案对话框标题
 #: Scripts\Vanilla\VanillaStrings.cs:69
 msgctxt "archive"
 msgid "剧情分支"
 msgstr "Plot Branch"
 
+# 对话档案对话框内容
 #: Scripts\Vanilla\VanillaStrings.cs:71
 msgctxt "archive"
 msgid "是否拥有足够的金钱？"
@@ -687,152 +739,179 @@ msgctxt "archive"
 msgid "是否重新播放？"
 msgstr "Play again?"
 
+# 通用的是
 #: Scripts\Vanilla\VanillaStrings.cs:79
 msgid "是"
 msgstr "Yes"
 
+# 通用的否
 #: Scripts\Vanilla\VanillaStrings.cs:81
 msgid "否"
 msgstr "No"
 
+# 通用文本
 #: Scripts\Vanilla\VanillaStrings.cs:87
 msgid "返回地图"
 msgstr "Back to map"
 
+# 通用文本
 #: Scripts\Vanilla\VanillaStrings.cs:89
 msgid "返回主菜单"
 msgstr "Back to main menu"
 
+# 通用文本
 #: Scripts\Vanilla\VanillaStrings.cs:93
 msgid "警告"
 msgstr "Warning"
 
+# 通用文本
 #: Scripts\Vanilla\VanillaStrings.cs:95
 msgid "退出"
 msgstr "Quit"
 
+# 通用文本
 #: Scripts\Vanilla\VanillaStrings.cs:99
 msgid "确认"
 msgstr "Accept"
 
+# 游戏内文本提示
 #: Scripts\Vanilla\VanillaStrings.cs:102
 msgid "能量不足"
 msgstr "Not enough energy"
 
+# 游戏内文本提示
 #: Scripts\Vanilla\VanillaStrings.cs:104
 msgid "重新充能中…"
 msgstr "Recharging…"
 
+# 游戏内文本提示
 #: Scripts\Vanilla\VanillaStrings.cs:106
 msgid "挖掉器械"
 msgstr "Dig a contraption"
 
+# 游戏内文本提示
 #: Scripts\Vanilla\VanillaStrings.cs:108
 msgid "触发器械"
 msgstr "Trigger a contraption"
 
+# 关卡难度
 #: Scripts\Vanilla\VanillaStrings.cs:112
 msgctxt "difficulty"
 msgid "简单"
 msgstr "EASY"
 
+# 关卡难度
 #: Scripts\Vanilla\VanillaStrings.cs:114
 msgctxt "difficulty"
 msgid "普通"
 msgstr "NORMAL"
 
+# 关卡难度
 #: Scripts\Vanilla\VanillaStrings.cs:116
 msgctxt "difficulty"
 msgid "困难"
 msgstr "HARD"
 
+# 关卡难度
 #: Scripts\Vanilla\VanillaStrings.cs:118
 msgctxt "difficulty"
 msgid "未知难度"
 msgstr "Unknown"
 
+# 关卡名称
 #: Scripts\Vanilla\VanillaStrings.cs:122
 msgctxt "levelname"
 msgid "未知关卡"
 msgstr "Unknown Level"
 
+# 关卡名称，{0}为关卡名，{1}为冒险模式天数
 #: Scripts\Vanilla\VanillaStrings.cs:124
 msgctxt "levelname"
 msgid "{0} - 第{1}天"
 msgstr "{0} - Day {1}"
 
+# 关卡名称，{0}为关卡名，{1}为无尽模式轮数
 #: Scripts\Vanilla\VanillaStrings.cs:126
 msgctxt "levelname"
 msgid "{0} - 第{1}轮"
 msgstr "{0} - Flag {1}"
 
+# 死亡信息-未知
 #: Scripts\Vanilla\VanillaStrings.cs:130
 msgctxt "death_message"
 msgid "你死了！"
 msgstr "You died!"
 
+# 死亡信息-未知
 #: Scripts\Vanilla\VanillaStrings.cs:132
 msgctxt "death_message"
 msgid "<color=red>来到我们之中吧</color>"
 msgstr "<color=red>COME TO US</color>"
 
+# 实体名称-未知
 #: Scripts\Vanilla\VanillaStrings.cs:135
 msgctxt "entity.name"
 msgid "？？？"
 msgstr "???"
 
+# 蓝图选项名称-未知
 #: Scripts\Vanilla\VanillaStrings.cs:138
 msgctxt "option.name"
 msgid "？？？"
 msgstr "???"
 
+# 实体说明-未知
 #: Scripts\Vanilla\VanillaStrings.cs:141
 msgctxt "entity.tooltip"
 msgid "？？？"
 msgstr "???"
 
+# 制品名称-未知
 #: Scripts\Vanilla\VanillaStrings.cs:144
 msgctxt "artifact.name"
 msgid "？？？"
 msgstr "???"
 
+# 制品说明-未知
 #: Scripts\Vanilla\VanillaStrings.cs:147
 msgctxt "artifact.tooltip"
 msgid "？？？"
 msgstr "???"
 
+# 怪物说明-还没有遇到
 #: Scripts\Vanilla\VanillaStrings.cs:150
 msgctxt "almanac"
 msgid "（还没有遇到）"
 msgstr "(Not encountered yet)"
 
+# 音乐名-无
 #: Scripts\Vanilla\VanillaStrings.cs:154
 msgctxt "music.name"
 msgid "无"
 msgstr "None"
 
+# 标题页面的版本号文本，{0}为版本号
 #: Scripts\MVZ2\Titlescreen\TitlescreenController.cs:68
 msgid "版本{0}"
 msgstr "Version {0}"
 
+# 标题界面按钮文本
 #: Scripts\MVZ2\Titlescreen\TitlescreenController.cs:70
 msgid "点击以开始！"
 msgstr "Click to start!"
 
-# 对话档案中语句的模板，{0}为前缀描述，{1}为人物，{2}为语句内容
+# 前景图生效时的对话模板，{0}为讨论者，{1}为文本
 #: Scripts\MVZ2\Talks\Components\TalkController.cs:761
-msgid ""
-"<color=blue>[{0}]</color>\n"
+msgid "<color=blue>[{0}]</color>\n"
 "{1}"
 msgstr ""
-"<color=blue>[{0}]</color>\n"
-"{1}"
 
 # 商店对话框标题
 #: Scripts\MVZ2\Store\StoreController.cs:236
 msgid "购买物品"
 msgstr "Purchase"
 
+# 商店对话框内容，{0}为价格
 #: Scripts\MVZ2\Store\StoreController.cs:238
 msgid "确定以{0:N0}的价格买下这个物品？"
 msgstr "Are you sure you want to purchase this for {0:N0}?"
@@ -842,96 +921,102 @@ msgstr "Are you sure you want to purchase this for {0:N0}?"
 msgid "金钱不足"
 msgstr "Insufficient Money"
 
+# 商店对话框内容
 #: Scripts\MVZ2\Store\StoreController.cs:242
 msgid "你没有足够的金钱！"
-msgstr ""
-"You don't have enough money! Come back when you're a little mmmm... richer!"
+msgstr "You don't have enough money! Come back when you're a little mmmm... richer!"
 
+# 商店的页面计数，{0}为当前页面，{1}为总页面
 #: Scripts\MVZ2\Store\StoreController.cs:244
 msgid "{0}/{1}"
-msgstr "{0}/{1}"
-
-#: Scripts\MVZ2\Scene\GameEntrance.cs:136
-msgid ""
-"游戏加载失败：\n"
-"{0}"
 msgstr ""
-"Failed to initialize:\n"
+
+# 开始游戏时读取出错，对话框的描述，{0}为错误信息
+#: Scripts\MVZ2\Scene\GameEntrance.cs:136
+msgid "游戏加载失败：\n"
+"{0}"
+msgstr "Failed to initialize:\n"
 "{0}"
 
+# 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:138
 msgid "文件目录丢失"
 msgstr "Directory not found"
 
+# 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:140
 msgid "文件丢失"
 msgstr "File not found"
 
+# 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:142
 msgid "文件被占用"
 msgstr "A file is occupied by other program"
 
+# 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:144
 msgid "文件读取失败"
 msgstr "Failed to load a file"
 
+# 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:146
 msgid "文件格式错误"
 msgstr "Wrong file format"
 
 # 开始游戏时读取出错，对话框的错误信息，{0}为新使用的存档，{1}为存档列表
 #: Scripts\MVZ2\Scene\GameEntrance.cs:148
-msgid ""
-"部分存档无法读取，将使用存档{0}开始游戏。\n"
+msgid "部分存档无法读取，将使用存档{0}开始游戏。\n"
 "无法读取的存档：\n"
 "{1}"
-msgstr ""
-"Some users cannot be loaded, starting with user {0}.\n"
+msgstr "Some users cannot be loaded, starting with user {0}.\n"
 "Users that cannot be loaded:\n"
 "{1}"
 
 # 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:150
-msgid ""
-"所有存档均无法读取，文件可能已损坏。\n"
+msgid "所有存档均无法读取，文件可能已损坏。\n"
 "必须新建存档以继续游戏。"
-msgstr ""
-"All users cannot be loaded, the files may be corrupted.\n"
+msgstr "All users cannot be loaded, the files may be corrupted.\n"
 "You have to create a new user to continue."
 
 # 开始游戏时读取出错，对话框的错误信息
 #: Scripts\MVZ2\Scene\GameEntrance.cs:152
-msgid ""
-"所有存档均无法读取，文件可能已损坏。\n"
+msgid "所有存档均无法读取，文件可能已损坏。\n"
 "必须删除一个存档，并新建存档以继续游戏。"
-msgstr ""
-"All users cannot be loaded, the files may be corrupted.\n"
+msgstr "All users cannot be loaded, the files may be corrupted.\n"
 "You have to delete a user and create a new one to continue."
 
+# 选项，{0}为是否开启
 #: Scripts\MVZ2\Options\OptionsLogic.cs:178
 msgid "交换触发：{0}"
 msgstr "Swap Trigger: {0}"
 
+# 选项，{0}为是否开启
 #: Scripts\MVZ2\Options\OptionsLogic.cs:180
 msgid "全屏：{0}"
 msgstr "Full Screen: {0}"
 
+# 选项，{0}为是否开启
 #: Scripts\MVZ2\Options\OptionsLogic.cs:182
 msgid "设备震动：{0}"
 msgstr "Vibration: {0}"
 
+# 选项，{0}为难度
 #: Scripts\MVZ2\Options\OptionsLogic.cs:184
 msgid "难度：{0}"
 msgstr "Difficulty: {0}"
 
+# 选项，{0}为是否开启
 #: Scripts\MVZ2\Options\OptionsLogic.cs:186
 msgid "后台暂停：{0}"
 msgstr "Pause on Focus Lost: {0}"
 
+# 选项，{0}为量
 #: Scripts\MVZ2\Options\OptionsLogic.cs:190
 msgid "音乐音量：{0}"
 msgstr "Music Volume: {0}"
 
+# 选项，{0}为量
 #: Scripts\MVZ2\Options\OptionsLogic.cs:192
 msgid "音效音量：{0}"
 msgstr "Sound Volume: {0}"
@@ -939,8 +1024,9 @@ msgstr "Sound Volume: {0}"
 # 值，{0}为百分数
 #: Scripts\MVZ2\Options\OptionsLogic.cs:194
 msgid "{0}%"
-msgstr "{0}%"
+msgstr ""
 
+# 选项，{0}为是否开启
 #: Scripts\MVZ2\Options\OptionsLogic.cs:197
 msgid "血与碎块：{0}"
 msgstr "Blood and Gore: {0}"
@@ -955,49 +1041,47 @@ msgstr "Skip talks: {0}"
 msgid "赞助者名称：{0}"
 msgstr "Sponsor Names: {0}"
 
+# 选项，{0}为量
 #: Scripts\MVZ2\Options\OptionsLogic.cs:205
 msgid "粒子数量：{0}"
 msgstr "Particle Count: {0}"
 
+# 选项，{0}为量
 #: Scripts\MVZ2\Options\OptionsLogic.cs:207
 msgid "屏幕震动：{0}"
 msgstr "Screen Shake: {0}"
 
+# 对话框内容
 #: Scripts\MVZ2\Options\OptionsLogicLevel.cs:73
-msgid ""
-"确认要返回吗？\n"
+msgid "确认要返回吗？\n"
 "你的进度会被保存。"
-msgstr ""
-"Are you sure to quit?\n"
+msgstr "Are you sure to quit?\n"
 "Your progress will be saved."
 
+# 地图的提示文本
 #: Scripts\MVZ2\Map\MapController.cs:631
-msgid ""
-"按住右键拖动以移动视图\n"
+msgid "按住右键拖动以移动视图\n"
 "滚轮以缩放视图"
-msgstr ""
-"Hold right mouse and drag to move the view\n"
+msgstr "Hold right mouse and drag to move the view\n"
 "Scroll to scale the view"
 
+# 地图的提示文本
 #: Scripts\MVZ2\Map\MapController.cs:633
-msgid ""
-"单指拖动以移动视图\n"
+msgid "单指拖动以移动视图\n"
 "双指触摸以缩放视图"
-msgstr ""
-"Drag with one finger to move the view\n"
+msgstr "Drag with one finger to move the view\n"
 "Touch with two fingers to scale the view"
 
+# 地图的提示文本
 #: Scripts\MVZ2\Map\MapController.cs:635
 msgid "正在进入关卡……"
 msgstr "Entering Level…"
 
 # 地图的无尽模式提示文本，{0}为当前轮数，{1}为历史最高
 #: Scripts\MVZ2\Map\MapController.cs:637
-msgid ""
-"轮数\n"
+msgid "轮数\n"
 "{0}/{1}"
-msgstr ""
-"Flags\n"
+msgstr "Flags\n"
 "{0}/{1}"
 
 # 初始化任务名称
@@ -1005,6 +1089,7 @@ msgstr ""
 msgid "获取赞助者列表……"
 msgstr "Getting Sponsors..."
 
+# 删除用户时的错误信息，{0}为错误信息
 #: Scripts\MVZ2\Mainmenu\MainmenuController.cs:581
 msgid "无法删除用户：{0}"
 msgstr "Cannot delete user: {0}"
@@ -1019,6 +1104,7 @@ msgstr "Cannot switch to user: {0}"
 msgid "没有其他有效的用户可供切换。"
 msgstr "There are no other available users to switch."
 
+# 退出对话框的描述
 #: Scripts\MVZ2\Mainmenu\MainmenuController.cs:587
 msgid "确认要退出吗？"
 msgstr "Quit?"
@@ -1026,7 +1112,7 @@ msgstr "Quit?"
 # 分辨率名，{0}为宽，{1}为高
 #: Scripts\MVZ2\Managers\ResolutionManager.cs:63
 msgid "{0}x{1}"
-msgstr "{0}x{1}"
+msgstr ""
 
 # 对话框内容
 #: Scripts\MVZ2\Level\ControllerPart\LevelBlueprintChooseController.cs:854
@@ -1041,9 +1127,7 @@ msgstr "The blueprint selected last time contained multiple same contraptions."
 # 重选蓝图的验证错误信息
 #: Scripts\MVZ2\Level\ControllerPart\LevelBlueprintChooseController.cs:860
 msgid "上一次选择的蓝图中包含未解锁的器械。"
-msgstr ""
-"The blueprint selected last time contained contraptions that are not "
-"unlocked yet."
+msgstr "The blueprint selected last time contained contraptions that are not unlocked yet."
 
 # 重选蓝图的验证错误信息
 #: Scripts\MVZ2\Level\ControllerPart\LevelBlueprintChooseController.cs:862
@@ -1053,46 +1137,41 @@ msgstr "The blueprint selected last time contained multiple same artifacts."
 # 重选蓝图的验证错误信息
 #: Scripts\MVZ2\Level\ControllerPart\LevelBlueprintChooseController.cs:864
 msgid "上一次选择的制品中包含未解锁的制品。"
-msgstr ""
-"The blueprint selected last time contained artifacts that are not unlocked "
-"yet."
+msgstr "The blueprint selected last time contained artifacts that are not unlocked yet."
 
+# 实体提示
 #: Scripts\MVZ2\Level\LevelController_Entities.cs:263
 msgctxt "entity.tooltip"
 msgid "在图鉴中查看"
 msgstr "View in Almanac"
 
+# 对话框内容
 #: Scripts\MVZ2\Level\LevelController_UI.cs:895
-msgid ""
-"确认要重新开始关卡吗？\n"
+msgid "确认要重新开始关卡吗？\n"
 "本关的进度都将丢失。"
-msgstr ""
-"Restart level?\n"
+msgstr "Restart level?\n"
 "The progress of this level will be lost."
 
+# 对话框内容，{0}为错误信息
 #: Scripts\MVZ2\Level\LevelController_UI.cs:897
 msgid "加载关卡失败，出现错误：{0}"
 msgstr "Failed to load stage. An error occurred: {0}"
 
+# 对话框内容
 #: Scripts\MVZ2\Level\LevelController_UI.cs:899
 msgid "加载关卡失败，存档状态和当前游戏状态不匹配。"
-msgstr ""
-"Failed to load stage. The state of the stage is not match with the current "
-"game state."
+msgstr "Failed to load stage. The state of the stage is not match with the current game state."
 
 # 对话档案中语句的模板，{0}为人物，{1}为语句内容
 #: Scripts\MVZ2\Archive\ArchiveController.cs:249
 msgid "<b>[{0}]</b> {1}"
-msgstr "<b>[{0}]</b> {1}"
+msgstr ""
 
 # 对话档案中语句的模板，{0}为前缀描述，{1}为人物，{2}为语句内容
 #: Scripts\MVZ2\Archive\ArchiveController.cs:251
-msgid ""
-"<color=blue>{0}</color>\n"
+msgid "<color=blue>{0}</color>\n"
 "<b>[{1}]</b> {2}"
 msgstr ""
-"<color=blue>{0}</color>\n"
-"<b>[{1}]</b> {2}"
 
 # 图鉴描述模板，{0}为能量
 #: Scripts\MVZ2\Almanac\AlmanacController.cs:315
@@ -1106,19 +1185,19 @@ msgctxt "almanac"
 msgid "冷却时间：<color=red>{0}</color>"
 msgstr "Recharge: <color=red>{0}</color>"
 
-# 图鉴描述模板，{0}为冷却时间
+# 图鉴描述
 #: Scripts\MVZ2\Almanac\AlmanacController.cs:319
 msgctxt "almanac"
 msgid "<color=blue>白天失效</color>"
 msgstr "<color=blue>Can only be used at night</color>"
 
-# 图鉴描述模板，{0}为冷却时间
+# 图鉴描述
 #: Scripts\MVZ2\Almanac\AlmanacController.cs:321
 msgctxt "almanac"
 msgid "<color=blue>只能放在水上</color>"
 msgstr "<color=blue>Must be placed in water</color>"
 
-# 图鉴描述模板，{0}为能量
+# 商店文本
 #: Scripts\MVZ2\Store\StoreManager.cs:114
 msgid "<color=red>售罄</color>"
 msgstr "<color=red>Sold Out</color>"
@@ -1271,9 +1350,7 @@ msgstr "Mesmerized Matchup"
 #: Achievements meta file
 msgctxt "achievement"
 msgid "用友好的怪物杀死敌对的器械，或者让器械反杀怪物。"
-msgstr ""
-"Kill a hostile contraption by a friendly monster, or kill the monster by the "
-"contraption."
+msgstr "Kill a hostile contraption by a friendly monster, or kill the monster by the contraption."
 
 #. Name for achievement mvz2:bonebreaker
 #: Achievements meta file
@@ -1489,7 +1566,7 @@ msgstr "Store"
 #: Store meta file
 msgctxt "store_talk"
 msgid "Whaddaya Buyin'?"
-msgstr "Whaddaya Buyin'?"
+msgstr ""
 
 #. Store chat from character mvz2:crazy_villager
 #: Store meta file
@@ -1549,9 +1626,7 @@ msgstr "Try to read this book? It’s really interesting!"
 #: Store meta file
 msgctxt "store_talk"
 msgid "听说，外界的公主一旦陷入危机，就会有一位骑士前来救她呢。"
-msgstr ""
-"I heard that in the outside world, when a princess is in trouble, a knight "
-"always comes to rescue her."
+msgstr "I heard that in the outside world, when a princess is in trouble, a knight always comes to rescue her."
 
 #. Store chat from character mvz2:tokiko
 #: Store meta file
@@ -1563,9 +1638,7 @@ msgstr "Are all the people from your world cubic?"
 #: Store meta file
 msgctxt "store_talk"
 msgid "虽然这里存在着危险的妖怪，不过像我一样比较弱的妖怪还是更多呢。"
-msgstr ""
-"Even though there are dangerous youkai here, there are actually more weaker "
-"ones like me."
+msgstr "Even though there are dangerous youkai here, there are actually more weaker ones like me."
 
 #. Store chat from character mvz2:tokiko
 #: Store meta file
@@ -1589,15 +1662,13 @@ msgstr "Why do dispensers have such a cute face?"
 #: Store meta file
 msgctxt "store_talk"
 msgid "额外的蓝图槽！让你能在战斗中多携带一个器械！"
-msgstr ""
-"Extra blueprint slot! Allowing you to carry one more contraption to battle!"
+msgstr "Extra blueprint slot! Allowing you to carry one more contraption to battle!"
 
 #. Store item description of mvz2:blueprint_slot by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
 msgid "这个是额外的蓝图槽，可以让你多带一个器械！"
-msgstr ""
-"This is an extra blueprint slot, it allows you to carry one more contraption!"
+msgstr "This is an extra blueprint slot, it allows you to carry one more contraption!"
 
 #. Store item text of mvz2:blueprint_slot
 #: Store meta file
@@ -1629,9 +1700,7 @@ msgstr "More Starshard slots! Let your contraptions evoke more!"
 #: Store meta file
 msgctxt "store_talk"
 msgid "这个可以让你多带一些很神奇的东西，据说器械们很喜欢呢！"
-msgstr ""
-"This lets you carry more magical stuff—they say contraptions absolutely "
-"adore these!"
+msgstr "This lets you carry more magical stuff—they say contraptions absolutely adore these!"
 
 #. Store item text of mvz2:starshard_slot
 #: Store meta file
@@ -1647,16 +1716,13 @@ msgstr "5 Slots"
 #: Store meta file
 msgctxt "store_talk"
 msgid "更多的制品槽！让你能带更多亮闪闪的小玩意！"
-msgstr ""
-"Additional artifact slots! Decorate yourself by more precious trinkets!"
+msgstr "Additional artifact slots! Decorate yourself by more precious trinkets!"
 
 #. Store item description of mvz2:artifact_slot by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
 msgid "这个可以让你带更多的小装饰品！我可喜欢打扮了！"
-msgstr ""
-"This'll let you pack more fancy trinkets! Accessorizing is my favorite, you "
-"know!"
+msgstr "This'll let you pack more fancy trinkets! Accessorizing is my favorite, you know!"
 
 #. Store item text of mvz2:artifact_slot
 #: Store meta file
@@ -1672,39 +1738,30 @@ msgstr "3 Slots"
 #: Store meta file
 msgctxt "store_talk"
 msgid "把传染发射器放在小型发射器上，让它发射的子弹能够在敌人之间传播！"
-msgstr ""
-"Place Infectensers on your Small Dispensers. Projectiles shot by them can "
-"spread between enemies!"
+msgstr "Place Infectensers on your Small Dispensers. Projectiles shot by them can spread between enemies!"
 
 #. Store item description of mvz2:infectenser by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
 msgid "传染发射器能升级小型发射器，这样它就能在怪物之间散播互相攻击的种子了！"
-msgstr ""
-"Infectenser is upgraded from a Small Dispenser, it fires parasitic micro-"
-"bots that can spread to nearby foes!"
+msgstr "Infectenser is upgraded from a Small Dispenser, it fires parasitic micro-bots that can spread to nearby foes!"
 
 #. Store item description of mvz2:force_pad by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
 msgid "把传动力板放在重力板上，让它能够操纵上方子弹和敌人的位置！"
-msgstr ""
-"Place Force Pads on your Gravity Pads. They can control the motion of "
-"objects over them!"
+msgstr "Place Force Pads on your Gravity Pads. They can control the motion of objects over them!"
 
 #. Store item description of mvz2:force_pad by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
 msgid "传动力板能升级重力板，能改变很多很多东西的位置，很方便！"
-msgstr ""
-"Force Pad is upgraded from Gravity Pad, it can change the position of many "
-"things, conveniently!"
+msgstr "Force Pad is upgraded from Gravity Pad, it can change the position of many things, conveniently!"
 
 #. Store item description of mvz2:golden_dropper by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
-msgid ""
-"把金质投掷器放在木质投掷器上，让它能够发射可以反弹，并产生绿宝石的金球！"
+msgid "把金质投掷器放在木质投掷器上，让它能够发射可以反弹，并产生绿宝石的金球！"
 msgstr ""
 
 #. Store item description of mvz2:golden_dropper by character mvz2:tokiko
@@ -1717,571 +1774,71 @@ msgstr ""
 #: Store meta file
 msgctxt "store_talk"
 msgid "我以前用过的锄头！每场战斗它都能杀死最开始出现的那只怪物！"
-msgstr ""
-"The hoe I used to use! It can kill the first enemy that appears in every "
-"battle!"
+msgstr "The hoe I used to use! It can kill the first enemy that appears in every battle!"
 
 #. Store item description of mvz2:hoe by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
 msgid "村民先生的锄头，每场战斗都能给第一只来的怪物当头一棒！"
-msgstr ""
-"Mr. Villager's hoe, it can knock out the first enemy that appears in every "
-"battle!"
+msgstr "Mr. Villager's hoe, it can knock out the first enemy that appears in every battle!"
 
 #. Store item description of mvz2:the_creatures_heart by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
-msgid ""
-"科学怪人的怪物的心脏！你的场上每有一个相同的器械，这个器械的能量消耗就会减少"
-"5！"
-msgstr ""
-"The heart of The Creature! For each copy of a contraption you have on the "
-"lawn, the cost of this contraption is decreased by 5!"
+msgid "科学怪人的怪物的心脏！你的场上每有一个相同的器械，这个器械的能量消耗就会减少5！"
+msgstr "The heart of The Creature! For each copy of a contraption you have on the lawn, the cost of this contraption is decreased by 5!"
 
 #. Store item description of mvz2:the_creatures_heart by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
-msgid ""
-"很奇怪的心脏……由于它在渴望同类，你的场上每有一个相同的器械，这个器械的能量消"
-"耗就会减少5！"
-msgstr ""
-"A strange heart...Due to it's yearning for its own kind, for each copy of a "
-"contraption you have on the lawn, the cost of this contraption is decreased "
-"by 5!"
+msgid "很奇怪的心脏……由于它在渴望同类，你的场上每有一个相同的器械，这个器械的能量消耗就会减少5！"
+msgstr "A strange heart...Due to it's yearning for its own kind, for each copy of a contraption you have on the lawn, the cost of this contraption is decreased by 5!"
 
 #. Store item description of mvz2:pagoda_branch by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
-msgid ""
-"产自梦境世界的槐树的树枝！你在开始战斗时额外获得2个星之碎片，但是会出现额外2"
-"倍多的敌人！"
-msgstr ""
-"The branch of a pagoda tree from the Dream World! It gives you 2 starshards "
-"to start with in every battle, but there will be 2 more times the enemies!"
+msgid "产自梦境世界的槐树的树枝！你在开始战斗时额外获得2个星之碎片，但是会出现额外2倍多的敌人！"
+msgstr "The branch of a pagoda tree from the Dream World! It gives you 2 starshards to start with in every battle, but there will be 2 more times the enemies!"
 
 #. Store item description of mvz2:pagoda_branch by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
-msgid ""
-"来自槐树上的树枝，战斗开始时它能额外给你2个神奇的碎片，但是也会额外出现2倍多"
-"的怪物！"
-msgstr ""
-"A branch of a pagoda tree, It gives you 2 magical shards to start with in "
-"every battle, but there will be 2 more times the enemies!"
+msgid "来自槐树上的树枝，战斗开始时它能额外给你2个神奇的碎片，但是也会额外出现2倍多的怪物！"
+msgstr "A branch of a pagoda tree, It gives you 2 magical shards to start with in every battle, but there will be 2 more times the enemies!"
 
 #. Store item description of mvz2:dark_matter by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
 msgid "从梦魇身上提取出来的暗物质！器械生产效率翻倍，但是场景会变得很黑！"
-msgstr ""
-"Dark matter extracted from the Nightmare itself! Contraptions produce at "
-"twice the speed, but the stage will become dark!"
+msgstr "Dark matter extracted from the Nightmare itself! Contraptions produce at twice the speed, but the stage will become dark!"
 
 #. Store item description of mvz2:dark_matter by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
 msgid "一种很黑的东西，它能让器械生产效率翻倍，但是场景会变得很暗！"
-msgstr ""
-"Some dark thing, it makes contraptions produce at twice the speed, but the "
-"stage will become dark!"
+msgstr "Some dark thing, it makes contraptions produce at twice the speed, but the stage will become dark!"
 
 #. Store item description of mvz2:inverted_mirror by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
 msgid "我不小心把这个镜子放反了！现在它可以让敌人发射的子弹击中其他敌人了！"
-msgstr ""
-"I accidentally turned this mirror upside down! Now it can make enemy "
-"projectiles hit other enemies!"
+msgstr "I accidentally turned this mirror upside down! Now it can make enemy projectiles hit other enemies!"
 
 #. Store item description of mvz2:inverted_mirror by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
 msgid "不知道为什么倒过来的镜子……总之它可以让敌人的子弹击中他们自己！"
-msgstr ""
-"I don't know why this mirror is inverted... Anyway, it can make enemies' "
-"projectiles hit themselves!"
+msgstr "I don't know why this mirror is inverted... Anyway, it can make enemies' projectiles hit themselves!"
 
 #. Store item description of mvz2:wither_skeleton_skull by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
 msgid "凋灵骷髅的头颅！蓝图消耗变为80%，但是放下的器械的最大耐久会变为60%！"
-msgstr ""
-"A wither skeleton's skull! Blueprint costs become 80%, but the toughness of "
-"newly placed contraptions become 60%!"
+msgstr "A wither skeleton's skull! Blueprint costs become 80%, but the toughness of newly placed contraptions become 60%!"
 
 #. Store item description of mvz2:wither_skeleton_skull by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
-msgid ""
-"很吓人的骷髅头……它能让你的蓝图消耗变为80%，但是器械们的耐久也会因此变为60%！"
-msgstr ""
-"A spooky scary skull... It can reduce your blueprint costs to 80%, but the "
-"contraptions will also be 60% as tough as before!"
+msgid "很吓人的骷髅头……它能让你的蓝图消耗变为80%，但是器械们的耐久也会因此变为60%！"
+msgstr "A spooky scary skull... It can reduce your blueprint costs to 80%, but the contraptions will also be 60% as tough as before!"
 
-#~ msgctxt "music.name"
-#~ msgid "留不住回忆"
-#~ msgstr "Fading Echoes of Memory"
-
-#~ msgctxt "music.name"
-#~ msgid "猩红之地"
-#~ msgstr "Crimson"
-
-#~ msgctxt "store_talk"
-#~ msgid "更多的制品槽！多用神通，私藏无用！"
-#~ msgstr "Additional artifact slots! Decorate yourself with more precious!"
-
-#, fuzzy
-#~| msgctxt "advice.trigger_tutorial.1"
-#~| msgid "点击能量面板选中触发器！"
-#~ msgctxt "advice.trigger_tutorial.1"
-#~ msgid "左键点击能量面板选中触发器！"
-#~ msgstr "Click the Energy Panel to select Trigger!"
-
-#~ msgid "查看人物"
-#~ msgstr "View Characters"
-
-#~ msgid "人物图鉴"
-#~ msgstr "Characters"
-
-# 图鉴描述模板，{0}为开头段，{1}为属性段，{2}为趣文段
-#~ msgctxt "almanac"
-#~ msgid ""
-#~ "{0}\n"
-#~ "\n"
-#~ "{1}\n"
-#~ "\n"
-#~ "{2}"
-#~ msgstr ""
-#~ "{0}\n"
-#~ "\n"
-#~ "{1}\n"
-#~ "\n"
-#~ "{2}"
-
-#~ msgctxt "almanac"
-#~ msgid "花费："
-#~ msgstr "Energy Cost: "
-
-#~ msgctxt "almanac"
-#~ msgid "冷却时间："
-#~ msgstr "Recharge: "
-
-#~ msgid "版本0.1.0"
-#~ msgstr "Version 0.1.0"
-
-#~ msgid ""
-#~ "选择你的蓝图\n"
-#~ "\n"
-#~ msgstr "Choose your blueprints"
-
-#~ msgid "加载中……"
-#~ msgstr "Loading…"
-
-#~ msgid "选择您的偏好语言"
-#~ msgstr "Select your preferred language"
-
-#~ msgid "触摸以开始！"
-#~ msgstr "Touch to start!"
-
-#~ msgid "返回列表"
-#~ msgstr "Back to list"
-
-#~ msgid ""
-#~ "您通关了这一章节。\n"
-#~ "下一章节目前还在进行新版本的开发。\n"
-#~ "或许……您可以试试无尽模式？"
-#~ msgstr ""
-#~ "You cleared this chapter.\n"
-#~ "The next chapter is in development and will be released soon.\n"
-#~ "Or...You may try the Endless Mode!"
-
-#~ msgid "恭喜！"
-#~ msgstr "Congratulations!"
-
-#~ msgid "自定义"
-#~ msgstr "Custom"
-
-#~ msgid "轮数"
-#~ msgstr "Flags"
-
-#~ msgid "高"
-#~ msgstr "Height"
-
-#~ msgid "输入……"
-#~ msgstr "Input…"
-
-#~ msgid ""
-#~ "当前关卡正在开发！\n"
-#~ "请在以后的版本中游玩。"
-#~ msgstr ""
-#~ "Current level is being developed!\n"
-#~ "Please play in the later versions."
-
-#~ msgid "夜用型 - 白天失效"
-#~ msgstr "Nocturnal - disabled during the day"
-
-#~ msgid "关"
-#~ msgstr "OFF"
-
-#~ msgid "好"
-#~ msgstr "OK"
-
-#~ msgid "开"
-#~ msgstr "ON"
-
-#~ msgid "再试一次"
-#~ msgstr "Retry"
-
-#~ msgid "行"
-#~ msgstr "Row"
-
-#~ msgid "你无法删除唯一一个用户"
-#~ msgstr "You can't delete the only user"
-
-#~ msgid "查看草坪"
-#~ msgstr "View Lawn"
-
-#~ msgctxt "achievement"
-#~ msgid "解锁成就！"
-#~ msgstr "Achievement Unlocked!"
-
-#~ msgctxt "achievement"
-#~ msgid "已解锁！"
-#~ msgstr "Unlocked!"
-
-#~ msgctxt "archive"
-#~ msgid "如果成交"
-#~ msgstr "If accepted"
-
-#~ msgctxt "archive"
-#~ msgid "教程完成后"
-#~ msgstr "After tutorial"
-
-#~ msgctxt "archive"
-#~ msgid "（哆来咪出现）"
-#~ msgstr "(Doremy appears)"
-
-#~ msgctxt "archive"
-#~ msgid "（哆来咪倒地）"
-#~ msgstr "(Doremy faints)"
-
-#~ msgctxt "archive"
-#~ msgid "（哆来咪睁开了她失明的双眼）"
-#~ msgstr "(Doremy opens her blind eyes)"
-
-#~ msgctxt "archive"
-#~ msgid "（哆来咪双手抱头痛苦不堪）"
-#~ msgstr "(Doremy holds her head with her hands in agony)"
-
-#~ msgctxt "archive"
-#~ msgid "（史蒂夫和村民前往了梦境世界。）"
-#~ msgstr "(Steve and Villager went to the Dream World.)"
-
-#~ msgctxt "archive"
-#~ msgid "如果金钱不够"
-#~ msgstr "If you don't have enough money"
-
-#~ msgctxt "archive"
-#~ msgid "如果金钱足够"
-#~ msgstr "If you have enough money"
-
-#~ msgctxt "archive"
-#~ msgid "音乐"
-#~ msgstr "Music"
-
-#~ msgctxt "archive"
-#~ msgid "（噩梦世界展现了出来）"
-#~ msgstr "(Nightmare World reveals itself)"
-
-#~ msgctxt "archive"
-#~ msgid "（欧兰特出现）"
-#~ msgstr "(Orant appears)"
-
-#~ msgctxt "archive"
-#~ msgid "如果拒绝"
-#~ msgstr "If refuse"
-
-#~ msgctxt "archive"
-#~ msgid "播放结束"
-#~ msgstr "Replay Ended"
-
-#~ msgctxt "archive"
-#~ msgid "是否再次播放？"
-#~ msgstr "Play again?"
-
-#~ msgctxt "archive"
-#~ msgid "段落{0}"
-#~ msgstr "Section {0}"
-
-#~ msgctxt "archive"
-#~ msgid "如果不进行教程"
-#~ msgstr "If no"
-
-#~ msgctxt "archive"
-#~ msgid "开始序章"
-#~ msgstr "At the start of Prologue"
-
-#~ msgctxt "archive"
-#~ msgid "开始段落"
-#~ msgstr "Start section"
-
-#~ msgctxt "archive"
-#~ msgid "万圣夜"
-#~ msgstr "Halloween"
-
-#~ msgctxt "archive"
-#~ msgid "序章"
-#~ msgstr "Prologue"
-
-#~ msgctxt "archive"
-#~ msgid "如果进行教程"
-#~ msgstr "If yes"
-
-#~ msgid "哼！我是说——哼！"
-#~ msgstr "Hmm! I mean, hmm!"
-
-#~ msgid "一次购买多张蓝图会发生可怕的事情！我骗你的！"
-#~ msgstr ""
-#~ "Buying multiple blueprints at once will cause something terrible! I'm "
-#~ "lying!"
-
-#~ msgid "售罄"
-#~ msgstr "Sold Out"
-
-#~ msgctxt "levelname"
-#~ msgid "测试关"
-#~ msgstr "Test Level"
-
-#~ msgctxt "levelname"
-#~ msgid "{0}(无尽版)"
-#~ msgstr "{0}(Endless)"
-
-#~ msgctxt "advice.random_china"
-#~ msgid "方片A"
-#~ msgstr "Ace of Diamonds"
-
-#~ msgctxt "advice.random_china"
-#~ msgid "瓷器小镇"
-#~ msgstr "China Town"
-
-#~ msgctxt "advice.random_china"
-#~ msgid "手套响指"
-#~ msgstr "Gauntlet Snap"
-
-#~ msgctxt "advice.random_china"
-#~ msgid "地狱金属"
-#~ msgstr "Hell Metal"
-
-#~ msgctxt "advice.random_china"
-#~ msgid "黑曜石囚牢"
-#~ msgstr "Obsidian Prisons"
-
-#~ msgctxt "advice.random_china"
-#~ msgid "红石俱备"
-#~ msgstr "Redstone Ready"
-
-#~ msgctxt "advice.random_china"
-#~ msgid "塔 - XVI"
-#~ msgstr "The Tower - XVI"
-
-#~ msgctxt "death_message"
-#~ msgid "你有蜂蜜瓶还是牛奶桶呢？都没有。"
-#~ msgstr "Here comes the itsy bitsy spider!"
-
-#~ msgctxt "death_message"
-#~ msgid "亲爱的日记：今天我死了。"
-#~ msgstr "Job's done, back to vibing as a statue."
-
-#~ msgctxt "death_message"
-#~ msgid "快拿出棒球棍！"
-#~ msgstr "Burn Baby Burn"
-
-#~ msgctxt "death_message"
-#~ msgid "我们现在，都是幽灵了。"
-#~ msgstr "Boo."
-
-#~ msgctxt "death_message"
-#~ msgid "你去告诉作者，说他忘了设置死亡信息了。"
-#~ msgstr "You tell the creator, he forgot to set the death message."
-
-#~ msgctxt "death_message"
-#~ msgid "隔离！"
-#~ msgstr "Baby delivery!"
-
-#~ msgctxt "death_message"
-#~ msgid "没有坟墓能束缚我！没有坟墓能束缚我！"
-#~ msgstr "Are you winning, son? - ur mum"
-
-#~ msgctxt "death_message"
-#~ msgid ""
-#~ "你挂了\n"
-#~ "死亡带走了12450金币和经验值"
-#~ msgstr ""
-#~ "You Died\n"
-#~ " Death took 42690 gold and some XP away"
-
-#~ msgctxt "death_message"
-#~ msgid "恐怖寄生虫 已消灭世界上的所有……"
-#~ msgstr "There are no healthy people left in the world…"
-
-#~ msgctxt "death_message"
-#~ msgid "被射成刺猬了！"
-#~ msgstr "What a spooky scary skeleton!"
-
-#~ msgctxt "death_message"
-#~ msgid "我的蜘蛛感应又有反应了。"
-#~ msgstr "My spider-sense is tingling."
-
-#~ msgctxt "death_message"
-#~ msgid "脑子是好的，但不是每个人都有"
-#~ msgstr "I'm gonna eat your brains. We're the undead!"
-
-#~ msgid "已锁定"
-#~ msgstr "Locked"
-
-#~ msgctxt "blueprint"
-#~ msgid "增加弹珠"
-#~ msgstr "Add Ball"
-
-#~ msgctxt "blueprint"
-#~ msgid "增长挡板"
-#~ msgstr "Lengthen Board"
-
-#~ msgctxt "blueprint"
-#~ msgid "返回弹珠"
-#~ msgstr "Return Ball"
-
-#~ msgid "点击继续"
-#~ msgstr "Click to continue"
-
-#~ msgid "返回索引"
-#~ msgstr "Back to Index"
-
-#~ msgid "查看敌人"
-#~ msgstr "View Enemies"
-
-#~ msgid ""
-#~ "确认要退出吗？\n"
-#~ "并安装720流氓卫士以威胁您的电脑。"
-#~ msgstr ""
-#~ "Quit?\n"
-#~ "Only 1% can actually quit the game!"
-
-#~ msgid ""
-#~ "确认要退出吗？\n"
-#~ "旅店永远都会关门！"
-#~ msgstr ""
-#~ "Quit?\n"
-#~ "The inn will always be closed!"
-
-#~ msgid ""
-#~ "确认要退出吗？\n"
-#~ "硕士，还不可以休息哦。"
-#~ msgstr ""
-#~ "Quit?\n"
-#~ "Dokutah, it's not the time to rest."
-
-#~ msgid ""
-#~ "确认要退出吗？\n"
-#~ "打得好，我认输。"
-#~ msgstr ""
-#~ "Quit?\n"
-#~ "Well fought, I concede."
-
-#~ msgid ""
-#~ "确认要退出吗？\n"
-#~ "请问您是否并不是不要否认您不想不去不卸载720流氓卫士？"
-#~ msgstr ""
-#~ "Quit?\n"
-#~ "And donate to Reimu so she can achieve the EPIC YOKI GENOCIDE."
-
-#~ msgid ""
-#~ "确认要退出吗？\n"
-#~ "退出会导致游戏停止！"
-#~ msgstr ""
-#~ "Quit?\n"
-#~ "Exiting will cause the game to stop!"
-
-#~ msgid "震动幅度：{0}"
-#~ msgstr "Screen Shake: {0}"
-
-#~ msgid "难度"
-#~ msgstr "Difficulty"
-
-#~ msgid "全屏"
-#~ msgstr "Fullscreen"
-
-#~ msgid "屏幕震动"
-#~ msgstr "Screen Shake"
-
-#~ msgid "音效"
-#~ msgstr "Sound FX"
-
-#~ msgid "震动"
-#~ msgstr "Vibration"
-
-#~ msgctxt "error"
-#~ msgid "<color=red>错误：未知文本</color>"
-#~ msgstr "<color=red>Error:Unknown Text</color>"
-
-#~ msgctxt "error"
-#~ msgid ""
-#~ "<color=red>错误：</color>\n"
-#~ "发现了重复的物体引用！\n"
-#~ "请将你的日志文件发送给作者。"
-#~ msgstr ""
-#~ "<color=red>Error:</color>\n"
-#~ "Duplicate object reference found!\n"
-#~ "Please send your log files to the creator."
-
-#~ msgctxt "error"
-#~ msgid ""
-#~ "<color=red>错误：</color>\n"
-#~ "加载用户存档文件失败。\n"
-#~ "用户存档可能已损坏。"
-#~ msgstr ""
-#~ "<color=red>Error:</color>\n"
-#~ "Failed to load user data file.\n"
-#~ "User data is probably corruputed."
-
-#~ msgctxt "error"
-#~ msgid ""
-#~ "<color=red>错误：</color>\n"
-#~ "打开用户存档文件失败。\n"
-#~ "请确认没有其他正在使用该文件的应用程序，然后重新启动游戏。"
-#~ msgstr ""
-#~ "<color=red>Error:</color>\n"
-#~ "Failed to open user data file.\n"
-#~ "Please ensure there are no other applications using these files, then "
-#~ "restart the game."
-
-#~ msgctxt "error"
-#~ msgid "读取关卡错误"
-#~ msgstr "Failed to load"
-
-#~ msgctxt "error"
-#~ msgid ""
-#~ "加载关卡时出现了错误。\n"
-#~ "请向作者报告本问题。"
-#~ msgstr ""
-#~ "An error happened while loading the level.\n"
-#~ "Please submit the bug report to the author."
-
-#~ msgctxt "error"
-#~ msgid ""
-#~ "关卡存档版本未知。\n"
-#~ "请重新开始关卡。"
-#~ msgstr ""
-#~ "The version of save data is unknown.\n"
-#~ "Please restart the level."
-
-#~ msgctxt "error"
-#~ msgid ""
-#~ "存档版本和游戏版本不相同。\n"
-#~ "存档版本：{0}\n"
-#~ "游戏版本： {1}"
-#~ msgstr ""
-#~ "Save data version does not match with the game version.\n"
-#~ "Save Data Version: {0}\n"
-#~ "Game Version: {1}"
