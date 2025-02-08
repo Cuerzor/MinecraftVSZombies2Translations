@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 
 "Project-Id-Version: MinecraftVSZombies2\n"
-"POT-Creation-Date: 2025-02-06 05:17+0800\n"
+"POT-Creation-Date: 2025-02-08 07:57+0800\n"
 "Language-Team: Cuerzor\n"
 "Language: zh_CN\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -289,103 +289,103 @@ msgid "错误"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:198
+#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:199
 msgctxt "advice.starshard_tutorial.0"
 msgid "点击星之碎片槽选中星之碎片！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:200
+#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:201
 msgctxt "advice.starshard_tutorial.1"
 msgid "点击发射器！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:202
+#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:203
 msgctxt "advice.starshard_tutorial.2"
 msgid "干得漂亮！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:204
+#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:205
 msgctxt "advice.starshard_tutorial.3"
 msgid "绿色的怪物会携带星之碎片！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:206
+#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:207
 msgctxt "advice.starshard_tutorial.4"
 msgid "点击收集星之碎片！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:208
+#: Scripts\Vanilla\GameContent\Stages\Definitions\StarshardTutorialStage.cs:209
 msgctxt "advice.starshard_tutorial.5"
 msgid "现在干掉铁盔僵尸！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:295
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:296
 msgctxt "advice.trigger_tutorial.0"
 msgid "放置TNT！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:297
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:298
 msgctxt "advice.trigger_tutorial.1"
 msgid "点击选中触发器！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:299
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:300
 msgctxt "advice.trigger_tutorial.2"
 msgid "点击以触发TNT！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:301
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:302
 msgctxt "advice.trigger_tutorial.3"
 msgid "干得漂亮！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:303
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:304
 msgctxt "advice.trigger_tutorial.4"
 msgid "选中触发器！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:305
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:306
 msgctxt "advice.trigger_tutorial.5"
 msgid "点击TNT蓝图！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:307
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:308
 msgctxt "advice.trigger_tutorial.6"
 msgid "放置TNT，它会立即被触发！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:309
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:310
 msgctxt "advice.trigger_tutorial.7"
 msgid "干得好！"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:311
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:312
 msgctxt "advice.trigger_tutorial.8"
 msgid "立即触发只限于一次性消耗类型的器械。"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:313
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:314
 msgctxt "advice.trigger_tutorial.9"
 msgid "如果你想交换这两个动作的效果，你可以在设置中更改。"
 msgstr ""
 
 # 教程关指引
-#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:315
+#: Scripts\Vanilla\GameContent\Stages\Definitions\TriggerTutorialStage.cs:316
 msgctxt "advice.trigger_tutorial.10"
 msgid "祝你好运！"
 msgstr ""
@@ -911,27 +911,27 @@ msgid ""
 msgstr ""
 
 # 商店对话框标题
-#: Scripts\MVZ2\Store\StoreController.cs:236
+#: Scripts\MVZ2\Store\StoreController.cs:234
 msgid "购买物品"
 msgstr ""
 
 # 商店对话框内容，{0}为价格
-#: Scripts\MVZ2\Store\StoreController.cs:238
+#: Scripts\MVZ2\Store\StoreController.cs:236
 msgid "确定以{0:N0}的价格买下这个物品？"
 msgstr ""
 
 # 商店对话框标题
-#: Scripts\MVZ2\Store\StoreController.cs:240
+#: Scripts\MVZ2\Store\StoreController.cs:238
 msgid "金钱不足"
 msgstr ""
 
 # 商店对话框内容
-#: Scripts\MVZ2\Store\StoreController.cs:242
+#: Scripts\MVZ2\Store\StoreController.cs:240
 msgid "你没有足够的金钱！"
 msgstr ""
 
 # 商店的页面计数，{0}为当前页面，{1}为总页面
-#: Scripts\MVZ2\Store\StoreController.cs:244
+#: Scripts\MVZ2\Store\StoreController.cs:242
 msgid "{0}/{1}"
 msgstr ""
 
@@ -1158,7 +1158,7 @@ msgid "上一次选择的制品中包含未解锁的制品。"
 msgstr ""
 
 # 实体提示
-#: Scripts\MVZ2\Level\LevelController_Entities.cs:263
+#: Scripts\MVZ2\Level\LevelController_Entities.cs:265
 msgctxt "entity.tooltip"
 msgid "在图鉴中查看"
 msgstr ""
@@ -1732,7 +1732,7 @@ msgstr ""
 #. Origin for music mvz2:castle_map
 #: Music meta file
 msgctxt "music.origin"
-msgid "沉向天空的辉针城"
+msgid "沉向空中的辉针城"
 msgstr ""
 
 #. Description for music mvz2:castle_map
@@ -2066,13 +2066,13 @@ msgstr ""
 #. Store item description of mvz2:golden_dropper by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
-msgid "把金质投掷器放在木质投掷器上，让它能够发射可以反弹，并产生绿宝石的金球！"
+msgid "把金制投掷器放在木制投掷器上，让它能够发射可以反弹，并产生绿宝石的金球！"
 msgstr ""
 
 #. Store item description of mvz2:golden_dropper by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
-msgid "金质投掷器能升级木质投掷器，能发出不停弹来弹去，并且可以赚钱的金球！"
+msgid "金制投掷器能升级木制投掷器，能发出不停弹来弹去，并且可以赚钱的金球！"
 msgstr ""
 
 #. Store item description of mvz2:hoe by character mvz2:crazy_villager

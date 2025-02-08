@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: minecraftvszombies2\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-02-06 17:27+0800\n"
+"POT-Creation-Date: 2025-02-08 07:57+0800\n"
+"PO-Revision-Date: 2025-02-08 19:58+0800\n"
 "Last-Translator: \n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
@@ -38,8 +38,12 @@ msgstr ""
 #. Flavor for contraptions mvz2:dispenser
 #: Almanac meta file
 msgctxt "contraptions.description"
-msgid "“有人问我为什么我能不需要红石就能发射箭，还有人问我为什么我能发射无数的箭。”发射器顿了一顿，“第一，我的栅栏连着一个脉冲，第二，我内部的弓附有耐久450和无限I。啥？你问我为啥会说话？”"
-msgstr "\"People usually ask me how I can shoot an infinite amount of arrows, and without redstone.\" said Dispenser. \"First, my fence is connected to a redstone pulse. Second, I am enchanted with Unbreaking III and Infinity. What? How can I talk?\""
+msgid ""
+"“有人问我为什么我能不需要红石就能发射箭，还有人问我为什么我能发射无数的箭。”发射器顿了一顿，“第一，我的栅栏连着一个脉冲，第二，我内部的"
+"弓附有耐久450和无限I。啥？你问我为啥会说话？”"
+msgstr ""
+"\"People usually ask me how I can shoot an infinite amount of arrows, and without redstone.\" said Dispenser. \"First, my fence is "
+"connected to a redstone pulse. Second, I am enchanted with Unbreaking III and Infinity. What? How can I talk?\""
 
 #. Header for contraptions mvz2:furnace
 #: Almanac meta file
@@ -114,7 +118,8 @@ msgid ""
 "\n"
 "恭喜你被耍了"
 msgstr ""
-"It is said that there's an Easter egg that can be found after forming the shape of a Nether portal with Obsidians and placing a Furnace in the middle. Would you like to try?\n"
+"It is said that there's an Easter egg that can be found after forming the shape of a Nether portal with Obsidians and placing a "
+"Furnace in the middle. Would you like to try?\n"
 "\n"
 "\n"
 "\n"
@@ -165,7 +170,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "地雷TNT为什么需要时间来填装？这的确是个千古难题。如果它能瞬间出来的话那还怕什么呢？但在它看来，这件事挺正常的：“老子在睡觉！”"
-msgstr "Why do Mine TNTs need time to arm themselves? It's been an enigma for years. What can go wrong if he can be instantly armed? It's a normal thing for him however. He was asleep."
+msgstr ""
+"Why do Mine TNTs need time to arm themselves? It's been an enigma for years. What can go wrong if he can be instantly armed? It's a "
+"normal thing for him however. He was asleep."
 
 #. Header for contraptions mvz2:small_dispenser
 #: Almanac meta file
@@ -232,8 +239,12 @@ msgstr ""
 #. Flavor for contraptions mvz2:glowstone
 #: Almanac meta file
 msgctxt "contraptions.description"
-msgid "上帝说：要有光，所以诞生了火把。上帝说：要有固态光，所以诞生了荧石。上帝说：要有可开关的固态光，所以诞生了红石灯。上帝说：好吧我编不下去了。"
-msgstr "And God said: Let there be light, and there were torches. And God said: Let there be solid light, and there were Glowstones. And God said: Let there be controllable solid light, and there was Redstone Light. God said: Ok that's enough"
+msgid ""
+"上帝说：要有光，所以诞生了火把。上帝说：要有固态光，所以诞生了荧石。上帝说：要有可开关的固态光，所以诞生了红石灯。上帝说：好吧我编不下"
+"去了。"
+msgstr ""
+"And God said: Let there be light, and there were torches. And God said: Let there be solid light, and there were Glowstones. And God "
+"said: Let there be controllable solid light, and there was Redstone Light. God said: Ok that's enough"
 
 #. Header for contraptions mvz2:punchton
 #: Almanac meta file
@@ -281,7 +292,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "注意：并不能用于治疗诺贝尔的心脏病，以及在一百年后因为能够治疗心脏病而获得诺贝尔奖。"
-msgstr "Note: It cannot be used to treat Nobel's heart disease, nor can it be used to award the Nobel Prize for being able to treat heart disease a hundred years later."
+msgstr ""
+"Note: It cannot be used to treat Nobel's heart disease, nor can it be used to award the Nobel Prize for being able to treat heart "
+"disease a hundred years later."
 
 #. Header for contraptions mvz2:soul_furnace
 #: Almanac meta file
@@ -307,7 +320,8 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "灵魂熔炉里面到底烧的什么？是罪人的灵魂吗？还是地狱的矿渣？别想太多，它只是个南瓜灯。"
-msgstr "What is it burning inside the Soul Furnace? Sinners' soul? Slags of Hell? Don't think too much. It's just an ordinary jack o' lantern."
+msgstr ""
+"What is it burning inside the Soul Furnace? Sinners' soul? Slags of Hell? Don't think too much. It's just an ordinary jack o' lantern."
 
 #. Header for contraptions mvz2:silvenser
 #: Almanac meta file
@@ -330,8 +344,11 @@ msgstr ""
 #. Flavor for contraptions mvz2:silvenser
 #: Almanac meta file
 msgctxt "contraptions.description"
-msgid "\"发发，我从人生中学到了一件事情，发射器越是发射箭矢，就越会感到无力，除非超越箭矢……\"\"你到底想说什么！\"\"我不发射箭了，发发！\""
-msgstr "\"DiDi, I've learned something... The more arrows you shoot, the more unexpected events come along. As long as you cannot go beyond your arrows...\"\"What? What do you mean?!\"\"I reject my arrows, DiDi!\""
+msgid ""
+"\"发发，我从人生中学到了一件事情，发射器越是发射箭矢，就越会感到无力，除非超越箭矢……\"\"你到底想说什么！\"\"我不发射箭了，发发！\""
+msgstr ""
+"\"DiDi, I've learned something... The more arrows you shoot, the more unexpected events come along. As long as you cannot go beyond "
+"your arrows...\"\"What? What do you mean?!\"\"I reject my arrows, DiDi!\""
 
 #. Header for contraptions mvz2:magichest
 #: Almanac meta file
@@ -396,8 +413,12 @@ msgstr ""
 #. Flavor for contraptions mvz2:drivenser
 #: Almanac meta file
 msgctxt "contraptions.description"
-msgid "驱动发射器是个技术宅，同时它还懂得电脑驱动的装配、各种软件、硬件的性能以及编程语言等信息技术。最近他想自己编程一个游戏来还原这场与僵尸之间的战争，但有人已经抢先了。"
-msgstr "Drivenser is a technical nerd. He knows how to assemble a computer, properties of different softwares and hardwares, different coding languages, etc. Recently he wants to compile a game to re-tell this war with the zombies, but someone's already ahead of him."
+msgid ""
+"驱动发射器是个技术宅，同时它还懂得电脑驱动的装配、各种软件、硬件的性能以及编程语言等信息技术。最近他想自己编程一个游戏来还原这场与僵尸"
+"之间的战争，但有人已经抢先了。"
+msgstr ""
+"Drivenser is a technical nerd. He knows how to assemble a computer, properties of different softwares and hardwares, different coding "
+"languages, etc. Recently he wants to compile a game to re-tell this war with the zombies, but someone's already ahead of him."
 
 #. Header for contraptions mvz2:gravity_pad
 #: Almanac meta file
@@ -419,7 +440,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "从前重力方块坐在一个苹果树下，突然一个苹果掉到了它头上，然后它就扁了——那是个金苹果。"
-msgstr "Once upon a time, Gravity Block was sitting under an apple tree, when all of a sudden an apple fell on its head, smashing it flat - it was a Golden Apple."
+msgstr ""
+"Once upon a time, Gravity Block was sitting under an apple tree, when all of a sudden an apple fell on its head, smashing it flat - it "
+"was a Golden Apple."
 
 #. Header for contraptions mvz2:vortex_hopper
 #: Almanac meta file
@@ -490,8 +513,13 @@ msgstr ""
 #. Flavor for contraptions mvz2:totenser
 #: Almanac meta file
 msgctxt "contraptions.description"
-msgid "图腾发射器信仰什么？依据器械智能的历史，它可能信仰的是各种机械神灵。也有人说它信仰造出机械的人类发明家，甚至也有说法称其信仰机械古神。人们的讨论已经有百年之久，但实际上，它只信仰自己的纸片人老婆。"
-msgstr "What god does Totenser believe in? According to the history of Contraption Intelligence, It may believe in various mechanic gods. Some people say that it actually believes in the human inventor who made the machine, and some even say that it believes in the mechanic old gods. People's discussion went on for decades, but the truth is, it just put his faith in his waifus."
+msgid ""
+"图腾发射器信仰什么？依据器械智能的历史，它可能信仰的是各种机械神灵。也有人说它信仰造出机械的人类发明家，甚至也有说法称其信仰机械古神。"
+"人们的讨论已经有百年之久，但实际上，它只信仰自己的纸片人老婆。"
+msgstr ""
+"What god does Totenser believe in? According to the history of Contraption Intelligence, It may believe in various mechanic gods. Some "
+"people say that it actually believes in the human inventor who made the machine, and some even say that it believes in the mechanic "
+"old gods. People's discussion went on for decades, but the truth is, it just put his faith in his waifus."
 
 #. Header for contraptions mvz2:dream_crystal
 #: Almanac meta file
@@ -516,8 +544,13 @@ msgstr ""
 msgctxt "contraptions.description"
 msgid ""
 "化学课就像是：\n"
-"“梦境结晶（Dream Crystal）是一种粉色，半透明并具有再生功效的水晶，主要组成成分为二氧化梦（化学式为DrO2），可用于与硫酸鑩（NmSO4）提炼二氧化鑩（NmO2），是制作噩梦醇（Marenol）的重覀原木才米……~~——~zzzzZZZZ”"
-msgstr "\"Hi, this is Villager from Gear Ear Mech Co, and I'll show you the super strong, zombie-proof crystal, that can instantly patch, bond, seal and repair! Dream Crystal is no ordinary crystal. Leaky contraptions can cause MAJOR DAMAGE, but Dream Crystal grips on tight and bonds instantly. Plus, Dream Crystal is so strong, it even works underwater! To show you the power of Dream Crystal, I SAWED THIS OBSIDIAN IN HALF, and repaired it with ONLY Dream Crystal!\""
+"“梦境结晶（Dream Crystal）是一种粉色，半透明并具有再生功效的水晶，主要组成成分为二氧化梦（化学式为DrO2），可用于与硫酸鑩（NmSO4）提炼二"
+"氧化鑩（NmO2），是制作噩梦醇（Marenol）的重覀原木才米……~~——~zzzzZZZZ”"
+msgstr ""
+"\"Hi, this is Villager from Gear Ear Mech Co, and I'll show you the super strong, zombie-proof crystal, that can instantly patch, "
+"bond, seal and repair! Dream Crystal is no ordinary crystal. Leaky contraptions can cause MAJOR DAMAGE, but Dream Crystal grips on "
+"tight and bonds instantly. Plus, Dream Crystal is so strong, it even works underwater! To show you the power of Dream Crystal, I SAWED "
+"THIS OBSIDIAN IN HALF, and repaired it with ONLY Dream Crystal!\""
 
 #. Header for contraptions mvz2:dream_silk
 #: Almanac meta file
@@ -539,7 +572,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "美梦丝是个睡货，它每天睁开眼睛做的第一件事就是睡觉。瞧瞧它睡的，把自己的冷却时间也给睡长了。"
-msgstr "Dream Silk is a sleepy guy. The first thing he does after waking up is sleeping. Look at him, even his recharge time is increased because of this."
+msgstr ""
+"Dream Silk is a sleepy guy. The first thing he does after waking up is sleeping. Look at him, even his recharge time is increased "
+"because of this."
 
 #. Header for contraptions mvz2:wooden_dropper
 #: Almanac meta file
@@ -621,7 +656,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "它本来想学木制投掷器玩一个磊磊磊磊磊磊磊磊磊磊制投掷器的笑话的，但是不幸的是木制投掷器为这个笑话申请了专利。"
-msgstr "It once wanted to imitate Wooden Dropper to play a joke about Stoooooooooooooooooooooooooooooone Dropper, unfortunately Wooden Dropper applied for a patent for this joke."
+msgstr ""
+"It once wanted to imitate Wooden Dropper to play a joke about Stoooooooooooooooooooooooooooooone Dropper, unfortunately Wooden Dropper "
+"applied for a patent for this joke."
 
 #. Header for contraptions mvz2:stone_shield
 #: Almanac meta file
@@ -677,7 +714,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "雷鼓在触发后会震飞所有地面上的敌人，使其后退并换行。之后进入破损状态，需要时间修复。"
-msgstr "Thunder Drum will knock all enemies on the ground into the air after being triggered, this knocks back them and changes their lanes. Afterwards the drum breaks and needs time to repair itself."
+msgstr ""
+"Thunder Drum will knock all enemies on the ground into the air after being triggered, this knocks back them and changes their lanes. "
+"Afterwards the drum breaks and needs time to repair itself."
 
 #. Properties for contraptions mvz2:thunder_drum
 #: Almanac meta file
@@ -687,7 +726,8 @@ msgid ""
 "技能：<color=red>引发4秒地震，对所有地面上的敌人造成总共25%最大生命的伤害</color>"
 msgstr ""
 "Repair time：<color=red>20 seconds</color>\n"
-"Evocation: <color=red>Makes a earthquake for 4 seconds, dealing a total damage of 25% maximum health to all enemies on the ground</color>"
+"Evocation: <color=red>Makes a earthquake for 4 seconds, dealing a total damage of 25% maximum health to all enemies on the ground</"
+"color>"
 
 #. Flavor for contraptions mvz2:thunder_drum
 #: Almanac meta file
@@ -749,7 +789,9 @@ msgstr "Shouldn't this be called a basin?"
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "传染发射器发射既能造成伤害又能寄生敌人的寄生机器人。被寄生的敌人会朝周围敌人发射新的寄生机器人。"
-msgstr "Infectenser can shoot parabots which both deal damage and parasitize enemies. Parasitized enemies will shoot new parabots to other enemies around them."
+msgstr ""
+"Infectenser can shoot parabots which both deal damage and parasitize enemies. Parasitized enemies will shoot new parabots to other "
+"enemies around them."
 
 #. Properties for contraptions mvz2:infectenser
 #: Almanac meta file
@@ -775,7 +817,9 @@ msgstr "Infectenser has won the Disbel Prize in virology, but due to the epidemi
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "传动力板可以通过触发更改力的方向，以此改变上方敌人的移动轨迹，并加强上方的子弹。"
-msgstr "The direction of Force Pads can be changed by triggering. Take advantage of this to change the movement of medium height objects above it, and boost projectiles."
+msgstr ""
+"The direction of Force Pads can be changed by triggering. Take advantage of this to change the movement of medium height objects above "
+"it, and boost projectiles."
 
 #. Properties for contraptions mvz2:force_pad
 #: Almanac meta file
@@ -794,14 +838,19 @@ msgstr ""
 #. Flavor for contraptions mvz2:force_pad
 #: Almanac meta file
 msgctxt "contraptions.description"
-msgid "和别人想的不同，传动力板不喜欢强迫别人做事情，他认为每个人都应该顺着自己的意愿来，每个人做什么都是他自己的自由。不过有的时候，他也会迫使某些人做出改变，这就由不得他了。"
-msgstr "Contrary to what people think, Force Pad doesn't like forcing others to do things, he believes that everyone should follow their own will, and have the right to do whatever they want. But sometimes, he is forced to force some people to change their decision, and he can't do anything about it."
+msgid ""
+"和别人想的不同，传动力板不喜欢强迫别人做事情，他认为每个人都应该顺着自己的意愿来，每个人做什么都是他自己的自由。不过有的时候，他也会迫"
+"使某些人做出改变，这就由不得他了。"
+msgstr ""
+"Contrary to what people think, Force Pad doesn't like forcing others to do things, he believes that everyone should follow their own "
+"will, and have the right to do whatever they want. But sometimes, he is forced to force some people to change their decision, and he "
+"can't do anything about it."
 
 #. Header for contraptions mvz2:golden_dropper
 #: Almanac meta file
 msgctxt "contraptions.description"
-msgid "金质投掷器向敌人发射金球，金球在击中敌人后会产生绿宝石并在敌人间反弹。"
-msgstr "Golden Dropper fires golden balls, which bounce between enemies and produce emeralds on hit."
+msgid "金制投掷器向敌人发射金球，金球在击中敌人后有概率产生绿宝石，并在敌人间反弹。"
+msgstr "Golden Dropper fires golden balls, which bounce between enemies and sometimes produce emeralds on hit."
 
 #. Properties for contraptions mvz2:golden_dropper
 #: Almanac meta file
@@ -809,11 +858,13 @@ msgctxt "contraptions.description"
 msgid ""
 "发射速度：<color=red>1.5秒</color>\n"
 "伤害：<color=red>60</color>\n"
+"宝石概率：<color=red>25%</color>\n"
 "技能：<color=red>立即喷射30发金球</color>\n"
 "<color=red>必须放置在木制投掷器上</color>"
 msgstr ""
 "Fire rate: <color=red>1.5 seconds</color>\n"
 "Damage: <color=red>60</color>\n"
+"Gem chance: <color=red>25%</color>\n"
 "Evocation: <color=red>Fires 30 golden balls instantly</color>\n"
 "<color=red>Must be placed on Wooden Dropper</color>"
 
@@ -821,7 +872,8 @@ msgstr ""
 #: Almanac meta file
 msgctxt "contraptions.description"
 msgid "它把木制投掷器的笑话专利买下来了，所以它可以理所应当地玩鑫鑫鑫鑫鑫鑫鑫鑫鑫鑫制投掷器的笑话了！"
-msgstr "It bought the joke patent of the Wooden Dropper, so it can play the joke of Goooooooooooooooooooooooooooooolden Dropper deservedly!"
+msgstr ""
+"It bought the joke patent of the Wooden Dropper, so it can play the joke of Goooooooooooooooooooooooooooooolden Dropper deservedly!"
 
 #. Header for contraptions mvz2:diamond_spikes
 #: Almanac meta file
@@ -842,7 +894,8 @@ msgstr ""
 "Toughness: <color=red>2700</color>\n"
 "Attack rate: <color=red>0.5 seconds</color>\n"
 "Damage: <color=red>20</color>\n"
-"Evocation: <color=red>Deals damage rapidly to enemies on the ground in the whole lane, and pulls them to the spikes; Throws 30 diamond caltrops around, which deal 100 damage to enemies</color>\n"
+"Evocation: <color=red>Deals damage rapidly to enemies on the ground in the whole lane, and pulls them to the spikes; Throws 30 diamond "
+"caltrops around, which deal 100 damage to enemies</color>\n"
 "<color=red>Must be placed on Spike Block</color>"
 
 #. Flavor for contraptions mvz2:diamond_spikes
@@ -874,8 +927,12 @@ msgstr ""
 #. Flavor for enemies mvz2:zombie
 #: Almanac meta file
 msgctxt "enemies.description"
-msgid "在上一次尸界大战失败后，僵尸在墙角里做了三天三夜的反省。后来他开始锻炼自己，想让自己变得更强以吃到更多的脑子。现在的他看起来……好吧还是没变。"
-msgstr "After the failure of the last Zombie War, the Zombie self-reflected in the corner for three days three nights. Later, he began to exercise himself, trying to be stronger to eat more brains. Now he looks... Well, he hasn't changed a bit."
+msgid ""
+"在上一次尸界大战失败后，僵尸在墙角里做了三天三夜的反省。后来他开始锻炼自己，想让自己变得更强以吃到更多的脑子。现在的他看起来……好吧还是"
+"没变。"
+msgstr ""
+"After the failure of the last Zombie War, the Zombie self-reflected in the corner for three days three nights. Later, he began to "
+"exercise himself, trying to be stronger to eat more brains. Now he looks... Well, he hasn't changed a bit."
 
 #. Header for enemies mvz2:leather_capped_zombie
 #: Almanac meta file
@@ -897,7 +954,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "enemies.description"
 msgid "随着时代的发展，皮帽已经逐渐淡出了人们的视线。但仍有一些僵尸在坚守着皮帽。当问及为什么时，他们总会说：“玩个游戏还BB啥！”"
-msgstr "As time goes by, leather caps have gradually faded out of people's sights. But there are still some zombies holding onto their leather caps. When asked why, they always say, \"No leather caps no pp\""
+msgstr ""
+"As time goes by, leather caps have gradually faded out of people's sights. But there are still some zombies holding onto their leather "
+"caps. When asked why, they always say, \"No leather caps no pp\""
 
 #. Header for enemies mvz2:iron_helmetted_zombie
 #: Almanac meta file
@@ -940,8 +999,12 @@ msgstr ""
 #. Flavor for enemies mvz2:flag_zombie
 #: Almanac meta file
 msgctxt "enemies.description"
-msgid "当他被授予旗帜时，他感到无比的荣幸和骄傲。他觉得自己作为僵尸的领导拥有至高无上的地位，便无时无刻不飘飘然。然而他不知道他的背后有多少人在嘲笑他是个肉盾。"
-msgstr "When he was awarded the flag, he felt extremely honored and proud. He felt as if he was the leader of the zombies, he had the supreme position, and he fluttered all the time. However, he didn't know how many zombies behind were laughing at him as a meatshield."
+msgid ""
+"当他被授予旗帜时，他感到无比的荣幸和骄傲。他觉得自己作为僵尸的领导拥有至高无上的地位，便无时无刻不飘飘然。然而他不知道他的背后有多少人"
+"在嘲笑他是个肉盾。"
+msgstr ""
+"When he was awarded the flag, he felt extremely honored and proud. He felt as if he was the leader of the zombies, he had the supreme "
+"position, and he fluttered all the time. However, he didn't know how many zombies behind were laughing at him as a meatshield."
 
 #. Header for enemies mvz2:skeleton
 #: Almanac meta file
@@ -965,7 +1028,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "enemies.description"
 msgid "骷髅一族拥有着很高的箭术造诣，我曾亲眼看见一只骷髅射中几十米外的狼群中的一头熟睡的狼。没射死，倒把它们射醒了。"
-msgstr "Skeletons possess high archery accomplishments, people saw with their own eyes that one of them shot a sleeping wolf in a wolf pack from several tens of meters away. It didn't die though, it WOKE."
+msgstr ""
+"Skeletons possess high archery accomplishments, people saw with their own eyes that one of them shot a sleeping wolf in a wolf pack "
+"from several tens of meters away. It didn't die though, it WOKE."
 
 #. Header for enemies mvz2:gargoyle
 #: Almanac meta file
@@ -986,8 +1051,12 @@ msgstr ""
 #. Flavor for enemies mvz2:gargoyle
 #: Almanac meta file
 msgctxt "enemies.description"
-msgid "石像鬼和他的妈妈住在山上的一间小屋中。石像鬼画画，玩玩具，妈妈就在电视上看广播。生活很简单，他们也很幸福。直到有一天石像鬼的妈妈从天上听到了雷声……"
-msgstr "These guys usually stay silent as statues all the time, but they're actually just saving up their energy for another stormy night - which is when they party."
+msgid ""
+"石像鬼和他的妈妈住在山上的一间小屋中。石像鬼画画，玩玩具，妈妈就在电视上看广播。生活很简单，他们也很幸福。直到有一天石像鬼的妈妈从天上"
+"听到了雷声……"
+msgstr ""
+"These guys usually stay silent as statues all the time, but they're actually just saving up their energy for another stormy night - "
+"which is when they party."
 
 #. Header for enemies mvz2:ghost
 #: Almanac meta file
@@ -1011,7 +1080,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "enemies.description"
 msgid "当你走夜路时听到有人喊你的名字，千万别回头，不然就会有幽灵——被你吓死了。"
-msgstr "When you walk at night and hear someone calling your name, don't look back, otherwise there'll be ghosts - and you'll scare them to death."
+msgstr ""
+"When you walk at night and hear someone calling your name, don't look back, otherwise there'll be ghosts - and you'll scare them to "
+"death."
 
 #. Header for enemies mvz2:mummy
 #: Almanac meta file
@@ -1032,8 +1103,12 @@ msgstr ""
 #. Flavor for enemies mvz2:mummy
 #: Almanac meta file
 msgctxt "enemies.description"
-msgid "就跟奶奶们一样，木乃伊特别喜欢香水。它们甚至狂热到把香味刻进自己的骨子里，恨不得把周围的人都熏死。天哪，估计只有“木爷伊”能忍受这种气味了。"
-msgstr "Just like everyone's mummy, mummies like perfumes. They're fanatic enough to carve the fragrance into the bones, putting people around them to death. They died from mummies, so they're called... \"Deaddies\"."
+msgid ""
+"就跟奶奶们一样，木乃伊特别喜欢香水。它们甚至狂热到把香味刻进自己的骨子里，恨不得把周围的人都熏死。天哪，估计只有“木爷伊”能忍受这种气味"
+"了。"
+msgstr ""
+"Just like everyone's mummy, mummies like perfumes. They're fanatic enough to carve the fragrance into the bones, putting people around "
+"them to death. They died from mummies, so they're called... \"Deaddies\"."
 
 #. Header for enemies mvz2:necromancer
 #: Almanac meta file
@@ -1055,7 +1130,9 @@ msgstr ""
 #: Almanac meta file
 msgctxt "enemies.description"
 msgid "死灵法师想不通，为什么就因为复活了死者，他们就莫名其妙的被人们称为“邪恶巫师”，然后就被多收了税。他们其实只是想砌堵墙罢了。"
-msgstr "The Necromancers can’t figure out why they have to deal with others overtaxing them or calling them evil witches because they raise the dead. They just want to build a wall."
+msgstr ""
+"The Necromancers can’t figure out why they have to deal with others overtaxing them or calling them evil witches because they raise "
+"the dead. They just want to build a wall."
 
 #. Header for enemies mvz2:spider
 #: Almanac meta file
@@ -1134,7 +1211,8 @@ msgid ""
 "·禁止向恶魂投食钻石头盔"
 msgstr ""
 "########ANNOUNCEMENT########\n"
-"· Local Hell Creature Exhibition Hall contains various types of hell creatures, including ghasts, zombified piglins (out of stock), wither skeletons, etc.\n"
+"· Local Hell Creature Exhibition Hall contains various types of hell creatures, including ghasts, zombified piglins (out of stock), "
+"wither skeletons, etc.\n"
 "· Touching hell creatures is prohibited by all means\n"
 "· No photography\n"
 "· Do not feed diamond helmets to ghasts"
@@ -1143,7 +1221,8 @@ msgstr ""
 #: Almanac meta file
 msgctxt "enemies.description"
 msgid "恐怖之母会向血肉之躯寄生虫卵。"
-msgstr "Mother Terrors lay their eggs into another enemy's body. They will also release Parasite Terrors if they die without laying eggs."
+msgstr ""
+"Mother Terrors lay their eggs into another enemy's body. They will also release Parasite Terrors if they die without laying eggs."
 
 #. Properties for enemies mvz2:mother_terror
 #: Almanac meta file
@@ -1238,14 +1317,17 @@ msgid ""
 "没人喜欢狂战士，他们就是一群到处搞破坏的疯子，追究起责任时还要倒打你一耙，穷途末路了还要拉几个人下水。\n"
 "奉劝各位在现实生活中离这种人远一点。"
 msgstr ""
-"No one likes Berserkers, they are just a group of madmen who destroy things everywhere. When you hold their accountable, they recriminate you. When they are driven into a corner, they drag others down.\n"
+"No one likes Berserkers, they are just a group of madmen who destroy things everywhere. When you hold their accountable, they "
+"recriminate you. When they are driven into a corner, they drag others down.\n"
 "I wish everyone to stay away from such guys in real life."
 
 #. Header for enemies mvz2:dullahan
 #: Almanac meta file
 msgctxt "enemies.description"
 msgid "无头骑士伴随着一匹骷髅马出现，能够跳过器械并留下它的头颅，最终变成三个不同的敌人。"
-msgstr "Dullahan appears with a skeleton horse that can jump over contraptions. Then Dullahan will leave his head, making there 3 different enemies eventually."
+msgstr ""
+"Dullahan appears with a skeleton horse that can jump over contraptions. Then Dullahan will leave his head, making there 3 different "
+"enemies eventually."
 
 #. Properties for enemies mvz2:dullahan
 #: Almanac meta file
@@ -1326,7 +1408,8 @@ msgid ""
 "其实他用来审判罪行的天平已经坏了很久了，它常放羽毛的那一端比较重一些。\n"
 "不过他自己不知道，也没有多少人知道——知道的也没人敢告诉他就是了。"
 msgstr ""
-"The scale he uses to judge crimes has actually been broken for a long time. It's ever-so-slightly heavier on the pan where feathers are often placed.\n"
+"The scale he uses to judge crimes has actually been broken for a long time. It's ever-so-slightly heavier on the pan where feathers "
+"are often placed.\n"
 "But he doesn't know this, nor many others—and those who do wouldn't dare tell him anyways."
 
 #. Header for artifacts mvz2:almanac
@@ -1350,7 +1433,8 @@ msgid ""
 "你该学学语文了。"
 msgstr ""
 "The book is written in this book, and you are reading an entry in this book about the book itself described by this book.\n"
-"When you look at the entry of the book in this book and feel dizzy, you feel dizzy reading the description by this book for the book in this book.\n"
+"When you look at the entry of the book in this book and feel dizzy, you feel dizzy reading the description by this book for the book "
+"in this book.\n"
 "Time for you to revise your English."
 
 #. Header for artifacts mvz2:hoe
@@ -1396,7 +1480,8 @@ msgid ""
 "于梦的苏醒"
 msgstr ""
 "A key filled with magic that is able to open a doorway to other worlds.\n"
-"It can only be used to access the dreams of other worlds however. The reality of the corresponding world cannot be approached via its dream without permission from certain “administrators.”\n"
+"It can only be used to access the dreams of other worlds however. The reality of the corresponding world cannot be approached via its "
+"dream without permission from certain “administrators.”\n"
 "There is an ancient inscription engraved on the key:\n"
 "To fall asleep in the harsh reality\n"
 "To the land of fantasy\n"
@@ -1481,9 +1566,12 @@ msgid ""
 "蝴蝶的左翼粉色，代表着美梦。上半部分描绘了大槐安国以及其子民的景象，而下半部分则是另一只梦蝶。\n"
 "右翼则是红色，代表着噩梦。花纹混沌，其中隐隐约约浮现出人类所恐惧的事物——死亡、骨血、眼睛、尖叫。"
 msgstr ""
-"This butterfly grows in the Dream World, it absorbs the sweet and relaxing nectar of dreams, stained by the painful and tiring pollen of nightmares.\n"
-"The pink left wing represents the beautiful dreams. The upper part depicts the scenery of Da Huai An Kingdom and its people, while the lower part is another dream butterfly.\n"
-"The red right wing represents the nightmares. The patterns are chaotic, with faint hints of things that humans fear - death, gores, eyes and screams."
+"This butterfly grows in the Dream World, it absorbs the sweet and relaxing nectar of dreams, stained by the painful and tiring pollen "
+"of nightmares.\n"
+"The pink left wing represents the beautiful dreams. The upper part depicts the scenery of Da Huai An Kingdom and its people, while the "
+"lower part is another dream butterfly.\n"
+"The red right wing represents the nightmares. The patterns are chaotic, with faint hints of things that humans fear - death, gores, "
+"eyes and screams."
 
 #. Header for artifacts mvz2:dark_matter
 #: Almanac meta file
@@ -1522,7 +1610,8 @@ msgid ""
 "这部手机上装着电话啊，联系人啊，短信啊这些手机必备的应用程序。不过有一个好像有点奇怪，它叫……《MC大战僵尸2》？\n"
 "不知道这是什么应用。"
 msgstr ""
-"This phone comes preloaded with all the essential apps—calls, contacts, messaging—but there's one oddball here called... <i>Minecraft VS Zombies 2</i>?\n"
+"This phone comes preloaded with all the essential apps—calls, contacts, messaging—but there's one oddball here called... <i>Minecraft "
+"VS Zombies 2</i>?\n"
 "No clue what this is."
 
 #. Header for artifacts mvz2:inverted_mirror
@@ -1547,7 +1636,9 @@ msgstr "<rotate=\"180\">Having a laugh torturing our necks, are we?</rotate>"
 #: Almanac meta file
 msgctxt "artifacts.description"
 msgid "针妙丸公主赏赐有功之臣史蒂夫的宝物，万宝槌的仿制品，曾被正邪用于逃离通缉。"
-msgstr "A replica of the Mallet (treasure bestowed by Princess Shinmyoumaru upon her meritorious vassal Steve), which was once wielded by Seija to evade pursuit."
+msgstr ""
+"A replica of the Mallet (treasure bestowed by Princess Shinmyoumaru upon her meritorious vassal Steve), which was once wielded by "
+"Seija to evade pursuit."
 
 #. Properties for artifacts mvz2:miracle_mallet_replica
 #: Almanac meta file
@@ -1663,7 +1754,8 @@ msgid ""
 "阶段2：<color=red>限时击杀，并且需要阻止碾压墙</color>"
 msgstr ""
 "Toughness: <color=red>2500+2500</color>\n"
-"Phase 1: <color=red>Summon portals, twist the blueprints, and force you to choose a negative effect after being damage for a certain value</color>\n"
+"Phase 1: <color=red>Summon portals, twist the blueprints, and force you to choose a negative effect after being damage for a certain "
+"value</color>\n"
 "Phase 2: <color=red>Time limited, and you have to stop the crushing walls</color>"
 
 #. Flavor for misc mvz2:nightmare_boss
@@ -1676,10 +1768,14 @@ msgid ""
 "一位骑士看到了悬赏，他踏入那华丽而宏伟的王宫，向国王请求参战。国王便赐予了他一副链甲和皮革的马铠。将任务交付于他。\n"
 "骑士离开王宫，骑上自己的马，便准备出发了。"
 msgstr ""
-"There was once a king who had a nightmare. He dreamed of a monster, twisted and formless, coming from beyond the stars. Taking the shape of a horse, it galloped, corrupting all land behind it.\n"
-"When the king awoke, he sought out a diviner posthaste. \"This is quite the ill omen, \" said the diviner, \"that the monster took on a horse's form suggests it will invade the kingdom, and destroy it.\"\n"
-"Dismayed, the king ordered for a bounty to be put out, and gathered brave souls from all across the kingdom to exterminate all monsters in the vicinity of the kingdom.\n"
-"One such knight saw the bounty and stepped into the king's illustrious palace, to whom he pleaded to join the battle. Bestowing upon him a set of chainmail and leather horse armor, the king entrusted this task to him.\n"
+"There was once a king who had a nightmare. He dreamed of a monster, twisted and formless, coming from beyond the stars. Taking the "
+"shape of a horse, it galloped, corrupting all land behind it.\n"
+"When the king awoke, he sought out a diviner posthaste. \"This is quite the ill omen, \" said the diviner, \"that the monster took on "
+"a horse's form suggests it will invade the kingdom, and destroy it.\"\n"
+"Dismayed, the king ordered for a bounty to be put out, and gathered brave souls from all across the kingdom to exterminate all "
+"monsters in the vicinity of the kingdom.\n"
+"One such knight saw the bounty and stepped into the king's illustrious palace, to whom he pleaded to join the battle. Bestowing upon "
+"him a set of chainmail and leather horse armor, the king entrusted this task to him.\n"
 "The knight left the palace, mounted his trusty steed and set out on his journey."
 
 #. Name for almanac group mvz2:misc_entities
@@ -1707,7 +1803,8 @@ msgid ""
 "史蒂夫精通机械，这台自动矿场出自他的手中。依靠太阳能工作，自动寻找地下存储的红石矿，然后将其运输到地表。\n"
 "……不过既然它需要太阳能，为什么不直接把太阳能变成能量呢？"
 msgstr ""
-"Steve is good at mechanics, and this miner is built by him. With the help of solar energy, it can automatically find the underground deposits of redstone ore, and then transport it to the surface for energy.\n"
+"Steve is good at mechanics, and this miner is built by him. With the help of solar energy, it can automatically find the underground "
+"deposits of redstone ore, and then transport it to the surface for energy.\n"
 "...But since it needs solar energy, why not directly turn solar energy into energy?"
 
 #. Name for misc mvz2:minecart
@@ -1748,8 +1845,13 @@ msgstr "Gargoyles will be revived from statues when the final wave comes."
 #. Flavor for misc mvz2:gargoyle_statue
 #: Almanac meta file
 msgctxt "misc.description"
-msgid "永夜沼泽的诅咒不止将天空定格在了午夜，它也把地下的石块塑造成雕像的形状，将它们移出地面。这些雕像一旦受到魔电的冲击，便会被赋予生命而变成活物。"
-msgstr "The curse of Eternal Night Swamp doesn't only freeze the time of the midnight sky. It also shapes the stones underground into statues, and make them rise from the ground. Once the enchanted lightning strikes these statues, they will be given life and become living creatures."
+msgid ""
+"永夜沼泽的诅咒不止将天空定格在了午夜，它也把地下的石块塑造成雕像的形状，将它们移出地面。这些雕像一旦受到魔电的冲击，便会被赋予生命而变"
+"成活物。"
+msgstr ""
+"The curse of Eternal Night Swamp doesn't only freeze the time of the midnight sky. It also shapes the stones underground into statues, "
+"and make them rise from the ground. Once the enchanted lightning strikes these statues, they will be given life and become living "
+"creatures."
 
 #. Name for misc mvz2:pumpkin_carriage
 #: Almanac meta file
@@ -1761,13 +1863,17 @@ msgstr "Pumpkin Carriage"
 #: Almanac meta file
 msgctxt "misc.description"
 msgid "永夜沼泽的最后防线，会发出绿色光芒，当僵尸突破器械阵线后会碾压前方一行的敌人。"
-msgstr "The last line of defense in the Swamp. It emits a green glow, and will crush all enemies in the lane when they get too close to the house."
+msgstr ""
+"The last line of defense in the Swamp. It emits a green glow, and will crush all enemies in the lane when they get too close to the "
+"house."
 
 #. Flavor for misc mvz2:pumpkin_carriage
 #: Almanac meta file
 msgctxt "misc.description"
 msgid "南瓜中的永恒火焰无法被水浇灭，被风吹灭或者被其他化学反应影响。如果你想藏身的话最好把它扔了——这玩意真的关不掉。"
-msgstr "The eternal flame inside the pumpkins cannot be extinguished by water, blown away by wind or affected by chemical reactions. But some people just can't sleep with it - it shines so bright and you literally can’t turn this thing off."
+msgstr ""
+"The eternal flame inside the pumpkins cannot be extinguished by water, blown away by wind or affected by chemical reactions. But some "
+"people just can't sleep with it - it shines so bright and you literally can’t turn this thing off."
 
 #. Name for misc mvz2:napstablook
 #: Almanac meta file
@@ -2039,7 +2145,8 @@ msgstr "Steve and Crazy Villager live here."
 #: Almanac meta file
 msgctxt "misc.description"
 msgid "史蒂夫不受村庄中的其他人欢迎，于是他们搬到了公路附近的一片广阔平原上，开始了两人独居的生活。"
-msgstr "Steve is not welcome by other villagers in the former village, so they moved to a wide plain near the road, and started a new life."
+msgstr ""
+"Steve is not welcome by other villagers in the former village, so they moved to a wide plain near the road, and started a new life."
 
 #. Name for misc mvz2:eternal_night_swamp
 #: Almanac meta file
@@ -2063,7 +2170,9 @@ msgstr "Some contents of this entry will not be displayed due to the restriction
 #: Almanac meta file
 msgctxt "misc.description"
 msgid "据说，这里存在着一只沼怪，它只会在雨势特别凶猛时出现。然而真正见到它的人少之又少。"
-msgstr "It is said that there is a swamp monster here, which only appears when the rain is particularly fierce. However, very few people actually see it."
+msgstr ""
+"It is said that there is a swamp monster here, which only appears when the rain is particularly fierce. However, very few people "
+"actually see it."
 
 #. Name for misc mvz2:dream_world
 #: Almanac meta file
@@ -2088,8 +2197,10 @@ msgid ""
 "这里和宇宙相通，某些宇宙中的天体在这里可能会产生奇特的反应。"
 msgstr ""
 "The dreams of all creatures are interconnected, and the Dream World is where these dreams are located.\n"
-"Doremy watches and manages the Dream World, as well as prevents anyone who attempts to use the Dream World to disrupt its order and interfere with the reality world.\n"
-"After Steve and Villager came to the dream world, the Dream World showed the shape of a pool lawn, which became their main battlefield.\n"
+"Doremy watches and manages the Dream World, as well as prevents anyone who attempts to use the Dream World to disrupt its order and "
+"interfere with the reality world.\n"
+"After Steve and Villager came to the dream world, the Dream World showed the shape of a pool lawn, which became their main "
+"battlefield.\n"
 "\n"
 "This place is connected to the universe, and some celestial bodies in the universe may produce peculiar reactions here."
 
@@ -2108,9 +2219,11 @@ msgstr "Nightmare World is the Dream World corrupted by Nightmare."
 #. Flavor for misc mvz2:nightmare_world
 #: Almanac meta file
 msgctxt "misc.description"
-msgid "哆来咪曾经在几个月前在梦境世界目击到一只黑马，那就是伪装起来的梦魇。然后，梦魇开始了它的腐化，欺骗梦境所有人的眼睛，直到它诅咒哆来咪。"
+msgid ""
+"哆来咪曾经在几个月前在梦境世界目击到一只黑马，那就是伪装起来的梦魇。然后，梦魇开始了它的腐化，欺骗梦境所有人的眼睛，直到它诅咒哆来咪。"
 msgstr ""
-"Doremy had seen a black horse in the Dream World a few months ago, which was Nightmare in disguise. Nightmare then began its corruption, and deceived everyone in the Dream World until it cursed Doremy.\n"
+"Doremy had seen a black horse in the Dream World a few months ago, which was Nightmare in disguise. Nightmare then began its "
+"corruption, and deceived everyone in the Dream World until it cursed Doremy.\n"
 "What you now see is the true appearance of the Dream World."
 
 #. Name for misc mvz2:shining_needle_castle
@@ -2168,9 +2281,12 @@ msgid ""
 msgstr ""
 "Records left by an anonymous person.\n"
 "Star Record 1:\n"
-"Since then, whenever I slept, I would always dream of an object in an unfathomable darkness, it shone in the shape of a star, and then went away from me.\n"
-"I didn't understand what it means. Later, even when I wasn't dreaming, I could still often see similar objects, which is very abnormal.\n"
-"When I left the land that I don't belong to, I saw a rainbow-colored candy in a swamp. It was very similar to those stars, but I was still not sure what they were."
+"Since then, whenever I slept, I would always dream of an object in an unfathomable darkness, it shone in the shape of a star, and then "
+"went away from me.\n"
+"I didn't understand what it means. Later, even when I wasn't dreaming, I could still often see similar objects, which is very "
+"abnormal.\n"
+"When I left the land that I don't belong to, I saw a rainbow-colored candy in a swamp. It was very similar to those stars, but I was "
+"still not sure what they were."
 
 #. Name for misc mvz2:starshard.lucid_dream
 #: Almanac meta file
@@ -2193,7 +2309,8 @@ msgstr ""
 "\n"
 "Star Record 2:\n"
 "I had a very strange dream.\n"
-"I dreamed that I was floating and sinking in a purple space full of eyes. I saw a girl with yellow hair sitting in the air with a purple parasol.\n"
+"I dreamed that I was floating and sinking in a purple space full of eyes. I saw a girl with yellow hair sitting in the air with a "
+"purple parasol.\n"
 "She seemed to be busy with her own business and didn't notice me. Then I fell into a bottomless abyss.\n"
 "I opened my eyes and found myself in a plain field, surrounded by trees with pink flowers."
 
@@ -2256,7 +2373,8 @@ msgstr "Nightmare Box"
 #: Almanac meta file
 msgctxt "misc.description"
 msgid "梦魇魔盒是将梦魇的黑魔法收集起来制作而成，并可以使梦境世界变成噩梦世界的容器。"
-msgstr "The Nightmare Box is a container made by collecting dark magic from Nightmare, and can turn the Dream World into Nightmare World."
+msgstr ""
+"The Nightmare Box is a container made by collecting dark magic from Nightmare, and can turn the Dream World into Nightmare World."
 
 #. Flavor for misc mvz2:nightmare_box
 #: Almanac meta file
@@ -2323,7 +2441,8 @@ msgid ""
 "似乎，这个谜就要从这场冒险中解开了。"
 msgstr ""
 "Steve had no parents from the very start of his life. He was unknowingly transferred to the village and was raised by Dave.\n"
-"Steve was not a blocky creature like the Villager, so he was often discriminated against and ridiculed, while wanting to know who his parents were.\n"
+"Steve was not a blocky creature like the Villager, so he was often discriminated against and ridiculed, while wanting to know who his "
+"parents were.\n"
 "It seems that this mystery will be solved in this adventure."
 
 #. Name for misc mvz2:explosion_before_3_years

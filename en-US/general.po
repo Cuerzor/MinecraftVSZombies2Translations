@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: minecraftvszombies2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-02-06 17:27+0800\n"
+"PO-Revision-Date: 2025-02-08 19:56+0800\n"
 "Last-Translator: \n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
@@ -2101,13 +2101,13 @@ msgstr "Force Pad is upgraded from Gravity Pad, it can change the position of ma
 #. Store item description of mvz2:golden_dropper by character mvz2:crazy_villager
 #: Store meta file
 msgctxt "store_talk"
-msgid "把金质投掷器放在木质投掷器上，让它能够发射可以反弹，并产生绿宝石的金球！"
+msgid "把金制投掷器放在木制投掷器上，让它能够发射可以反弹，并产生绿宝石的金球！"
 msgstr "Place these on your Wooden Droppers to turn them into Golden Droppers! It drops the golden ball that can bounce into multiple zombies and drops emeralds upon hit!"
 
 #. Store item description of mvz2:golden_dropper by character mvz2:tokiko
 #: Store meta file
 msgctxt "store_talk"
-msgid "金质投掷器能升级木质投掷器，能发出不停弹来弹去，并且可以赚钱的金球！"
+msgid "金制投掷器能升级木制投掷器，能发出不停弹来弹去，并且可以赚钱的金球！"
 msgstr ""
 
 #. Store item description of mvz2:hoe by character mvz2:crazy_villager

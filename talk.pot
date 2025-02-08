@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 
 "Project-Id-Version: MinecraftVSZombies2\n"
-"POT-Creation-Date: 2025-02-06 05:17+0800\n"
+"POT-Creation-Date: 2025-02-08 07:57+0800\n"
 "Language-Team: Cuerzor\n"
 "Language: zh_CN\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,7 +62,7 @@ msgstr ""
 #. Text for talk sentence 0 in talk group castle_1_over's section 0
 #: Talk meta file
 msgctxt "talk-mvz2:castle_1_over"
-msgid "这是木质投掷器！"
+msgid "这是木制投掷器！"
 msgstr ""
 
 #. Text for talk sentence 1 in talk group castle_1_over's section 0
@@ -494,7 +494,7 @@ msgstr ""
 #. Text for talk sentence 0 in talk group castle_3_over's section 0
 #: Talk meta file
 msgctxt "talk-mvz2:castle_3_over"
-msgid "这个是石质投掷器！他能弹射出微小的石子！"
+msgid "这个是石制投掷器！他能弹射出微小的石子！"
 msgstr ""
 
 #. Text for talk sentence 1 in talk group castle_3_over's section 0

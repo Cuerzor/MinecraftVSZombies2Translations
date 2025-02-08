@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: minecraftvszombies2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-02-06 17:27+0800\n"
+"PO-Revision-Date: 2025-02-08 19:54+0800\n"
 "Last-Translator: \n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
@@ -68,7 +68,7 @@ msgstr "Castle Day 1 Outro"
 #. Text for talk sentence 0 in talk group castle_1_over's section 0
 #: Talk meta file
 msgctxt "talk-mvz2:castle_1_over"
-msgid "这是木质投掷器！"
+msgid "这是木制投掷器！"
 msgstr "This is the wooden dropper!"
 
 #. Text for talk sentence 1 in talk group castle_1_over's section 0
@@ -500,7 +500,7 @@ msgstr "Castle Day 3 Outro"
 #. Text for talk sentence 0 in talk group castle_3_over's section 0
 #: Talk meta file
 msgctxt "talk-mvz2:castle_3_over"
-msgid "这个是石质投掷器！他能弹射出微小的石子！"
+msgid "这个是石制投掷器！他能弹射出微小的石子！"
 msgstr "This is the stone dropper! It spits out itty-bitty stones!"
 
 #. Text for talk sentence 1 in talk group castle_3_over's section 0
