@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: minecraftvszombies2\n"
-"POT-Creation-Date: 2025-02-08 07:57+0800\n"
-"PO-Revision-Date: 2025-02-08 19:58+0800\n"
+"POT-Creation-Date: 2025-02-10 03:24+0800\n"
+"PO-Revision-Date: 2025-02-10 15:25+0800\n"
 "Last-Translator: \n"
 "Language-Team: English, United States\n"
 "Language: en_US\n"
@@ -858,13 +858,13 @@ msgctxt "contraptions.description"
 msgid ""
 "发射速度：<color=red>1.5秒</color>\n"
 "伤害：<color=red>60</color>\n"
-"宝石概率：<color=red>25%</color>\n"
+"宝石概率：<color=red>10%</color>\n"
 "技能：<color=red>立即喷射30发金球</color>\n"
 "<color=red>必须放置在木制投掷器上</color>"
 msgstr ""
 "Fire rate: <color=red>1.5 seconds</color>\n"
 "Damage: <color=red>60</color>\n"
-"Gem chance: <color=red>25%</color>\n"
+"Gem chance: <color=red>10%</color>\n"
 "Evocation: <color=red>Fires 30 golden balls instantly</color>\n"
 "<color=red>Must be placed on Wooden Dropper</color>"
 
@@ -3266,6 +3266,12 @@ msgstr "Emerald"
 msgctxt "entity.name"
 msgid "红宝石"
 msgstr "Ruby"
+
+#. Header for entity mvz2:sapphire
+#: Entity meta file
+msgctxt "entity.name"
+msgid "蓝宝石"
+msgstr "Sapphire"
 
 #. Header for entity mvz2:diamond
 #: Entity meta file
